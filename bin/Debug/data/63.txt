@@ -1,0 +1,44 @@
+Kế toán	A00	2019: 14.5	2018: 13.5
+Kế toán	A01	2019: 14.5	2018: 13.5
+Kế toán	B00	2019: 14.5	2018: 13.5
+Kế toán	D01	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	A00	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	A01	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	B00	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	D01	2019: 14.5	2018: 13.5
+Công nghệ thông tin	A00	2019: 14.5	2018: 14
+Công nghệ thông tin	A01	2019: 14.5	2018: 14
+Công nghệ thông tin	B00	2019: 14.5	2018: 14
+Công nghệ thông tin	D01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	B00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 14.5	2018: 14
+Quản trị nhân lực	A00	2019: 14.5	2018: 13.5
+Quản trị nhân lực	A01	2019: 14.5	2018: 13.5
+Quản trị nhân lực	B00	2019: 14.5	2018: 13.5
+Quản trị nhân lực	D01	2019: 14.5	2018: 13.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 14.5	2018: 13.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 14.5	2018: 13.5
+Công nghệ kỹ thuật cơ khí	B00	2019: 14.5	2018: 13.5
+Công nghệ kỹ thuật cơ khí	D01	2019: 14.5	2018: 13.5
+Công nghệ chế tạo máy	A00	2019: 14.5	2018: 13.5
+Công nghệ chế tạo máy	A01	2019: 14.5	2018: 13.5
+Công nghệ chế tạo máy	B00	2019: 14.5	2018: 13.5
+Công nghệ chế tạo máy	D01	2019: 14.5	2018: 13.5
+Công nghệ kỹ thuật ô tô	A00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật ô tô	A01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật ô tô	B00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật ô tô	D01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện, điện tử	B00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	B00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điều khiển và tự động hóa	B00	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 14.5	2018: 14

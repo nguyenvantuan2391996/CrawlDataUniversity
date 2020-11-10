@@ -1,0 +1,32 @@
+Kế toán	A00	2018: 15.5	2017: 15.5
+Kế toán	A01	2018: 15.5	2017: 15.5
+Kế toán	C04	2018: 15.5	2017: 15.5
+Kế toán	D01	2018: 15.5	2017: 15.5
+Kiểm toán	A00	2018: 15.5	2017: 15.5
+Kiểm toán	A01	2018: 15.5	2017: 15.5
+Kiểm toán	C04	2018: 15.5	2017: 15.5
+Kiểm toán	D01	2018: 15.5	2017: 15.5
+Tài chính – Ngân hàng	A00	2018: 15.5	2017: 15.5
+Tài chính – Ngân hàng	A01	2018: 15.5	2017: 15.5
+Tài chính – Ngân hàng	C04	2018: 15.5	2017: 15.5
+Tài chính – Ngân hàng	D01	2018: 15.5	2017: 15.5
+Quản trị kinh doanh	A00	2018: 15.5	2017: 15.5
+Quản trị kinh doanh	A01	2018: 15.5	2017: 15.5
+Quản trị kinh doanh	C04	2018: 15.5	2017: 15.5
+Quản trị kinh doanh	D01	2018: 15.5	2017: 15.5
+Kinh doanh thương mại	A00	2018: 15.5	2017: 15.5
+Kinh doanh thương mại	A01	2018: 15.5	2017: 15.5
+Kinh doanh thương mại	C04	2018: 15.5	2017: 15.5
+Kinh doanh thương mại	D01	2018: 15.5	2017: 15.5
+Ngôn ngữ Anh	A00	2018: 15.5	2017: 15.5
+Ngôn ngữ Anh	A01	2018: 15.5	2017: 15.5
+Ngôn ngữ Anh	C04	2018: 15.5	2017: 15.5
+Ngôn ngữ Anh	D01	2018: 15.5	2017: 15.5
+Công nghệ thông tin	A00	2018: 15.5	2017: 15.5
+Công nghệ thông tin	A01	2018: 15.5	2017: 15.5
+Công nghệ thông tin	C04	2018: 15.5	2017: 15.5
+Công nghệ thông tin	D01	2018: 15.5	2017: 15.5
+Luật kinh tế	A00	2018: 15.5	2017: 15.5
+Luật kinh tế	A01	2018: 15.5	2017: 15.5
+Luật kinh tế	C04	2018: 15.5	2017: 15.5
+Luật kinh tế	D01	2018: 15.5	2017: 15.5

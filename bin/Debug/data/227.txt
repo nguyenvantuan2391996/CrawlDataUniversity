@@ -1,0 +1,8 @@
+Huấn luyện thể thao	T00	2019: 23
+Huấn luyện thể thao	T02	2019: 23
+Huấn luyện thể thao	T03	2019: 23
+Huấn luyện thể thao	T04	2019: 23
+Quản lý thể dục thể thao	T00	2019: 20
+Quản lý thể dục thể thao	T02	2019: 20
+Quản lý thể dục thể thao	T03	2019: 20
+Quản lý thể dục thể thao	T04	2019: 20

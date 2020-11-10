@@ -1,0 +1,28 @@
+Kỹ thuật Xây dựng	A00	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Xây dựng	A01	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Xây dựng	B00	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Xây dựng	D01	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật xây dựng Công trình giao thông	A00	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật xây dựng Công trình giao thông	A01	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật xây dựng Công trình giao thông	B00	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật xây dựng Công trình giao thông	D01	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Cấp thoát nước	A00	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Cấp thoát nước	A01	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Cấp thoát nước	B00	2019: 13	2018: 14	2017: 15.5
+Kỹ thuật Cấp thoát nước	D01	2019: 13	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	V00	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	V01	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	V02	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	V03	2018: 14	2017: 15.5
+Kỹ thuật Xây dựng	A00	2019: 18
+Kỹ thuật Xây dựng	A01	2019: 18
+Kỹ thuật Xây dựng	B00	2019: 18
+Kỹ thuật Xây dựng	D01	2019: 18
+Kỹ thuật xây dựng Công trình giao thông	A00	2019: 18
+Kỹ thuật xây dựng Công trình giao thông	A01	2019: 18
+Kỹ thuật xây dựng Công trình giao thông	B00	2019: 18
+Kỹ thuật xây dựng Công trình giao thông	D01	2019: 18
+Kỹ thuật Cấp thoát nước	A00	2019: 18
+Kỹ thuật Cấp thoát nước	A01	2019: 18
+Kỹ thuật Cấp thoát nước	B00	2019: 18
+Kỹ thuật Cấp thoát nước	D01	2019: 18

@@ -1,0 +1,199 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D02	2019: 14	2018: 14	2017: 15.5
+Kế toán	D03	2019: 14
+Kế toán	D04	2019: 14
+Kế toán	D05	2019: 14
+Kế toán	D06	2019: 14
+Kế toán	D26	2019: 14
+Kế toán	D27	2019: 14
+Kế toán	D28	2019: 14
+Kế toán	D29	2019: 14
+Kế toán	D30	2019: 14
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Kế toán	D02	2019: 18
+Kế toán	D03	2019: 18
+Kế toán	D04	2019: 18
+Kế toán	D05	2019: 18
+Kế toán	D06	2019: 18
+Kế toán	D26	2019: 18
+Kế toán	D27	2019: 18
+Kế toán	D28	2019: 18
+Kế toán	D29	2019: 18
+Kế toán	D30	2019: 18
+Tài chính Ngân hàng	A00	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D02	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D03	2019: 14
+Tài chính Ngân hàng	D04	2019: 14
+Tài chính Ngân hàng	D05	2019: 14
+Tài chính Ngân hàng	D06	2019: 14
+Tài chính Ngân hàng	D26	2019: 14
+Tài chính Ngân hàng	D27	2019: 14
+Tài chính Ngân hàng	D28	2019: 14
+Tài chính Ngân hàng	D29	2019: 14
+Tài chính Ngân hàng	D30	2019: 14
+Tài chính Ngân hàng	A00	2019: 18
+Tài chính Ngân hàng	A01	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Tài chính Ngân hàng	D02	2019: 18
+Tài chính Ngân hàng	D03	2019: 18
+Tài chính Ngân hàng	D04	2019: 18
+Tài chính Ngân hàng	D05	2019: 18
+Tài chính Ngân hàng	D06	2019: 18
+Tài chính Ngân hàng	D26	2019: 18
+Tài chính Ngân hàng	D27	2019: 18
+Tài chính Ngân hàng	D28	2019: 18
+Tài chính Ngân hàng	D29	2019: 18
+Tài chính Ngân hàng	D30	2019: 18
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D02	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D03	2019: 14
+Quản trị kinh doanh	D04	2019: 14
+Quản trị kinh doanh	D05	2019: 14
+Quản trị kinh doanh	D06	2019: 14
+Quản trị kinh doanh	D26	2019: 14
+Quản trị kinh doanh	D27	2019: 14
+Quản trị kinh doanh	D28	2019: 14
+Quản trị kinh doanh	D29	2019: 14
+Quản trị kinh doanh	D30	2019: 14
+Kinh tế xây dựng	A00	2019: 14	2018: 14	2017: 15.5
+Kinh tế xây dựng	A01	2019: 14	2018: 14	2017: 15.5
+Kinh tế xây dựng	D01	2019: 14	2018: 14	2017: 15.5
+Kinh tế xây dựng	D02	2019: 14	2018: 14	2017: 15.5
+Kinh tế xây dựng	D03	2019: 14
+Kinh tế xây dựng	D04	2019: 14
+Kinh tế xây dựng	D05	2019: 14
+Kinh tế xây dựng	D06	2019: 14
+Kinh tế xây dựng	D10	2019: 14
+Kinh tế xây dựng	D16	2019: 14
+Kinh tế xây dựng	D17	2019: 14
+Kinh tế xây dựng	D18	2019: 14
+Kinh tế xây dựng	D19	2019: 14
+Kinh tế xây dựng	D20	2019: 14
+Kinh tế xây dựng	D26	2019: 14
+Kinh tế xây dựng	D27	2019: 14
+Kinh tế xây dựng	D28	2019: 14
+Kinh tế xây dựng	D29	2019: 14
+Kinh tế xây dựng	D30	2019: 14
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Quản trị kinh doanh	D02	2019: 18
+Quản trị kinh doanh	D03	2019: 18
+Quản trị kinh doanh	D04	2019: 18
+Quản trị kinh doanh	D05	2019: 18
+Quản trị kinh doanh	D06	2019: 18
+Quản trị kinh doanh	D26	2019: 18
+Quản trị kinh doanh	D27	2019: 18
+Quản trị kinh doanh	D28	2019: 18
+Quản trị kinh doanh	D29	2019: 18
+Quản trị kinh doanh	D30	2019: 18
+Kinh tế xây dựng	A00	2019: 18
+Kinh tế xây dựng	A01	2019: 18
+Kinh tế xây dựng	D01	2019: 18
+Kinh tế xây dựng	D02	2019: 18
+Kinh tế xây dựng	D03	2019: 18
+Kinh tế xây dựng	D04	2019: 18
+Kinh tế xây dựng	D05	2019: 18
+Kinh tế xây dựng	D06	2019: 18
+Kinh tế xây dựng	D10	2019: 18
+Kinh tế xây dựng	D16	2019: 18
+Kinh tế xây dựng	D17	2019: 18
+Kinh tế xây dựng	D18	2019: 18
+Kinh tế xây dựng	D19	2019: 18
+Kinh tế xây dựng	D20	2019: 18
+Kinh tế xây dựng	D26	2019: 18
+Kinh tế xây dựng	D27	2019: 18
+Kinh tế xây dựng	D28	2019: 18
+Kinh tế xây dựng	D29	2019: 18
+Kinh tế xây dựng	D30	2019: 18
+Ngôn ngữ Anh	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D02	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D03	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D04	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D05	2019: 14
+Ngôn ngữ Anh	D06	2019: 14
+Ngôn ngữ Trung Quốc	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D02	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D03	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D04	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D05	2019: 14
+Ngôn ngữ Trung Quốc	D06	2019: 14
+Ngôn ngữ Nhật	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Nhật	D02	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Nhật	D03	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Nhật	D04	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Nhật	D05	2019: 14
+Ngôn ngữ Nhật	D06	2019: 14
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D02	2019: 18
+Ngôn ngữ Anh	D03	2019: 18
+Ngôn ngữ Anh	D04	2019: 18
+Ngôn ngữ Anh	D05	2019: 18
+Ngôn ngữ Anh	D06	2019: 18
+Ngôn ngữ Trung Quốc	D01	2019: 18
+Ngôn ngữ Trung Quốc	D02	2019: 18
+Ngôn ngữ Trung Quốc	D03	2019: 18
+Ngôn ngữ Trung Quốc	D04	2019: 18
+Ngôn ngữ Trung Quốc	D05	2019: 18
+Ngôn ngữ Trung Quốc	D06	2019: 18
+Ngôn ngữ Nhật	D01	2019: 18
+Ngôn ngữ Nhật	D02	2019: 18
+Ngôn ngữ Nhật	D03	2019: 18
+Ngôn ngữ Nhật	D04	2019: 18
+Ngôn ngữ Nhật	D05	2019: 18
+Ngôn ngữ Nhật	D06	2019: 18
+Công nghệ thông tin	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	D02	2019: 14
+Công nghệ thông tin	D03	2019: 14
+Công nghệ thông tin	D04	2019: 14
+Công nghệ thông tin	D05	2019: 14
+Công nghệ thông tin	D06	2019: 14
+Công nghệ thông tin	D25	2019: 14
+Công nghệ thông tin	D27	2019: 14
+Công nghệ thông tin	D28	2019: 14
+Công nghệ thông tin	D29	2019: 14
+Công nghệ thông tin	D30	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C02	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D02	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D03	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D04	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D05	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D06	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D25	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D27	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D28	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D29	2019: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D30	2019: 14
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	C01	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Công nghệ thông tin	D02	2019: 18
+Công nghệ thông tin	D03	2019: 18
+Công nghệ thông tin	D04	2019: 18
+Công nghệ thông tin	D05	2019: 18
+Công nghệ thông tin	D06	2019: 18
+Công nghệ thông tin	D25	2019: 18
+Công nghệ thông tin	D27	2019: 18
+Công nghệ thông tin	D28	2019: 18
+Công nghệ thông tin	D29	2019: 18
+Công nghệ thông tin	D30	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	C02	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D02	2019: 18

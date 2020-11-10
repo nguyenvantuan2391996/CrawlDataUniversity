@@ -1,0 +1,19 @@
+Kế toán	A00	2019: 15	2018: 15	2017: 16.5
+Kế toán	A01	2019: 15	2018: 15	2017: 16.5
+Kế toán	D01	2019: 15	2018: 15	2017: 16.5
+Quản trị kinh doanh	A00	2019: 16	2018: 15	2017: 17
+Quản trị kinh doanh	A01	2019: 16	2018: 15	2017: 17
+Quản trị kinh doanh	D01	2019: 16	2018: 15	2017: 17
+Ngôn ngữ Anh	A01	2019: 16	2018: 16	2017: 18
+Ngôn ngữ Anh	D01	2019: 16	2018: 16	2017: 18
+Sư phạm Tiếng Anh	A01	2019: 18	2018: 17.25	2017: 19
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 17.25	2017: 19
+Sư phạm Tiếng Anh	A01	2019: 16	2018: 15	2017: 10
+Sư phạm Tiếng Anh	D01	2019: 16	2018: 15	2017: 10
+Quản lý đất đai	A00	2019: 20.8
+Quản lý đất đai	A01	2019: 20.8
+Quản lý đất đai	B00	2019: 20.8
+Khoa học môi trường	A00	2019: 15
+Khoa học môi trường	A02	2019: 15
+Khoa học môi trường	B00	2019: 15
+Khoa học môi trường	D07	2019: 15

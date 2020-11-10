@@ -1,0 +1,35 @@
+Kế toán	A07	2018: 13
+Kế toán	B02	2018: 13
+Kế toán	B04	2018: 13
+Kế toán	D01	2018: 13	2017: 15.5
+Tài chính – Ngân hàng	A03	2018: 13
+Tài chính – Ngân hàng	A04	2018: 13
+Tài chính – Ngân hàng	A07	2018: 13
+Tài chính – Ngân hàng	D01	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	A09	2018: 13
+Kinh tế nông nghiệp	B02	2018: 13
+Kinh tế nông nghiệp	C19	2018: 13
+Kinh tế nông nghiệp	D01	2018: 13	2017: 15.5
+Quản trị kinh doanh	A07	2018: 13	2017: 15.5
+Quản trị kinh doanh	A08	2018: 13	2017: 15.5
+Quản trị kinh doanh	A09	2018: 13	2017: 15.5
+Quản trị kinh doanh	D01	2018: 13
+Kinh tế	A07	2018: 13
+Kinh tế	C20	2018: 13
+Kinh tế	D01	2018: 13	2017: 15.5
+Kinh tế	D84	2018: 13
+Ngôn ngữ Anh	D01	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D15	2018: 13
+Ngôn ngữ Anh	D66	2018: 13
+Ngôn ngữ Anh	D84	2018: 13
+Ngôn ngữ Anh	D11	2017: 15.5
+Ngôn ngữ Anh	D78	2017: 15.5
+Ngôn ngữ Anh	D96	2017: 15.5
+Công nghệ thông tin	A04	2018: 13
+Công nghệ thông tin	A10	2018: 13
+Công nghệ thông tin	B02	2018: 13
+Công nghệ thông tin	D01	2018: 13	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A04	2018: 13
+Công nghệ kỹ thuật xây dựng	B02	2018: 13
+Công nghệ kỹ thuật xây dựng	B04	2018: 13
+Công nghệ kỹ thuật xây dựng	D01	2018: 13

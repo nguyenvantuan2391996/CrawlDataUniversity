@@ -1,0 +1,199 @@
+Kế toán	A00	2019: 16.5	2018: 15.5	2017: 18.5
+Kế toán	A01	2019: 16.5	2018: 15.5	2017: 18.5
+Kế toán	A16	2019: 16.5	2018: 15.5	2017: 18.5
+Kế toán	D01	2019: 16.5	2018: 15.5	2017: 18.5
+Kế toán	A00	2019: 500
+Kế toán	A01	2019: 500
+Kế toán	A16	2019: 500
+Kế toán	D01	2019: 500
+Kế toán	A00	2019: 19
+Kế toán	A01	2019: 19
+Kế toán	A16	2019: 19
+Kế toán	D01	2019: 19
+Tài chính Ngân hàng	A00	2019: 16	2018: 14.5	2017: 17
+Tài chính Ngân hàng	A01	2019: 16	2018: 14.5	2017: 17
+Tài chính Ngân hàng	A16	2019: 16	2018: 14.5	2017: 17
+Tài chính Ngân hàng	D01	2019: 16	2018: 14.5	2017: 17
+Tài chính Ngân hàng	A00	2019: 500
+Tài chính Ngân hàng	A01	2019: 500
+Tài chính Ngân hàng	A16	2019: 500
+Tài chính Ngân hàng	D01	2019: 500
+Tài chính Ngân hàng	A00	2019: 18
+Tài chính Ngân hàng	A01	2019: 18
+Tài chính Ngân hàng	A16	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 16.5	2018: 16	2017: 19.25
+Quản trị kinh doanh	A01	2019: 16.5	2018: 16	2017: 19.25
+Quản trị kinh doanh	A16	2019: 16.5	2018: 16	2017: 19.25
+Quản trị kinh doanh	D01	2019: 16.5	2018: 16	2017: 19.25
+Quản lý công nghiệp	A00	2019: 14	2018: 14	2017: 15.5
+Quản lý công nghiệp	A01	2019: 14	2018: 14	2017: 15.5
+Quản lý công nghiệp	A16	2019: 14	2018: 14	2017: 15.5
+Quản lý công nghiệp	C01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 500
+Quản trị kinh doanh	A01	2019: 500
+Quản trị kinh doanh	A16	2019: 500
+Quản trị kinh doanh	D01	2019: 500
+Quản lý công nghiệp	A00	2019: 500
+Quản lý công nghiệp	A01	2019: 500
+Quản lý công nghiệp	A16	2019: 500
+Quản lý công nghiệp	C01	2019: 500
+Quản trị kinh doanh	A00	2019: 22
+Quản trị kinh doanh	A01	2019: 22
+Quản trị kinh doanh	A16	2019: 22
+Quản trị kinh doanh	D01	2019: 22
+Quản lý công nghiệp	A00	2019: 18
+Quản lý công nghiệp	A01	2019: 18
+Quản lý công nghiệp	A16	2019: 18
+Quản lý công nghiệp	C01	2019: 18
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 14.5
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 14.5
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 14.5
+Logistics và Quản lý chuỗi cung ứng	D90	2019: 14.5
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 500
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 500
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 500
+Logistics và Quản lý chuỗi cung ứng	D90	2019: 500
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 18
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 18
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 18
+Logistics và Quản lý chuỗi cung ứng	D90	2019: 18
+Ngôn ngữ Anh	A01	2019: 16	2018: 17	2017: 19.5
+Ngôn ngữ Anh	D01	2019: 16	2018: 17	2017: 19.5
+Ngôn ngữ Anh	D15	2019: 16	2018: 17	2017: 19.5
+Ngôn ngữ Anh	D78	2019: 16	2018: 17	2017: 19.5
+Ngôn ngữ Trung Quốc	A01	2019: 16	2018: 16	2017: 16.75
+Ngôn ngữ Trung Quốc	D01	2019: 16	2018: 16	2017: 16.75
+Ngôn ngữ Trung Quốc	D04	2019: 16	2018: 16	2017: 16.75
+Ngôn ngữ Trung Quốc	D78	2019: 16	2018: 16	2017: 16.75
+Ngôn ngữ Anh	A01	2019: 500
+Ngôn ngữ Anh	D01	2019: 500
+Ngôn ngữ Anh	D15	2019: 500
+Ngôn ngữ Anh	D78	2019: 500
+Ngôn ngữ Trung Quốc	A01	2019: 500
+Ngôn ngữ Trung Quốc	D01	2019: 500
+Ngôn ngữ Trung Quốc	D04	2019: 500
+Ngôn ngữ Trung Quốc	D78	2019: 500
+Ngôn ngữ Anh	A01	2019: 19
+Ngôn ngữ Anh	D01	2019: 19
+Ngôn ngữ Anh	D15	2019: 19
+Ngôn ngữ Anh	D78	2019: 19
+Ngôn ngữ Trung Quốc	A01	2019: 18
+Ngôn ngữ Trung Quốc	D01	2019: 18
+Ngôn ngữ Trung Quốc	D04	2019: 18
+Ngôn ngữ Trung Quốc	D78	2019: 18
+Kỹ thuật phần mềm	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	C01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	D90	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	A00	2019: 500
+Kỹ thuật phần mềm	A01	2019: 500
+Kỹ thuật phần mềm	C01	2019: 500
+Kỹ thuật phần mềm	D90	2019: 500
+Kỹ thuật phần mềm	A00	2019: 18
+Kỹ thuật phần mềm	A01	2019: 18
+Kỹ thuật phần mềm	C01	2019: 18
+Kỹ thuật phần mềm	D90	2019: 18
+Thiết kế đồ họa	A00	2019: 14
+Thiết kế đồ họa	A16	2019: 14
+Thiết kế đồ họa	V00	2019: 14
+Thiết kế đồ họa	V01	2019: 14
+Kỹ thuật phần mềm	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	C01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	D90	2019: 14	2018: 14	2017: 15.5
+Thiết kế đồ họa	A00	2019: 500
+Thiết kế đồ họa	A16	2019: 500
+Thiết kế đồ họa	V00	2019: 500
+Thiết kế đồ họa	V01	2019: 500
+Kỹ thuật phần mềm	A00	2019: 500
+Kỹ thuật phần mềm	A01	2019: 500
+Kỹ thuật phần mềm	C01	2019: 500
+Kỹ thuật phần mềm	D90	2019: 500
+Thiết kế đồ họa	A00	2019: 19
+Thiết kế đồ họa	A16	2019: 19
+Thiết kế đồ họa	V00	2019: 19
+Thiết kế đồ họa	V01	2019: 19
+Kỹ thuật phần mềm	A00	2019: 18
+Kỹ thuật phần mềm	A01	2019: 18
+Kỹ thuật phần mềm	C01	2019: 18
+Kỹ thuật phần mềm	D90	2019: 18
+Luật	A16	2019: 16.5	2018: 16.5	2017: 20.25
+Luật	C00	2019: 16.5	2018: 16.5	2017: 20.25
+Luật	C14	2019: 16.5	2018: 16.5	2017: 20.25
+Luật	D01	2019: 16.5	2018: 16.5	2017: 20.25
+Luật	A16	2019: 500
+Luật	C00	2019: 500
+Luật	C14	2019: 500
+Luật	D01	2019: 500
+Luật	A16	2019: 19
+Luật	C00	2019: 19
+Luật	C14	2019: 19
+Luật	D01	2019: 19
+Quy hoạch vùng và đô thị	A00	2019: 14.75	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	A16	2019: 14.75	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	V00	2019: 14.75	2018: 14	2017: 15.5
+Quy hoạch vùng và đô thị	V01	2019: 14.75	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 14	2018: 14
+Kỹ thuật xây dựng	A01	2019: 14	2018: 14
+Kỹ thuật xây dựng	C01	2019: 14	2018: 14
+Kỹ thuật xây dựng	D90	2019: 14	2018: 14
+Quy hoạch vùng và đô thị	A00	2019: 500
+Quy hoạch vùng và đô thị	A16	2019: 500
+Quy hoạch vùng và đô thị	V00	2019: 500
+Quy hoạch vùng và đô thị	V01	2019: 500
+Kỹ thuật xây dựng	A00	2019: 500
+Kỹ thuật xây dựng	A01	2019: 500
+Kỹ thuật xây dựng	C01	2019: 500
+Kỹ thuật xây dựng	D90	2019: 500
+Quy hoạch vùng và đô thị	A00	2019: 18
+Quy hoạch vùng và đô thị	A16	2019: 18
+Quy hoạch vùng và đô thị	V00	2019: 18
+Quy hoạch vùng và đô thị	V01	2019: 18
+Kỹ thuật xây dựng	A00	2019: 18
+Kỹ thuật xây dựng	A01	2019: 18
+Kỹ thuật xây dựng	C01	2019: 18
+Kỹ thuật xây dựng	D90	2019: 18
+Công tác xã hội	C00	2019: 14	2018: 15	2017: 18
+Công tác xã hội	C14	2019: 14	2018: 15	2017: 18
+Công tác xã hội	D14	2019: 14	2018: 15	2017: 18
+Công tác xã hội	D78	2019: 14	2018: 15	2017: 18
+Công tác xã hội	C00	2019: 500
+Công tác xã hội	C14	2019: 500
+Công tác xã hội	D14	2019: 500
+Công tác xã hội	D78	2019: 500
+Công tác xã hội	C00	2019: 18
+Công tác xã hội	C14	2019: 18
+Công tác xã hội	D14	2019: 18
+Công tác xã hội	D78	2019: 18
+Quản lý nhà nước	A16	2019: 15	2018: 15	2017: 19
+Quản lý nhà nước	C00	2019: 15	2018: 15	2017: 19
+Quản lý nhà nước	C14	2019: 15	2018: 15	2017: 19
+Quản lý nhà nước	D01	2019: 15	2018: 15	2017: 19
+Quản lý nhà nước	A16	2019: 500
+Quản lý nhà nước	C00	2019: 500
+Quản lý nhà nước	C14	2019: 500
+Quản lý nhà nước	D01	2019: 500
+Quản lý nhà nước	A16	2019: 18
+Quản lý nhà nước	C00	2019: 18
+Quản lý nhà nước	C14	2019: 18
+Quản lý nhà nước	D01	2019: 18
+Tâm lý học	B00	2019: 14
+Tâm lý học	C00	2019: 14
+Tâm lý học	D01	2019: 14
+Tâm lý học	D14	2019: 14
+Tâm lý học	B00	2019: 500
+Tâm lý học	C00	2019: 500
+Tâm lý học	D01	2019: 500
+Tâm lý học	D14	2019: 500
+Tâm lý học	B00	2019: 18
+Tâm lý học	C00	2019: 18
+Tâm lý học	D01	2019: 18
+Tâm lý học	D14	2019: 18
+Giáo dục học	C00	2019: 14	2018: 14	2017: 19.5
+Giáo dục học	C14	2019: 14	2018: 14	2017: 19.5
+Giáo dục học	C15	2019: 14	2018: 14	2017: 19.5
+Giáo dục học	D01	2019: 14	2018: 14	2017: 19.5
+Giáo dục học	C00	2019: 500
+Giáo dục học	C14	2019: 500
+Giáo dục học	C15	2019: 500

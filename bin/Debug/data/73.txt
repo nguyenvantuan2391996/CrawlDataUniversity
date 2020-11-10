@@ -1,0 +1,29 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	C03	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	C03	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	C03	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	C01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	C01	2019: 14	2018: 14	2017: 15.5
+Quản trị văn phòng	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị văn phòng	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị văn phòng	C03	2019: 14	2018: 14	2017: 15.5
+Quản trị văn phòng	D01	2019: 14	2018: 14	2017: 15.5
+Dược học	A00	2019: 20
+Dược học	A02	2019: 20
+Dược học	B00	2019: 20
+Dược học	D07	2019: 20
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 14	2018: 14	2017: 15.5

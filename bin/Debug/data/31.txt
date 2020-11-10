@@ -1,0 +1,103 @@
+Kế toán	A00	2019: 18	2018: 17	2017: 19.25
+Kế toán	A01	2019: 18	2018: 17	2017: 19.25
+Kế toán	D01	2019: 18	2018: 17	2017: 19.25
+Kế toán	D10	2019: 18	2018: 17	2017: 19.25
+Tài chính ngân hàng	A00	2019: 18	2018: 17
+Tài chính ngân hàng	A01	2019: 18	2018: 17	2017: 18.75
+Tài chính ngân hàng	D01	2019: 18	2018: 17	2017: 18.75
+Tài chính ngân hàng	D10	2019: 18	2018: 17	2017: 18.75
+Quản trị kinh doanh	A00	2019: 19	2018: 17
+Quản trị kinh doanh	A01	2019: 19	2018: 17	2017: 20
+Quản trị kinh doanh	D01	2019: 19	2018: 17	2017: 20
+Quản trị kinh doanh	D10	2019: 19	2018: 17	2017: 20
+Kinh doanh quốc tế	A00	2019: 18
+Kinh doanh quốc tế	A01	2019: 18
+Kinh doanh quốc tế	D01	2019: 18
+Kinh doanh quốc tế	D10	2019: 18
+Ngôn ngữ Anh	A01	2019: 19.75	2018: 18	2017: 18.5
+Ngôn ngữ Anh	D01	2019: 19.75	2018: 18	2017: 18.5
+Ngôn ngữ Anh	D09	2019: 19.75	2017: 18.5
+Ngôn ngữ Anh	D10	2019: 19.75	2018: 18	2017: 18.5
+Ngôn ngữ Anh	D90	2018: 18
+Công nghệ thông tin	A00	2019: 16.5	2018: 16.5	2017: 19.5
+Công nghệ thông tin	A01	2019: 16.5	2018: 16.5	2017: 19.5
+Công nghệ thông tin	D01	2019: 16.5	2017: 19.5
+Công nghệ thông tin	D07	2019: 16.5	2018: 16.5	2017: 19.5
+Công nghệ Thông tin	B00	2018: 16.5
+An toàn thông tin	A00	2019: 15.05	2018: 16	2017: 16
+An toàn thông tin	A01	2019: 15.05	2018: 16	2017: 16
+An toàn thông tin	D01	2019: 15.05	2018: 16	2017: 16
+An toàn thông tin	D07	2019: 15.05	2018: 16	2017: 16
+Luật kinh tế	A00	2019: 17.05
+Luật kinh tế	A01	2019: 17.05
+Luật kinh tế	D01	2019: 17.05
+Luật kinh tế	D10	2019: 17.05
+Quản trị nhà hàng và dịch vụ ăn uống	A00	2019: 20	2018: 17	2017: 19.25
+Quản trị nhà hàng và dịch vụ ăn uống	A01	2019: 20	2018: 17	2017: 19.25
+Quản trị nhà hàng và dịch vụ ăn uống	D01	2019: 20	2018: 17	2017: 19.25
+Quản trị nhà hàng và dịch vụ ăn uống	D10	2019: 20	2018: 17	2017: 19.25
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18	2018: 17	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18	2018: 17	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	D10	2019: 18	2017: 19.75
+Quản trị Dịch vụ Du lịch và Lữ hành	B00	2018: 17
+Quản trị Dịch vụ Du lịch và Lữ hành	D07	2018: 17
+Công nghệ kỹ thuật môi trường	A00	2019: 16.05	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A01	2019: 16.05	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	D07	2019: 16.05	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	B00	2019: 16.05	2018: 15	2017: 17
+Quản lý tài nguyên và môi trường	A00	2019: 16	2018: 15	2017: 16
+Quản lý tài nguyên và môi trường	A01	2019: 16	2018: 15	2017: 16
+Quản lý tài nguyên và môi trường	D07	2019: 16	2018: 15	2017: 16
+Quản lý tài nguyên và môi trường	B00	2019: 16	2018: 15	2017: 16
+Khoa học thủy sản	A00	2019: 15.6
+Khoa học thủy sản	A01	2019: 15.6
+Khoa học thủy sản	D07	2019: 15.6
+Khoa học thủy sản	B00	2019: 15.6
+Công nghệ chế biến thủy sản	A00	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế biến thủy sản	A01	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế biến thủy sản	D07	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế biến thủy sản	B00	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế tạo máy	A00	2019: 16	2018: 16	2017: 17.5
+Công nghệ chế tạo máy	A01	2019: 16	2018: 16	2017: 17.5
+Công nghệ chế tạo máy	D01	2019: 16	2018: 16	2017: 17.5
+Công nghệ chế tạo máy	D07	2019: 16	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật điện - điện tử	A00	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật điện - điện tử	A01	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật điện - điện tử	D01	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật điện - điện tử	D07	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 16	2018: 16	2017: 18.5
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 16	2018: 16	2017: 18.5
+Công nghệ chế biến thủy sản	A00	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế biến thủy sản	A01	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế biến thủy sản	D07	2019: 15	2018: 15	2017: 18.25
+Công nghệ chế biến thủy sản	B00	2019: 15	2018: 15	2017: 18.25
+Công nghệ kỹ thuật hóa học	A00	2019: 16.1	2018: 16	2017: 17.5
+Công nghệ kỹ thuật hóa học	A01	2019: 16.1	2018: 16	2017: 17.5
+Công nghệ kỹ thuật hóa học	D07	2019: 16.1	2018: 16	2017: 17.5
+Công nghệ kỹ thuật hóa học	B00	2019: 16.1	2018: 16
+Công nghệ kỹ thuật hoá học	D01	2017: 17.5
+Công nghệ sinh học	A00	2019: 16.05	2018: 16.5	2017: 20.5
+Công nghệ sinh học	A01	2019: 16.05	2018: 16.5	2017: 20.5
+Công nghệ sinh học	D07	2019: 16.05	2018: 16.5	2017: 20.5
+Công nghệ sinh học	B00	2019: 16.05	2018: 16.5
+Công nghệ sinh học	D01	2017: 20.5
+Công nghệ kỹ thuật môi trường	A00	2019: 16.05	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A01	2019: 16.05	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	D07	2019: 16.05	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	B00	2019: 16.05	2018: 15	2017: 17
+Công nghệ dệt, may	A00	2019: 16.5	2018: 16.75	2017: 20
+Công nghệ dệt, may	A01	2019: 16.5	2018: 16.75	2017: 20
+Công nghệ dệt, may	D01	2019: 16.5	2018: 16.75	2017: 20
+Công nghệ dệt, may	D07	2019: 16.5	2018: 16.75
+Công nghệ dệt, may	D7	2017: 20
+Công nghệ vật liệu	A00	2019: 15.1	2018: 15	2017: 16.25
+Công nghệ vật liệu	A01	2019: 15.1	2018: 15	2017: 16.25
+Công nghệ vật liệu	D07	2019: 15.1	2018: 15	2017: 16.25
+Công nghệ vật liệu	B00	2019: 15.1	2018: 15	2017: 16.25

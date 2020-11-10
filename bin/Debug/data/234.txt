@@ -1,0 +1,8 @@
+Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử)	C00	2019: 22	2018: 20.25
+Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử)	C15	2019: 22
+Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử)	D01	2019: 22	2018: 20.25
+Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử)	D78	2019: 22	2018: 20.25
+Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên)	A00	2019: 19.5	2018: 18
+Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên)	A16	2019: 19.5	2018: 18
+Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên)	B00	2019: 19.5	2018: 18
+Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên)	D90	2019: 19.5	2018: 18

@@ -1,0 +1,48 @@
+Kế toán	A00	2019: 14	2017: 15.5
+Kế toán	A01	2019: 14	2017: 15.5
+Kế toán	B00	2019: 14	2017: 15.5
+Kế toán	D01	2019: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 22	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 22	2017: 15.5
+Tài chính Ngân hàng	B00	2019: 22	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 22	2017: 15.5
+Quản trị kinh doanh	A00	2019: 13.5	2017: 15.5
+Quản trị kinh doanh	A01	2019: 13.5	2017: 15.5
+Quản trị kinh doanh	B00	2019: 13.5	2017: 15.5
+Quản trị kinh doanh	D01	2019: 13.5	2017: 15.5
+Ngôn ngữ Anh	A01	2019: 14.5	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 14.5	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 14.5	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 14.5	2017: 15.5
+Ngôn ngữ Trung Quốc	A01	2019: 13.75	2017: 15.5
+Ngôn ngữ Trung Quốc	C00	2019: 13.75	2017: 15.5
+Ngôn ngữ Trung Quốc	D01	2019: 13.75	2017: 15.5
+Ngôn ngữ Trung Quốc	D15	2019: 13.75	2017: 15.5
+Công nghệ thông tin	A00	2019: 13.5	2017: 15.5
+Công nghệ thông tin	A01	2019: 13.5	2017: 15.5
+Công nghệ thông tin	B00	2019: 13.5	2017: 15.5
+Công nghệ thông tin	D01	2019: 13.5	2017: 15.5
+Thiết kế đồ họa	A00	2019: 22.5
+Thiết kế đồ họa	A01	2019: 22.5
+Thiết kế đồ họa	D01	2019: 22.5
+Thiết kế đồ họa	D96	2019: 22.5
+Việt Nam học	B00	2019: 13.5	2017: 15.5
+Việt Nam học	C00	2019: 13.5	2017: 15.5
+Việt Nam học	D01	2019: 13.5	2017: 15.5
+Việt Nam học	D15	2019: 13.5	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 13.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 13.5
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 13.5
+Việt Nam học	B00	2019: 13.5	2017: 15.5
+Việt Nam học	C00	2019: 13.5	2017: 15.5
+Việt Nam học	D01	2019: 13.5	2017: 15.5
+Việt Nam học	D15	2019: 13.5	2017: 15.5
+Lịch sử	C00	2017: 15.5
+Lịch sử	D01	2017: 15.5
+Lịch sử	D14	2017: 15.5
+Lịch sử	D15	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 22	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 22	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 22	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 22	2017: 15.5

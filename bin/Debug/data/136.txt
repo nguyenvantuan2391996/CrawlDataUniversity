@@ -1,0 +1,168 @@
+Quản trị kinh doanh	A00	2019: 18.75	2018: 16	2017: 19
+Quản trị kinh doanh	A01	2019: 18.75	2018: 16	2017: 19
+Quản trị kinh doanh	B00	2019: 18.75	2018: 16	2017: 19
+Quản trị kinh doanh	D01	2019: 18.75	2018: 16	2017: 19
+Kinh tế tài nguyên thiên nhiên	A00	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	A01	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	B00	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	D01	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	A00	2019: 18
+Kinh tế tài nguyên thiên nhiên	A01	2019: 18
+Kinh tế tài nguyên thiên nhiên	B00	2019: 18
+Kinh tế tài nguyên thiên nhiên	D01	2019: 18
+Công nghệ thông tin	A00	2019: 17.25	2018: 15.5	2017: 18.25
+Công nghệ thông tin	A01	2019: 17.25	2018: 15.5	2017: 18.25
+Công nghệ thông tin	B00	2019: 17.25	2018: 15.5	2017: 18.25
+Công nghệ thông tin	D01	2019: 17.25	2017: 18.25
+Công nghệ thông tin	D05	2018: 15.5
+Kỹ thuật cấp thoát nước	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	A02	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	B00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	A00	2019: 18
+Kỹ thuật cấp thoát nước	A01	2019: 18
+Kỹ thuật cấp thoát nước	A02	2019: 18
+Kỹ thuật cấp thoát nước	B00	2019: 18
+Địa chất học	A00	2019: 14	2018: 15	2017: 15.5
+Địa chất học	A01	2019: 14	2018: 15	2017: 15.5
+Địa chất học	A02	2019: 14	2018: 15	2017: 15.5
+Địa chất học	B00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ		2019: 14
+Kỹ thuật trắc địa - bản đồ	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A02	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	B00	2019: 14	2018: 15	2017: 15.5
+Địa chất học	A00	2019: 18
+Địa chất học	A01	2019: 18
+Địa chất học	A02	2019: 18
+Địa chất học	B00	2019: 18
+Kỹ thuật trắc địa - bản đồ	A00	2019: 18
+Kỹ thuật trắc địa - bản đồ		2019: 18
+Kỹ thuật trắc địa - bản đồ	A01	2019: 18
+Kỹ thuật trắc địa - bản đồ	A02	2019: 18
+Kỹ thuật trắc địa - bản đồ	B00	2019: 18
+Quản lý đất đai	A00	2019: 16.25	2018: 15.5	2017: 18.5
+Quản lý đất đai	A01	2019: 16.25	2018: 15.5	2017: 18.5
+Quản lý đất đai	B00	2019: 16.25	2018: 15.5	2017: 18.5
+Quản lý đất đai	D01	2019: 16.25	2018: 15.5	2017: 18.5
+Quản lý tài nguyên và môi trường	A00	2019: 15	2018: 15	2017: 18.5
+Quản lý tài nguyên và môi trường	A01	2019: 15	2018: 15	2017: 18.5
+Quản lý tài nguyên và môi trường	A02	2019: 15	2018: 15	2017: 18.5
+Quản lý tài nguyên và môi trường	B00	2019: 15	2018: 15	2017: 18.5
+Khí tượng và khí hậu học	A00	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	A01	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	B00	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	D01	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A02	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 15	2017: 17
+Kỹ thuật trắc địa - bản đồ	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ		2019: 14
+Kỹ thuật trắc địa - bản đồ	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A02	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	B00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	A02	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	B00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	A02	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật cấp thoát nước	B00	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	A00	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	A01	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	B00	2019: 14	2018: 15	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	D01	2019: 14	2018: 15	2017: 15.5
+Quản lý tổng hợp tài nguyên nước	A00	2019: 14	2018: 15	2017: 15.5
+Quản lý tổng hợp tài nguyên nước	A01	2019: 14	2018: 15	2017: 15.5
+Quản lý tổng hợp tài nguyên nước	B00	2019: 14	2018: 15	2017: 15.5
+Quản lý tổng hợp tài nguyên nước	D01	2019: 14	2018: 15	2017: 15.5
+Quản lý tài nguyên khoáng sản	A00	2019: 14	2018: 15
+Quản lý tài nguyên khoáng sản	A01	2019: 14	2018: 15
+Quản lý tài nguyên khoáng sản	A02	2019: 14	2018: 15
+Quản lý tài nguyên khoáng sản	B00	2019: 14	2018: 15
+Quản lý tài nguyên và môi trường biển đảo	A00	2019: 14	2018: 15	2017: 15.5
+Quản lý tài nguyên và môi trường biển đảo	A01	2019: 14	2018: 15	2017: 15.5
+Quản lý tài nguyên và môi trường biển đảo	A14	2019: 14	2017: 15.5
+Quản lý tài nguyên và môi trường biển đảo	B00	2019: 14	2018: 15	2017: 15.5
+Quàn lý tài nguyên và môi trường biển đảo	D01	2018: 15
+Khí tượng và khí hậu học	A00	2019: 18
+Khí tượng và khí hậu học	A01	2019: 18
+Khí tượng và khí hậu học	B00	2019: 18
+Khí tượng và khí hậu học	D01	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 18
+Công nghệ kỹ thuật môi trường	A01	2019: 18
+Công nghệ kỹ thuật môi trường	A02	2019: 18
+Công nghệ kỹ thuật môi trường	B00	2019: 18
+Kỹ thuật trắc địa - bản đồ	A00	2019: 18
+Kỹ thuật trắc địa - bản đồ		2019: 18
+Kỹ thuật trắc địa - bản đồ	A01	2019: 18
+Kỹ thuật trắc địa - bản đồ	A02	2019: 18
+Kỹ thuật trắc địa - bản đồ	B00	2019: 18
+Kỹ thuật tài nguyên nước	A00	2019: 18
+Kỹ thuật tài nguyên nước	A01	2019: 18
+Kỹ thuật tài nguyên nước	A02	2019: 18
+Kỹ thuật tài nguyên nước	B00	2019: 18
+Kỹ thuật cấp thoát nước	A00	2019: 18
+Kỹ thuật cấp thoát nước	A01	2019: 18
+Kỹ thuật cấp thoát nước	A02	2019: 18
+Kỹ thuật cấp thoát nước	B00	2019: 18
+Kinh tế tài nguyên thiên nhiên	A00	2019: 18
+Kinh tế tài nguyên thiên nhiên	A01	2019: 18
+Kinh tế tài nguyên thiên nhiên	B00	2019: 18
+Kinh tế tài nguyên thiên nhiên	D01	2019: 18
+Quản lý tổng hợp tài nguyên nước	A00	2019: 18
+Quản lý tổng hợp tài nguyên nước	A01	2019: 18
+Quản lý tổng hợp tài nguyên nước	B00	2019: 18
+Quản lý tổng hợp tài nguyên nước	D01	2019: 18
+Quản lý tài nguyên khoáng sản	A00	2019: 18
+Quản lý tài nguyên khoáng sản	A01	2019: 18
+Quản lý tài nguyên khoáng sản	A02	2019: 18
+Quản lý tài nguyên khoáng sản	B00	2019: 18
+Quản lý tài nguyên và môi trường biển đảo	A00	2019: 18
+Quản lý tài nguyên và môi trường biển đảo	A01	2019: 18
+Quản lý tài nguyên và môi trường biển đảo	A14	2019: 18
+Quản lý tài nguyên và môi trường biển đảo	B00	2019: 18
+Khí tượng và khí hậu học	A00	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	A01	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	B00	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	D01	2019: 14	2018: 15	2017: 15.5
+Thuỷ văn học	A00	2019: 14	2018: 15	2017: 15.5
+Thuỷ văn học	A01	2019: 14	2018: 15	2017: 15.5
+Thuỷ văn học	B00	2019: 14	2018: 15	2017: 15.5
+Thuỷ văn học	D01	2019: 14	2017: 15.5
+Thủy văn học	D02	2018: 15
+Biến đổi khí hậu và Phát triển bền vững	A00	2019: 14	2018: 15	2017: 15.5
+Biến đổi khí hậu và Phát triển bền vững	A01	2019: 14	2018: 15	2017: 15.5
+Biến đổi khí hậu và Phát triển bền vững	B00	2019: 14	2018: 15	2017: 15.5
+Biến đổi khí hậu và Phát triển bền vững	D01	2019: 14	2017: 15.5
+Biển đổi khí hậu và phát triển bền vững	D03	2018: 15
+Kỹ thuật tài nguyên nước	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	A02	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật tài nguyên nước	B00	2019: 14	2018: 15	2017: 15.5
+Khí tượng và khí hậu học	A00	2019: 18
+Khí tượng và khí hậu học	A01	2019: 18
+Khí tượng và khí hậu học	B00	2019: 18
+Khí tượng và khí hậu học	D01	2019: 18
+Thuỷ văn học	A00	2019: 18
+Thuỷ văn học	A01	2019: 18
+Thuỷ văn học	B00	2019: 18
+Thuỷ văn học	D01	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	A00	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	A01	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	B00	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	D01	2019: 18
+Kỹ thuật tài nguyên nước	A00	2019: 18
+Kỹ thuật tài nguyên nước	A01	2019: 18
+Kỹ thuật tài nguyên nước	A02	2019: 18
+Kỹ thuật tài nguyên nước	B00	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A02	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 15	2017: 17
+Công nghệ kỹ thuật môi trường	A00	2019: 18
+Công nghệ kỹ thuật môi trường	A01	2019: 18
+Công nghệ kỹ thuật môi trường	A02	2019: 18
+Công nghệ kỹ thuật môi trường	B00	2019: 18

@@ -1,0 +1,199 @@
+Kế toán	A00	2019: 15	2018: 14
+Kế toán	A01	2019: 15	2018: 14
+Kế toán	D01	2019: 15	2018: 14
+Kế toán	D90	2019: 15	2018: 14
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Kế toán	D90	2019: 18
+Tài chính Ngân hàng	A00	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D90	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 18
+Tài chính Ngân hàng	A01	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Tài chính Ngân hàng	D90	2019: 18
+Quản trị kinh doanh	A00	2019: 16	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 16	2018: 14	2017: 15.5
+Quản trị kinh doanh	C00	2019: 16	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 16	2018: 14	2017: 15.5
+Kinh tế	A00	2019: 15	2018: 14	2017: 15.5
+Kinh tế	A01	2019: 15	2018: 14	2017: 15.5
+Kinh tế	D01	2019: 15	2018: 14	2017: 15.5
+Kinh tế	D90	2019: 15	2018: 14	2017: 15.5
+Kinh tế	A00	2019: 18
+Kinh tế	A01	2019: 18
+Kinh tế	D01	2019: 18
+Kinh tế	D90	2019: 18
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	C00	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 17
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 17
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 17
+Logistics và Quản lý chuỗi cung ứng	D90	2019: 17
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 20
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 20
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 20
+Logistics và Quản lý chuỗi cung ứng	D90	2019: 20
+Ngôn ngữ Anh	A01	2019: 16	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 16	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 16
+Ngôn ngữ Anh	D96	2019: 16	2018: 14	2017: 15.5
+Ngôn ngữ Anh	C00	2018: 14
+Quan hệ quốc tế	A00	2019: 15	2018: 14	2017: 15.5
+Quan hệ quốc tế	A01	2019: 15	2018: 14	2017: 15.5
+Quan hệ quốc tế	C00	2019: 15	2018: 14	2017: 15.5
+Quan hệ quốc tế	D01	2019: 15	2018: 14	2017: 15.5
+Ngôn ngữ Anh	A01	2019: 18
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D14	2019: 18
+Ngôn ngữ Anh	D96	2019: 18
+Quan hệ quốc tế	A00	2019: 18
+Quan hệ quốc tế	A01	2019: 18
+Quan hệ quốc tế	C00	2019: 18
+Quan hệ quốc tế	D01	2019: 18
+Công nghệ thông tin	A00	2019: 16	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 16	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 16	2018: 14	2017: 15.5
+Công nghệ thông tin	D90	2019: 16	2018: 14	2017: 15.5
+An toàn thông tin	A00	2019: 15
+An toàn thông tin	A01	2019: 15
+An toàn thông tin	D01	2019: 15
+An toàn thông tin	D90	2019: 15
+Kỹ thuật điện tử - viễn thông	A00	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện tử - viễn thông	A01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện tử - viễn thông	D01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện tử - viễn thông	D90	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 20
+Công nghệ thông tin	A01	2019: 20
+Công nghệ thông tin	D01	2019: 20
+Công nghệ thông tin	D90	2019: 20
+An toàn thông tin	A00	2019: 20
+An toàn thông tin	A01	2019: 20
+An toàn thông tin	D01	2019: 20
+An toàn thông tin	D90	2019: 20
+Kỹ thuật điện tử - viễn thông	A00	2019: 18
+Kỹ thuật điện tử - viễn thông	A01	2019: 18
+Kỹ thuật điện tử - viễn thông	D01	2019: 18
+Kỹ thuật điện tử - viễn thông	D90	2019: 18
+Công nghệ điện ảnh, truyền hình	H00	2019: 15	2018: 14	2017: 15.5
+Công nghệ điện ảnh, truyền hình	H02	2019: 15
+Công nghệ điện ảnh, truyền hình	V00	2019: 15	2018: 14	2017: 15.5
+Công nghệ điện ảnh, truyền hình	V01	2019: 15	2018: 14	2017: 15.5
+Công nghệ điện ảnh, truyền hình	H01	2018: 14	2017: 15.5
+Thiết kế công nghiệp	H00	2019: 15	2018: 14	2017: 15.5
+Thiết kế công nghiệp	H02	2019: 15
+Thiết kế công nghiệp	V00	2019: 15	2018: 14	2017: 15.5
+Thiết kế công nghiệp	V01	2019: 15	2018: 14	2017: 15.5
+Thiết kế công nghiệp	H01	2018: 14	2017: 15.5
+Thiết kế đồ họa	H00	2019: 15	2018: 14	2017: 15.5
+Thiết kế đồ họa	H02	2019: 15
+Thiết kế đồ họa	V00	2019: 15	2018: 14	2017: 15.5
+Thiết kế đồ họa	V01	2019: 15	2018: 14	2017: 15.5
+Thiết kế đồ họa	H01	2018: 14	2017: 15.5
+Truyền thông đa phương tiện	A01	2019: 15	2018: 14	2017: 15.5
+Truyền thông đa phương tiện	C00	2019: 15	2018: 14	2017: 15.5
+Truyền thông đa phương tiện	D01	2019: 15	2018: 14	2017: 15.5
+Truyền thông đa phương tiện	D78	2019: 15	2018: 14	2017: 15.5
+Công nghệ điện ảnh, truyền hình	H00	2019: 18
+Công nghệ điện ảnh, truyền hình	H02	2019: 18
+Công nghệ điện ảnh, truyền hình	V00	2019: 18
+Công nghệ điện ảnh, truyền hình	V01	2019: 18
+Thiết kế công nghiệp	H00	2019: 18
+Thiết kế công nghiệp	H02	2019: 18
+Thiết kế công nghiệp	V00	2019: 18
+Thiết kế công nghiệp	V01	2019: 18
+Thiết kế đồ họa	H00	2019: 18
+Thiết kế đồ họa	H02	2019: 18
+Thiết kế đồ họa	V00	2019: 18
+Thiết kế đồ họa	V01	2019: 18
+Truyền thông đa phương tiện	A01	2019: 18
+Truyền thông đa phương tiện	C00	2019: 18
+Truyền thông đa phương tiện	D01	2019: 18
+Truyền thông đa phương tiện	D78	2019: 18
+Luật	A00	2019: 15
+Luật	C00	2019: 15
+Luật	C14	2019: 15
+Luật	D01	2019: 15
+Luật kinh tế	A00	2019: 15	2018: 14	2017: 15.5
+Luật kinh tế	A08	2019: 15
+Luật kinh tế	C00	2019: 15	2018: 14	2017: 15.5
+Luật kinh tế	D01	2019: 15	2018: 14	2017: 15.5
+Luật kinh tế	A01	2018: 14	2017: 15.5
+Luật	A00	2019: 18
+Luật	C00	2019: 18
+Luật	C14	2019: 18
+Luật	D01	2019: 18
+Luật kinh tế	A00	2019: 18
+Luật kinh tế	A08	2019: 18
+Luật kinh tế	C00	2019: 18
+Luật kinh tế	D01	2019: 18
+Kỹ thuật xây dựng	A00	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	D01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	D90	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	D01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	D90	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 19
+Kỹ thuật xây dựng	A01	2019: 19
+Kỹ thuật xây dựng	D01	2019: 19
+Kỹ thuật xây dựng	D90	2019: 19
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 19
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 19
+Kỹ thuật xây dựng công trình giao thông	D01	2019: 19
+Kỹ thuật xây dựng công trình giao thông	D90	2019: 19
+Quản trị khách sạn	A00	2019: 16	2018: 14	2017: 15.5
+Quản trị khách sạn	A01	2019: 16	2018: 14	2017: 15.5
+Quản trị khách sạn	C00	2019: 16	2018: 14	2017: 15.5
+Quản trị khách sạn	D01	2019: 16	2018: 14	2017: 15.5
+Việt Nam học	A01	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	C00	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	D01	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	D78	2019: 15	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 15	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 15	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 15	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	A01	2019: 18
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D78	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Quản trị khách sạn	A00	2019: 18
+Quản trị khách sạn	A01	2019: 18
+Quản trị khách sạn	C00	2019: 18
+Quản trị khách sạn	D01	2019: 18
+Việt Nam học	A01	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	C00	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	D01	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	D78	2019: 15	2018: 14	2017: 15.5
+Việt Nam học	A01	2019: 18
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D78	2019: 18
+Khoa học môi trường	A00	2019: 15	2018: 14	2017: 15.5
+Khoa học môi trường	B00	2019: 15	2018: 14	2017: 15.5
+Khoa học môi trường	C02	2019: 15
+Khoa học môi trường	D90	2019: 15	2018: 14	2017: 15.5
+Khoa học môi trường	A01	2018: 14	2017: 15.5
+Khoa học môi trường	A00	2019: 18
+Khoa học môi trường	B00	2019: 18
+Khoa học môi trường	C02	2019: 18
+Khoa học môi trường	D90	2019: 18
+Răng - Hàm - Mặt	A00	2019: 21	2018: 18.5	2017: 21
+Răng - Hàm - Mặt	B00	2019: 21	2018: 18.5	2017: 21
+Răng - Hàm - Mặt	C02	2019: 21
+Răng - Hàm - Mặt	D90	2019: 21	2018: 18.5	2017: 21
+Dược học	A00	2019: 20	2018: 16	2017: 16.5
+Dược học	B00	2019: 20	2018: 16	2017: 16.5
+Dược học	C02	2019: 20
+Dược học	D90	2019: 20	2018: 16	2017: 16.5
+Điều dưỡng	A00	2019: 18	2018: 14	2017: 15.5

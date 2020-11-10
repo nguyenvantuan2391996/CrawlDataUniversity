@@ -1,0 +1,37 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	C04	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	C04	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	C04	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 15.5
+Kinh doanh quốc tế	A00	2019: 14	2018: 14	2017: 15.5
+Kinh doanh quốc tế	A01	2019: 14	2018: 14	2017: 15.5
+Kinh doanh quốc tế	C04	2019: 14	2018: 14	2017: 15.5
+Kinh doanh quốc tế	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D66	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	C01	2019: 14	2018: 14
+Công nghệ thông tin	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	C00	2017: 15.5
+Luật kinh tế	C00	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	D14	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	D66	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	D84	2019: 14	2018: 14
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 14	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị khách sạn	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị khách sạn	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị khách sạn	C00	2019: 14	2018: 14	2017: 15.5
+Quản trị khách sạn	D01	2019: 14	2018: 14	2017: 15.5

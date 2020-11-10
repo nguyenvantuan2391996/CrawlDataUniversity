@@ -1,0 +1,12 @@
+Quản trị kinh doanh	A00	2019: 18.75	2018: 16	2017: 15.5
+Quản trị kinh doanh	A01	2019: 18.75	2018: 16	2017: 15.5
+Quản trị kinh doanh	D01	2019: 18.75	2018: 16	2017: 15.5
+Quản trị kinh doanh	D90	2019: 18.75	2018: 16	2017: 15.5
+Công nghệ thông tin	A00	2019: 19.75	2018: 17	2017: 17
+Công nghệ thông tin	A01	2019: 19.75	2018: 17	2017: 17
+Công nghệ thông tin	D01	2019: 19.75	2018: 17	2017: 17
+Công nghệ thông tin	D90	2019: 19.75	2018: 17	2017: 17
+Công nghệ thông tin (đặc thù)	A00	2019: 16.15	2018: 16.55
+Công nghệ thông tin (đặc thù)	A01	2019: 16.15	2018: 16.55
+Công nghệ thông tin (đặc thù)	D01	2019: 16.15	2018: 16.55
+Công nghệ thông tin (đặc thù)	D90	2019: 16.15	2018: 16.55

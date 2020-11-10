@@ -1,0 +1,5 @@
+An toàn thông tin phía Bắc	A00	2019: 24.64
+An toàn thông tin phía Bắc	A01	2019: 21.28
+Nghiệp vụ An ninh phía Bắc đối với Nữ	A01	2019: 21.42	2018: 18.45	2017: 27.75
+Nghiệp vụ An ninh phía Bắc đối với Nữ	C03	2019: 22.95	2018: 18.45	2017: 25.5
+Nghiệp vụ An ninh phía Nam đối với Nữ	D01	2019: 20.55	2018: 18.45	2017: 26.25

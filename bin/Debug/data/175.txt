@@ -1,0 +1,66 @@
+Luật	C00	2019: 21.5	2018: 20.75	2017: 23.5
+Luật	A00	2019: 19.5	2018: 18.75	2017: 20.5
+Luật	A01	2019: 19.5	2018: 18.75	2017: 20.5
+Luật	D01	2019: 19.5	2018: 18.75	2017: 20.5
+Luật	A00	2019: 24.2
+Luật	A01	2019: 24.2
+Luật	C00	2019: 24.2
+Luật	D01	2019: 24.2
+Xây dựng Đảng và chính quyền nhà nước	C20	2019: 15
+Xây dựng Đảng và chính quyền nhà nước	C00	2019: 15	2018: 16.5
+Xây dựng Đảng và chính quyền nhà nước	A00	2019: 15	2018: 14.5
+Xây dựng Đảng và chính quyền nhà nước	D01	2019: 15	2018: 14.5
+Xây dựng Đảng và chính quyền nhà nước	C15	2018: 16.5
+Lưu trữ học	C20	2019: 18
+Lưu trữ học	C00	2019: 17	2018: 16.25	2017: 19.5
+Lưu trữ học	D01	2019: 15	2018: 14.25	2017: 16.5
+Lưu trữ học	D15	2019: 15
+Lưu trữ học	C19	2018: 16.25	2017: 16.5
+Lưu trữ học	C03	2018: 16.25	2017: 16.5
+Quản trị văn phòng	C19	2019: 22.5
+Quản trị văn phòng	C20	2019: 22.5	2018: 22.5	2017: 21.25
+Quản trị văn phòng	C00	2019: 21.5	2018: 21.5	2017: 24.25
+Quản trị văn phòng	D01	2019: 19.5	2018: 19.5	2017: 21.25
+Quản trị văn phòng	D15	2018: 19.5	2017: 21.25
+Quản trị nhân lực	C00	2019: 21.5	2018: 20.5	2017: 25
+Quản trị nhân lực	A00	2019: 19.5	2018: 18.5	2017: 22
+Quản trị nhân lực	A01	2019: 19.5
+Quản trị nhân lực	D01	2019: 19.5	2018: 18.5	2017: 22
+Quản trị nhân lực	C22	2018: 20.5	2017: 22
+Quản lý nhà nước	C00	2019: 18	2018: 22	2017: 24.75
+Quản lý nhà nước	C01	2019: 18
+Quản lý nhà nước	A01	2019: 16	2018: 20	2017: 22.75
+Quản lý nhà nước	D01	2019: 16	2018: 20	2017: 21.75
+Quản lý nhà nước	C20	2018: 23
+Quản trị văn phòng	C00	2019: 15
+Quản trị văn phòng	C20	2019: 15
+Quản trị văn phòng	D01	2019: 14
+Quản trị văn phòng	D15	2019: 14
+Quản trị văn phòng	A01	2019: 14
+Quản trị văn phòng	C00	2019: 14
+Quản trị văn phòng	D01	2019: 14
+Quản trị văn phòng	D15	2019: 14
+Quản trị nhân lực	A00	2019: 14
+Quản trị nhân lực	A01	2019: 14
+Quản trị nhân lực	C00	2019: 14
+Quản trị nhân lực	D01	2019: 14
+Quản trị văn phòng	A01	2019: 24.9
+Quản trị văn phòng	C00	2019: 24.9
+Quản trị văn phòng	D01	2019: 24.9
+Quản trị văn phòng	D15	2019: 24.9
+Quản lý nhà nước	A01	2019: 24.6
+Quản lý nhà nước	C00	2019: 24.6
+Quản lý nhà nước	C01	2019: 24.6
+Quản lý nhà nước	D01	2019: 24.6
+Quản trị nhân lực	A00	2019: 24.4
+Quản trị nhân lực	A01	2019: 24.4
+Quản trị nhân lực	C00	2019: 24.4
+Quản trị nhân lực	D01	2019: 24.4
+Quản trị văn phòng	C00	2019: 24.3
+Quản trị văn phòng	C19	2019: 24.3
+Quản trị văn phòng	C20	2019: 24.3
+Quản trị văn phòng	D01	2019: 24.3
+Quản trị nhân lực	A00	2019: 22.6
+Quản trị nhân lực	A01	2019: 22.6
+Quản trị nhân lực	C00	2019: 22.6
+Quản trị nhân lực	D01	2019: 22.6

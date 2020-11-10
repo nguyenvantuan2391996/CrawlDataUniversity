@@ -1,0 +1,73 @@
+An toàn thông tin	A00	2019: 22
+An toàn thông tin	A01	2019: 22
+An toàn thông tin	C04	2019: 22
+An toàn thông tin	D01	2019: 22
+Công nghệ thông tin	A00	2019: 15	2018: 15	2017: 18
+Công nghệ thông tin	A01	2019: 15	2018: 15	2017: 18
+Công nghệ thông tin	C04	2019: 15	2018: 15	2017: 18
+Công nghệ thông tin	D01	2019: 15	2018: 15	2017: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 15
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 15
+Công nghệ kỹ thuật điện tử - viễn thông	C04	2019: 15
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 15
+Công nghệ kỹ thuật giao thông	A00	2019: 22	2018: 15.05	2017: 18
+Công nghệ kỹ thuật giao thông	A01	2019: 22	2018: 15.05	2017: 18
+Công nghệ kỹ thuật giao thông	C04	2019: 22	2018: 15.05	2017: 18
+Công nghệ kỹ thuật giao thông	D01	2019: 22	2018: 15.05	2017: 18
+Du lịch	A01	2019: 15
+Du lịch	C00	2019: 15
+Du lịch	C19	2019: 15
+Du lịch	D01	2019: 15
+Du lịch		2018: 15
+Công tác xã hội	A01	2019: 15	2018: 15	2017: 17.25
+Công tác xã hội	C00	2019: 15	2018: 15	2017: 17.25
+Công tác xã hội	C19	2019: 15	2018: 15	2017: 17.25
+Công tác xã hội	D01	2019: 15	2018: 15	2017: 17.25
+Thú y	A01	2019: 15	2018: 15	2017: 16
+Thú y	B00	2019: 15	2018: 15	2017: 16
+Thú y	C04	2019: 15	2018: 15	2017: 16
+Thú y	D01	2019: 15	2018: 15	2017: 16
+Công nghệ kỹ thuật ô tô	A00	2019: 16.25	2018: 17.5	2017: 19
+Công nghệ kỹ thuật ô tô	A01	2019: 16.25	2018: 17.5	2017: 19
+Công nghệ kỹ thuật ô tô	C04	2019: 16.25	2018: 17.5	2017: 19
+Công nghệ kỹ thuật ô tô	D01	2019: 16.25	2018: 17.5	2017: 19
+Công nghệ kỹ thuật cơ khí	A00	2019: 15	2018: 15.5	2017: 17
+Công nghệ kỹ thuật cơ khí	A01	2019: 15	2018: 15.5	2017: 17
+Công nghệ kỹ thuật cơ khí	C04	2019: 15	2018: 15.5	2017: 17
+Công nghệ kỹ thuật cơ khí	D01	2019: 15	2018: 15.5	2017: 17
+Công nghệ chế tạo máy	A00	2019: 15	2018: 15.05	2017: 18
+Công nghệ chế tạo máy	A01	2019: 15	2018: 15.05	2017: 18
+Công nghệ chế tạo máy	C04	2019: 15	2018: 15.05	2017: 18
+Công nghệ chế tạo máy	D01	2019: 15	2018: 15.05	2017: 18
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật cơ điện tử	C04	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật nhiệt	A00	2019: 15	2018: 15	2017: 15.75
+Công nghệ kỹ thuật nhiệt	A01	2019: 15	2018: 15	2017: 15.75
+Công nghệ kỹ thuật nhiệt	C04	2019: 15	2018: 15	2017: 15.75
+Công nghệ kỹ thuật nhiệt	D01	2019: 15	2018: 15	2017: 15.75
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật cơ điện tử	C04	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 15	2018: 15.05	2017: 17
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 15	2018: 15	2017: 18
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 15	2018: 15	2017: 18
+Công nghệ kỹ thuật điện, điện tử	C04	2019: 15	2018: 15	2017: 18
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 15	2018: 15	2017: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 15
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 15
+Công nghệ kỹ thuật điện tử - viễn thông	C04	2019: 15
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 15
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 15	2018: 15.05	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 15	2018: 15.05	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	C04	2019: 15	2018: 15.05	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 15	2018: 15.05	2017: 15.5
+Công nghệ sinh học	A01	2019: 15	2018: 15	2017: 15.5
+Công nghệ sinh học	B00	2019: 15	2018: 15	2017: 15.5
+Công nghệ sinh học	C04	2019: 15	2018: 15	2017: 15.5
+Công nghệ sinh học	D01	2019: 15	2018: 15	2017: 15.5
+Công nghệ dệt, may	A00	2019: 23.5
+Công nghệ dệt, may	A01	2019: 23.5
+Công nghệ dệt, may	C04	2019: 23.5
+Công nghệ dệt, may	D01	2019: 23.5

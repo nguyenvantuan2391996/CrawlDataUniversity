@@ -1,0 +1,123 @@
+Kế toán	A00	2019: 15	2018: 14	2017: 15.5
+Kế toán	A01	2019: 15	2018: 14	2017: 15.5
+Kế toán	C02	2019: 15
+Kế toán	D01	2019: 15	2018: 14	2017: 15.5
+Kế toán	D07	2018: 14	2017: 15.5
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	C02	2019: 18
+Kế toán	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 15	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2018: 14	2017: 15.5
+Quản trị kinh doanh	D07	2018: 14	2017: 15.5
+Hệ thống thông tin quản lý	A00	2018: 14
+Hệ thống thông tin quản lý	A01	2018: 14
+Hệ thống thông tin quản lý	D01	2018: 14
+Hệ thống thông tin quản lý	D07	2018: 14
+Quản trị kinh doanh	A00	2019: 18
+Ngôn ngữ Anh	D01	2019: 15	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D09	2019: 15	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 15	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 15	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D09	2019: 18
+Ngôn ngữ Anh	D14	2019: 18
+Ngôn ngữ Anh	D15	2019: 18
+Kỹ thuật phần mềm	A00	2019: 15	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 15	2017: 15.5
+Kỹ thuật phần mềm	A02	2019: 15	2017: 15.5
+Kỹ thuật phần mềm	D01	2019: 15	2017: 15.5
+Kỹ thuật phần mềm		2018: 14
+Công nghệ thông tin	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A02	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật phần mềm	A00	2019: 18
+Kỹ thuật phần mềm	A01	2019: 18
+Kỹ thuật phần mềm	A02	2019: 18
+Kỹ thuật phần mềm	D01	2019: 18
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	A02	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Kỹ thuật phần mềm	A00	2019: 15	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 15	2017: 15.5
+Kỹ thuật phần mềm	A02	2019: 15	2017: 15.5
+Kỹ thuật phần mềm	D01	2019: 15	2017: 15.5
+Kỹ thuật phần mềm		2018: 14
+Kỹ thuật phần mềm	A00	2019: 18
+Kỹ thuật phần mềm	A01	2019: 18
+Kỹ thuật phần mềm	A02	2019: 18
+Kỹ thuật phần mềm	D01	2019: 18
+Luật	A00	2019: 15	2018: 14	2017: 15.5
+Luật	A01	2019: 15	2018: 14	2017: 15.5
+Luật	C00	2019: 15	2018: 14	2017: 15.5
+Luật	D01	2019: 15	2018: 14	2017: 15.5
+Luật	A00	2019: 18
+Luật	A01	2019: 18
+Luật	C00	2019: 18
+Luật	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 15
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 15
+Quản trị dịch vụ du lịch và lữ hành	C02	2019: 15
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 15
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C02	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Giáo dục Chính trị	C00	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C19	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C20	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	D66	2019: 18	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D01	2019: 16
+Sư phạm Tiếng Anh	D09	2019: 16
+Sư phạm Tiếng Anh	D14	2019: 16
+Sư phạm Tiếng Anh	D15	2019: 16
+Quản lý tài nguyên và môi trường	A00	2019: 15	2018: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	B03	2019: 15
+Quản lý tài nguyên và môi trường	C04	2019: 15
+Quản lý tài nguyên và môi trường	D01	2019: 15
+Quản lý Tài nguyên và Môi trường	A02	2018: 14	2017: 15.5
+Quản lý Tài nguyên và Môi trường	B00	2018: 14	2017: 15.5
+Quản lý Tài nguyên và Môi trường	B02	2018: 14
+Quản lý tài nguyên và môi trường	A00	2019: 18
+Quản lý tài nguyên và môi trường	B03	2019: 18
+Quản lý tài nguyên và môi trường	C04	2019: 18
+Quản lý tài nguyên và môi trường	D01	2019: 18
+Phát triển nông thôn	A00	2019: 15	2018: 14	2017: 15.5
+Phát triển nông thôn	B03	2019: 15	2017: 15.5
+Phát triển nông thôn	C04	2019: 15	2018: 14
+Phát triển nông thôn	D01	2019: 15
+Phát triển nông thôn	B00	2018: 14
+Phát triển nông thôn	C03	2018: 14
+Quản lý tài nguyên rừng	A00	2019: 15	2018: 14
+Quản lý tài nguyên rừng	B03	2019: 15	2018: 14
+Quản lý tài nguyên rừng	C04	2019: 15	2018: 14
+Quản lý tài nguyên rừng	D01	2019: 15
+Quản lý tài nguyên rừng	B00	2018: 14
+Kỹ thuật điện	A00	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	A01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	A02	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	D07	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	A00	2019: 18
+Kỹ thuật điện	A01	2019: 18
+Kỹ thuật điện	A02	2019: 18
+Kỹ thuật điện	D07	2019: 18
+Kỹ thuật điện	A00	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	A01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	A02	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	D07	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điện	A00	2019: 18
+Kỹ thuật điện	A01	2019: 18
+Kỹ thuật điện	A02	2019: 18
+Kỹ thuật điện	D07	2019: 18
+Địa lý học	C00	2019: 15	2018: 14	2017: 15.5
+Địa lý học	C20	2019: 15	2018: 14	2017: 15.5
+Địa lý học	D10	2019: 15	2018: 14
+Địa lý học	D15	2019: 15	2018: 14
+Địa lý học	D01	2017: 15.5
+Địa lý học	C00	2019: 18
+Địa lý học	C20	2019: 18
+Địa lý học	D10	2019: 18
+Địa lý học	D15	2019: 18

@@ -1,0 +1,73 @@
+Tài chính Ngân hàng	A00	2019: 15
+Tài chính Ngân hàng	A01	2019: 15
+Tài chính Ngân hàng	C04	2019: 15
+Tài chính Ngân hàng	D01	2019: 15
+Quản trị kinh doanh	A00	2019: 15	2018: 14	2017: 17
+Quản trị kinh doanh	A01	2019: 15	2018: 14	2017: 17
+Quản trị kinh doanh	C04	2019: 15	2017: 17
+Quản trị kinh doanh	D01	2019: 15	2017: 17
+Quản trị kinh doanh	D01: C04	2018: 14
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 15
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 15
+Logistics và Quản lý chuỗi cung ứng	D07	2019: 15
+Logistics và Quản lý chuỗi cung ứng	D10	2019: 15
+Ngôn ngữ Pháp	A01	2019: 17.2	2018: 16.55	2017: 15.75
+Ngôn ngữ Pháp	D01	2019: 17.2	2018: 16.55	2017: 15.75
+Ngôn ngữ Pháp	D10	2019: 17.2	2018: 16.55	2017: 15.75
+Ngôn ngữ Pháp	D15	2019: 17.2	2018: 16.55	2017: 15.75
+Ngôn ngữ Trung Quốc	A01	2019: 16	2018: 14.5	2017: 19.25
+Ngôn ngữ Trung Quốc	D01	2019: 16	2018: 14.5	2017: 19.25
+Ngôn ngữ Trung Quốc	D10	2019: 16	2018: 14.5	2017: 19.25
+Ngôn ngữ Trung Quốc	D15	2019: 16	2018: 14.5	2017: 19.25
+Ngôn ngữ Nhật	A01	2019: 15.5	2018: 14	2017: 17.5
+Ngôn ngữ Nhật	D01	2019: 15.5	2018: 14	2017: 17.5
+Ngôn ngữ Nhật	D10	2019: 15.5	2018: 14	2017: 17.5
+Ngôn ngữ Nhật	D15	2019: 15.5	2018: 14	2017: 17.5
+Ngôn ngữ Anh	A01	2019: 15	2018: 14	2017: 18.5
+Ngôn ngữ Anh	D01	2019: 15	2018: 14	2017: 18.5
+Ngôn ngữ Anh	D10	2019: 15	2018: 14	2017: 18.5
+Ngôn ngữ Anh	D15	2019: 15	2018: 14	2017: 18.5
+Công nghệ thông tin	A00	2019: 15	2018: 14.1	2017: 16.25
+Công nghệ thông tin	A01	2019: 15	2018: 14.1	2017: 16.25
+Công nghệ thông tin	C01	2019: 15	2017: 16.25
+Công nghệ thông tin	D01	2019: 15	2017: 16.25
+Công nghệ thông tin	D01: C01	2018: 14.1
+Kỹ thuật điện tử - viễn thông	A00	2019: 15	2018: 14.6	2017: 15.5
+Kỹ thuật điện tử - viễn thông	A01	2019: 15	2018: 14.6	2017: 15.5
+Kỹ thuật điện tử - viễn thông	C01	2019: 15	2017: 15.5
+Kỹ thuật điện tử - viễn thông	D01	2019: 15	2017: 15.5
+Kỹ thuật điện tử - viễn thông	D01: C01	2018: 14.6
+Thanh nhạc	N00	2019: 5
+Piano	N00	2019: 5
+Việt Nam học	C00	2019: 18	2018: 16.75	2017: 18.75
+Việt Nam học	D01	2019: 18	2018: 16.75	2017: 18.75
+Việt Nam học	D14	2019: 18	2018: 16.75	2017: 18.75
+Việt Nam học	D15	2019: 18	2018: 16.75	2017: 18.75
+Du lịch	A00	2019: 15
+Du lịch	C00	2019: 15
+Du lịch	C04	2019: 15
+Du lịch	D01	2019: 15
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 15	2018: 15.25	2017: 17.25
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 15	2018: 15.25	2017: 17.25
+Quản trị dịch vụ du lịch và lữ hành	C04	2019: 15	2018: 15.25	2017: 17.25
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 15	2018: 15.25	2017: 17.25
+Quản trị khách sạn	A00	2019: 15	2018: 16	2017: 17.75
+Quản trị khách sạn	C00	2019: 15	2018: 16	2017: 17.75
+Quản trị khách sạn	C04	2019: 15	2018: 16	2017: 17.75
+Quản trị khách sạn	D01	2019: 15	2018: 16	2017: 17.75
+Việt Nam học	C00	2019: 18	2018: 16.75	2017: 18.75
+Việt Nam học	D01	2019: 18	2018: 16.75	2017: 18.75
+Việt Nam học	D14	2019: 18	2018: 16.75	2017: 18.75
+Việt Nam học	D15	2019: 18	2018: 16.75	2017: 18.75
+Xã hội học	A00	2019: 15	2018: 14	2017: 19.75
+Xã hội học	C00	2019: 15	2018: 14	2017: 19.75
+Xã hội học	C04	2019: 15	2018: 14	2017: 19.75
+Xã hội học	D01	2019: 15	2018: 14	2017: 19.75
+Tâm lý học	A00	2019: 15	2018: 14.5	2017: 20.5
+Tâm lý học	B00	2019: 15	2018: 14.5	2017: 20.5
+Tâm lý học	C00	2019: 15	2018: 14.5	2017: 20.5
+Tâm lý học	D01	2019: 15	2018: 14.5	2017: 20.5
+Công nghệ sinh học	A00	2019: 15
+Công nghệ sinh học	B00	2019: 15
+Công nghệ sinh học	D07	2019: 15
+Công nghệ sinh học	D08	2019: 15

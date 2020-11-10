@@ -1,0 +1,121 @@
+Kế toán	A00	2019: 14.5	2018: 14	2017: 15.5
+Kế toán	A09	2019: 14.5	2018: 14
+Kế toán	C01	2019: 14.5	2018: 14
+Kế toán	D01	2019: 14.5	2018: 14	2017: 15.5
+Kế toán	A00	2019: 18
+Kế toán	A09	2019: 18
+Kế toán	C01	2019: 18
+Kế toán	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 14.5	2018: 14	2017: 15.5
+Quản trị kinh doanh	A09	2019: 14.5	2018: 14
+Quản trị kinh doanh	C01	2019: 14.5	2018: 14
+Quản trị kinh doanh	D01	2019: 14.5	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A09	2019: 18
+Quản trị kinh doanh	C01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Ngôn ngữ Anh	D01	2019: 14.5	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 14.5	2018: 14
+Ngôn ngữ Anh	D15	2019: 14.5	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D66	2019: 14.5	2018: 14
+Ngôn ngữ Trung Quốc	D01	2019: 14.5	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D15	2019: 14.5	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D66	2019: 14.5	2018: 14
+Ngôn ngữ Trung Quốc	D71	2019: 14.5	2018: 14
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D14	2019: 18
+Ngôn ngữ Anh	D15	2019: 18
+Ngôn ngữ Anh	D66	2019: 18
+Ngôn ngữ Trung Quốc	D01	2019: 18
+Ngôn ngữ Trung Quốc	D15	2019: 18
+Ngôn ngữ Trung Quốc	D66	2019: 18
+Ngôn ngữ Trung Quốc	D71	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A09	2019: 15	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 15	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 14.5	2018: 14	2017: 15.5
+Công nghệ thông tin	A09	2019: 14.5	2018: 14
+Công nghệ thông tin	C01	2019: 14.5	2018: 14
+Công nghệ thông tin	D01	2019: 14.5	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A09	2019: 18
+Công nghệ thông tin	C01	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A09	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 18
+Việt Nam học	C00	2019: 14.5	2018: 14
+Việt Nam học	C20	2019: 14.5	2018: 14
+Việt Nam học	D01	2019: 14.5	2018: 14
+Việt Nam học	D15	2019: 14.5	2018: 14
+Việt Nam học	C00	2019: 18
+Việt Nam học	C20	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D15	2019: 18
+Việt Nam học	C00	2019: 14.5	2018: 14
+Việt Nam học	C20	2019: 14.5	2018: 14
+Việt Nam học	D01	2019: 14.5	2018: 14
+Việt Nam học	D15	2019: 14.5	2018: 14
+Việt Nam học	C00	2019: 18
+Việt Nam học	C20	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D15	2019: 18
+Công nghệ kỹ thuật ô tô	A00	2019: 15.5	2018: 15	2017: 15.5
+Công nghệ kỹ thuật ô tô	A09	2019: 15.5	2018: 15
+Công nghệ kỹ thuật ô tô	C01	2019: 15.5	2018: 15
+Công nghệ kỹ thuật ô tô	D01	2019: 15.5	2018: 15	2017: 15.5
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 15	2018: 14
+Kỹ thuật điều khiển và tự động hoá	A09	2019: 15	2018: 14
+Kỹ thuật điều khiển và tự động hoá	C01	2019: 15	2018: 14
+Kỹ thuật điều khiển và tự động hoá	D01	2019: 15	2018: 14
+Công nghệ kỹ thuật cơ khí	A00	2019: 14.5	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A09	2019: 14.5	2018: 14
+Công nghệ kỹ thuật cơ khí	C01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật cơ khí	D01	2019: 14.5	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 18
+Công nghệ kỹ thuật cơ khí	A09	2019: 18
+Công nghệ kỹ thuật cơ khí	C01	2019: 18
+Công nghệ kỹ thuật cơ khí	D01	2019: 18
+Công nghệ kỹ thuật ô tô	A00	2019: 18
+Công nghệ kỹ thuật ô tô	A09	2019: 18
+Công nghệ kỹ thuật ô tô	C01	2019: 18
+Công nghệ kỹ thuật ô tô	D01	2019: 18
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 18
+Kỹ thuật điều khiển và tự động hoá	A09	2019: 18
+Kỹ thuật điều khiển và tự động hoá	C01	2019: 18
+Kỹ thuật điều khiển và tự động hoá	D01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A09	2019: 15	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 15	2018: 14
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 15	2018: 14
+Kỹ thuật điều khiển và tự động hoá	A09	2019: 15	2018: 14
+Kỹ thuật điều khiển và tự động hoá	C01	2019: 15	2018: 14
+Kỹ thuật điều khiển và tự động hoá	D01	2019: 15	2018: 14
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14.5	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A09	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 14.5	2018: 14
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 14.5	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 18
+Công nghệ kỹ thuật điện, điện tử	A09	2019: 18
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 18
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A09	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 18
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 18
+Kỹ thuật điều khiển và tự động hoá	A09	2019: 18
+Kỹ thuật điều khiển và tự động hoá	C01	2019: 18
+Kỹ thuật điều khiển và tự động hoá	D01	2019: 18
+Công nghệ dệt, may	A00	2019: 14.5	2018: 15	2017: 15.5
+Công nghệ dệt, may	A09	2019: 14.5	2018: 15
+Công nghệ dệt, may	C01	2019: 14.5
+Công nghệ dệt, may	D01	2019: 14.5	2018: 15	2017: 15.5
+Công nghệ dệt, may	C20	2018: 15
+Công nghệ dệt, may	A00	2019: 18
+Công nghệ dệt, may	A09	2019: 18
+Công nghệ dệt, may	C01	2019: 18
+Công nghệ dệt, may	D01	2019: 18

@@ -1,0 +1,29 @@
+Kế toán	A00	2019: 14	2018: 13	2017: 15.5
+Kế toán	A04	2019: 14	2018: 13	2017: 15.5
+Kế toán	A08	2019: 14	2018: 13	2017: 15.5
+Kế toán	A09	2019: 14	2018: 13
+Tài chính - Ngân hang	A00	2019: 14	2018: 13	2017: 15.5
+Tài chính - Ngân hang	A04	2019: 14	2018: 13
+Tài chính - Ngân hang	A08	2019: 14	2018: 13
+Tài chính - Ngân hang	A09	2019: 14	2018: 13
+Quản trị kinh doanh	A00	2019: 14	2018: 13	2017: 15.5
+Quản trị kinh doanh	A04	2019: 14	2018: 13
+Quản trị kinh doanh	A08	2019: 14	2018: 13
+Quản trị kinh doanh	A09	2019: 14	2018: 13
+Ngôn ngữ Anh	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D66	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D84	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	A04	2019: 14	2018: 13
+Công nghệ thông tin	A10	2019: 14	2018: 13
+Công nghệ thông tin	A11	2019: 14	2018: 13
+Luật	D01	2019: 14	2018: 14
+Luật	D14	2019: 14
+Luật	C00	2019: 14	2018: 14	2017: 15.5
+Luật	C20	2019: 14	2018: 14
+Luật (Luật Kinh tế - Dân sự; Luật Quốc tế và Ngoại thương; Luật Hình sự và Tội phạm học; Pháp chế - Hành chính - Văn thư)	C19	2018: 14
+Du lịch	D01	2019: 18	2018: 13
+Du lịch	D14	2019: 18
+Du lịch	C00	2019: 18	2018: 13
+Du lịch	C20	2019: 18	2018: 13

@@ -1,0 +1,199 @@
+Bất động sản	A00	2019: 15	2018: 13
+Bất động sản	C00	2019: 15	2018: 13
+Bất động sản	C04	2019: 15	2018: 13
+Bất động sản	D01	2019: 15	2018: 13
+Bất động sản	A00	2019: 18
+Bất động sản	C00	2019: 18
+Bất động sản	C04	2019: 18
+Bất động sản	D01	2019: 18
+Kỹ thuật cơ sở hạ tầng	A00	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ sở hạ tầng	A01	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ sở hạ tầng	A02	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ sở hạ tầng	C01	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ sở hạ tầng	A00	2019: 18
+Kỹ thuật cơ sở hạ tầng	A01	2019: 18
+Kỹ thuật cơ sở hạ tầng	A02	2019: 18
+Kỹ thuật cơ sở hạ tầng	C01	2019: 18
+Kỹ thuật trắc địa - bản đồ	A00	2019: 13
+Kỹ thuật trắc địa - bản đồ	B00	2019: 13
+Kỹ thuật trắc địa - bản đồ	C04	2019: 13
+Kỹ thuật trắc địa - bản đồ	D01	2019: 13
+Kỹ thuật trắc địa - bản đồ	A00	2019: 18
+Kỹ thuật trắc địa - bản đồ	B00	2019: 18
+Kỹ thuật trắc địa - bản đồ	C04	2019: 18
+Kỹ thuật trắc địa - bản đồ	D01	2019: 18
+Quản lý đất đai	A00	2019: 13.5	2018: 13	2017: 15.5
+Quản lý đất đai	C00	2019: 13.5	2018: 13	2017: 15.5
+Quản lý đất đai	C04	2019: 13.5	2018: 13	2017: 15.5
+Quản lý đất đai	D01	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 13
+Kỹ thuật trắc địa - bản đồ	B00	2019: 13
+Kỹ thuật trắc địa - bản đồ	C04	2019: 13
+Kỹ thuật trắc địa - bản đồ	D01	2019: 13
+Kỹ thuật trắc địa - bản đồ	A00	2019: 18
+Kỹ thuật trắc địa - bản đồ	B00	2019: 18
+Kỹ thuật trắc địa - bản đồ	C04	2019: 18
+Kỹ thuật trắc địa - bản đồ	D01	2019: 18
+Quản lý đất đai	A00	2019: 18
+Quản lý đất đai	C00	2019: 18
+Quản lý đất đai	C04	2019: 18
+Quản lý đất đai	D01	2019: 18
+Chăn nuôi	A00	2019: 13.5	2018: 14	2017: 15.5
+Chăn nuôi	A02	2019: 13.5
+Chăn nuôi	B00	2019: 13.5	2018: 14	2017: 15.5
+Chăn nuôi	D08	2019: 13.5	2018: 14	2017: 15.5
+Chăn nuôi	B02	2018: 14	2017: 15.5
+Nông học	A00	2019: 13.5	2018: 13	2017: 15.5
+Nông học	B00	2019: 13.5	2018: 13	2017: 15.5
+Nông học	B04	2019: 13.5	2018: 13	2017: 15.5
+Nông học	D08	2019: 13.5
+Nông học	B02	2018: 13	2017: 15.5
+Khoa học cây trồng	A00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B04	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	D08	2019: 13.5
+Công nghệ rau hoa quả và cảnh quan	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ rau hoa quả và cảnh quan	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ rau hoa quả và cảnh quan	B04	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ rau hoa quả và cảnh quan	D08	2019: 13.5
+Công nghệ rau hoa quả và cảnh quan	B02	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A01	2019: 13
+Công nghệ sau thu hoạch	B00	2019: 13	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	D01	2019: 13
+Công nghệ sau thu hoạch	D07	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	D08	2018: 13	2017: 15.5
+Khuyến nông	A00	2019: 13
+Khuyến nông	B00	2019: 13	2018: 13	2017: 15.5
+Khuyến nông	C00	2019: 13	2018: 13	2017: 15.5
+Khuyến nông	D01	2019: 13
+Khuyến nông	C04	2018: 13	2017: 15.5
+Khuyến nông	D15	2018: 13	2017: 15.5
+Phát triển nông thôn	A00	2019: 13
+Phát triển nông thôn	B00	2019: 13
+Phát triển nông thôn	C00	2019: 13	2018: 13	2017: 15.5
+Phát triển nông thôn	D01	2019: 13	2018: 13	2017: 15.5
+Phát triển nông thôn	C04	2018: 13	2017: 15.5
+Phát triển nông thôn	D15	2018: 13	2017: 15.5
+Lâm nghiệp đô thị	A00	2019: 13
+Lâm nghiệp đô thị	A02	2019: 13	2018: 13	2017: 15.5
+Lâm nghiệp đô thị	B00	2019: 13	2018: 13	2017: 15.5
+Lâm nghiệp đô thị	D08	2019: 13	2018: 13	2017: 15.5
+Lâm nghiệp đô thị	C13	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	A00	2019: 13
+Quản lý tài nguyên rừng	A02	2019: 13	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	B00	2019: 13	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	D08	2019: 13	2018: 13	2017: 15.5
+Nuôi trồng thuỷ sản	A00	2019: 13	2018: 13	2017: 15.5
+Nuôi trồng thuỷ sản	B00	2019: 13	2018: 13	2017: 15.5
+Nuôi trồng thuỷ sản	D07	2019: 13
+Nuôi trồng thuỷ sản	D08	2019: 13
+Bệnh học thủy sản	A00	2019: 13	2018: 13	2017: 15.5
+Bệnh học thủy sản	B00	2019: 13	2018: 13	2017: 15.5
+Bệnh học thủy sản	D07	2019: 13
+Bệnh học thủy sản	D08	2019: 13
+Bệnh học thủy sản	B04	2018: 13	2017: 15.5
+Bệnh học thủy sản	C13	2018: 13	2017: 15.5
+Quản lý thủy sản	A00	2019: 13	2018: 13	2017: 15.5
+Quản lý thủy sản	B00	2019: 13	2018: 13	2017: 15.5
+Quản lý thủy sản	D07	2019: 13
+Quản lý thủy sản	D08	2019: 13
+Quản lý thủy sản	B04	2018: 13	2017: 15.5
+Quản lý thủy sản	C13	2018: 13	2017: 15.5
+Khoa học đất	A00	2018: 13	2017: 15.5
+Khoa học đất	B00	2018: 13	2017: 15.5
+Khoa học đất	B02	2018: 13	2017: 15.5
+Khoa học đất	B04	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 18
+Công nghệ sau thu hoạch	A01	2019: 18
+Công nghệ sau thu hoạch	B00	2019: 18
+Công nghệ sau thu hoạch	D01	2019: 18
+Khuyến nông	A00	2019: 18
+Khuyến nông	B00	2019: 18
+Khuyến nông	C00	2019: 18
+Khuyến nông	D01	2019: 18
+Nông học	A00	2019: 18
+Nông học	B00	2019: 18
+Nông học	B04	2019: 18
+Nông học	D08	2019: 18
+Khoa học cây trồng	A00	2019: 18
+Khoa học cây trồng	B00	2019: 18
+Khoa học cây trồng	B04	2019: 18
+Khoa học cây trồng	D08	2019: 18
+Công nghệ rau hoa quả và cảnh quan	A00	2019: 18
+Công nghệ rau hoa quả và cảnh quan	B00	2019: 18
+Công nghệ rau hoa quả và cảnh quan	B04	2019: 18
+Công nghệ rau hoa quả và cảnh quan	D08	2019: 18
+Phát triển nông thôn	A00	2019: 18
+Phát triển nông thôn	B00	2019: 18
+Phát triển nông thôn	C00	2019: 18
+Phát triển nông thôn	D01	2019: 18
+Lâm nghiệp đô thị	A00	2019: 18
+Lâm nghiệp đô thị	A02	2019: 18
+Lâm nghiệp đô thị	B00	2019: 18
+Lâm nghiệp đô thị	D08	2019: 18
+Quản lý tài nguyên rừng	A00	2019: 18
+Quản lý tài nguyên rừng	A02	2019: 18
+Quản lý tài nguyên rừng	B00	2019: 18
+Quản lý tài nguyên rừng	D08	2019: 18
+Nuôi trồng thuỷ sản	A00	2019: 18
+Nuôi trồng thuỷ sản	B00	2019: 18
+Nuôi trồng thuỷ sản	D07	2019: 18
+Nuôi trồng thuỷ sản	D08	2019: 18
+Bệnh học thủy sản	A00	2019: 18
+Bệnh học thủy sản	B00	2019: 18
+Bệnh học thủy sản	D07	2019: 18
+Bệnh học thủy sản	D08	2019: 18
+Quản lý thủy sản	A00	2019: 18
+Quản lý thủy sản	B00	2019: 18
+Quản lý thủy sản	D07	2019: 18
+Quản lý thủy sản	D08	2019: 18
+Thú y	A00	2019: 15	2018: 15	2017: 15.5
+Thú y	A02	2019: 15
+Thú y	B00	2019: 15	2018: 15	2017: 15.5
+Thú y	D08	2019: 15	2018: 15	2017: 15.5
+Thú y	B02	2017: 15.5
+Chăn nuôi	A00	2019: 13.5	2018: 14	2017: 15.5
+Chăn nuôi	A02	2019: 13.5
+Chăn nuôi	B00	2019: 13.5	2018: 14	2017: 15.5
+Chăn nuôi	D08	2019: 13.5	2018: 14	2017: 15.5
+Chăn nuôi	B02	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A02	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	C01	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ điện tử	A00	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ điện tử	A01	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ điện tử	A02	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật cơ điện tử	C01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 18
+Công nghệ kỹ thuật cơ khí	A01	2019: 18
+Công nghệ kỹ thuật cơ khí	A02	2019: 18
+Công nghệ kỹ thuật cơ khí	C01	2019: 18
+Kỹ thuật cơ điện tử	A00	2019: 18
+Kỹ thuật cơ điện tử	A01	2019: 18
+Kỹ thuật cơ điện tử	A02	2019: 18
+Kỹ thuật cơ điện tử	C01	2019: 18
+Khoa học cây trồng	A00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B04	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	D08	2019: 13.5
+Công nghệ sau thu hoạch	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A01	2019: 13
+Công nghệ sau thu hoạch	B00	2019: 13	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	D01	2019: 13
+Công nghệ sau thu hoạch	D07	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	D08	2018: 13	2017: 15.5
+Đảm bảo chất lượng và an toàn thực phẩm	A00	2019: 13	2018: 13
+Đảm bảo chất lượng và an toàn thực phẩm	A01	2019: 13	2018: 13
+Đảm bảo chất lượng và an toàn thực phẩm	B00	2019: 13	2018: 13
+Đảm bảo chất lượng và an toàn thực phẩm	D01	2019: 13	2018: 13
+Công nghệ sau thu hoạch	A00	2019: 18
+Công nghệ sau thu hoạch	A01	2019: 18
+Công nghệ sau thu hoạch	B00	2019: 18
+Công nghệ sau thu hoạch	D01	2019: 18
+Đảm bảo chất lượng và an toàn thực phẩm	A00	2019: 18
+Đảm bảo chất lượng và an toàn thực phẩm	A01	2019: 18
+Đảm bảo chất lượng và an toàn thực phẩm	B00	2019: 18
+Đảm bảo chất lượng và an toàn thực phẩm	D01	2019: 18
+Khoa học cây trồng	A00	2019: 18

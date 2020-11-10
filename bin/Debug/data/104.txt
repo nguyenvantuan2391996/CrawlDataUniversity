@@ -1,0 +1,65 @@
+Kế toán	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Kế toán	C14	2019: 13.5	2018: 13.5
+Kế toán	C20	2019: 13.5	2018: 13.5
+Kế toán	D01	2019: 13.5	2018: 13.5	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Tài chính Ngân hàng	C14	2019: 13.5
+Tài chính Ngân hàng	C20	2019: 13.5	2018: 13.5
+Tài chính Ngân hàng	D01	2019: 13.5	2018: 13.5	2017: 15.5
+Tài chính – Ngân hàng	A01	2018: 13.5	2017: 15.5
+Quản trị kinh doanh	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Quản trị kinh doanh	C14	2019: 13.5
+Quản trị kinh doanh	C20	2019: 13.5
+Quản trị kinh doanh	D01	2019: 13.5	2018: 13.5	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 13.5	2018: 13.5	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 13.5	2018: 13.5	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 13.5	2018: 13.5
+Ngôn ngữ Anh	D66	2019: 13.5
+Ngôn ngữ Anh	A01	2018: 13.5	2017: 15.5
+Ngôn ngữ Trung Quốc	A01	2019: 13.5
+Ngôn ngữ Trung Quốc	C00	2019: 13.5
+Ngôn ngữ Trung Quốc	C19	2019: 13.5
+Ngôn ngữ Trung Quốc	C20	2019: 13.5
+Ngôn ngữ Trung Quốc	D01	2018: 13.5	2017: 15.5
+Ngôn ngữ Trung Quốc	D04	2018: 13.5	2017: 15.5
+Ngôn ngữ Trung Quốc	D14	2018: 13.5	2017: 15.5
+Ngôn ngữ Trung Quốc	D15	2018: 13.5	2017: 15.5
+Công nghệ thông tin	A00	2019: 13.5	2018: 13.5
+Công nghệ thông tin	A01	2019: 13.5	2018: 13.5
+Công nghệ thông tin	A04	2019: 13.5	2018: 13.5
+Công nghệ thông tin	C01	2019: 13.5	2018: 13.5
+Luật	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Luật	C00	2019: 13.5	2018: 13.5	2017: 15.5
+Luật	C14	2019: 13.5	2018: 13.5
+Luật	D01	2019: 13.5	2018: 13.5	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 13.5	2018: 13.5	2017: 15.5
+Kỹ thuật xây dựng	A02	2019: 13.5	2018: 13.5
+Kỹ thuật xây dựng	A04	2019: 13.5	2018: 13.5	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C14	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C20	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 13.5	2018: 13.5	2017: 15.5
+Giáo dục Chính trị	A00	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C00	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C14	2019: 18
+Giáo dục Chính trị	D01	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C04	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D14	2019: 18	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D15	2019: 18
+Sư phạm Tiếng Anh	D66	2019: 18
+Sư phạm Tiếng Anh	A01	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D09	2018: 17	2017: 15.5
+Khoa học môi trường	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học môi trường	B00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học môi trường	B03	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học môi trường	D07	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	B00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	B03	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	D07	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	B00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	B03	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học cây trồng	D07	2019: 13.5	2018: 13.5	2017: 15.5

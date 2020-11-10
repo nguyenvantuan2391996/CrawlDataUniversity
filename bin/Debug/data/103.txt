@@ -1,0 +1,19 @@
+Kế toán	A00	2019: 13.5	2018: 13
+Kế toán	A01	2019: 13.5	2018: 13
+Kế toán	D01	2019: 13.5	2018: 13
+Kế toán	D10	2019: 13.5
+Kế toán	D96	2018: 13
+Quản trị kinh doanh	A00	2019: 13.5	2018: 13.5
+Quản trị kinh doanh	A01	2019: 13.5	2018: 13.5
+Quản trị kinh doanh	D01	2019: 13.5	2018: 13.5
+Quản trị kinh doanh	D10	2019: 13.5	2018: 13.5
+Kinh doanh quốc tế	A00	2019: 14	2018: 14
+Kinh doanh quốc tế	A01	2019: 14	2018: 14
+Kinh doanh quốc tế	D01	2019: 14	2018: 14
+Kinh doanh quốc tế	D10	2019: 14	2018: 14
+Quản lý tài nguyên và môi trường	B00	2019: 13.5	2018: 13
+Quản lý tài nguyên và môi trường	D08	2019: 13.5
+Quản lý tài nguyên và môi trường	D10	2019: 13.5
+Quản lý tài nguyên và môi trường	D15	2019: 13.5	2018: 13
+Quản lý tài nguyên và môi trường	D84	2018: 13
+Quản lý tài nguyên và môi trường	D90	2018: 13

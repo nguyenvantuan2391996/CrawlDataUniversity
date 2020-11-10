@@ -1,0 +1,85 @@
+Khai thác vận tải	A00	2019: 23.1	2018: 21.2	2017: 24
+Khai thác vận tải	A01	2019: 23.1	2018: 21.2	2017: 24
+Khai thác vận tải	D01	2019: 23.1	2018: 21.2	2017: 24
+Khai thác vận tải (Chuyên ngành: Quản trị Logistics và vận tải đa phương thức, Quản lí và kinh doanh vận tải)	D90	2018: 21.2
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	A00	2019: 22.8	2018: 20.9	2017: 22
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	A01	2019: 22.8	2018: 20.9	2017: 22
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	D01	2019: 22.8	2018: 20.9	2017: 22
+Ngành Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	D90	2018: 20.9
+Kinh tế vận tải	A00	2019: 21.3	2018: 19.6	2017: 21
+Kinh tế vận tải	A01	2019: 21.3	2018: 19.6	2017: 21
+Kinh tế vận tải	D01	2019: 21.3	2018: 19.6	2017: 21
+Kinh tế vận tải (Chuyên ngành Kinh tế vận tải biển)	D90	2018: 19.6
+Kinh tế xây dựng	A00	2019: 19.5	2018: 17.8	2017: 20
+Kinh tế xây dựng	A01	2019: 19.5	2018: 17.8	2017: 20
+Kinh tế xây dựng	D01	2019: 19.5	2018: 17.8	2017: 20
+Kinh tế xây dựng (Chuyên ngành: Kinh tế xây dựng. Quản lí dự án xây dựng)	D90	2018: 17.8
+Công nghệ thông tin	A00	2019: 21.8	2018: 19.5	2017: 22
+Công nghệ thông tin	A01	2019: 21.8	2018: 19.5	2017: 22
+Công nghệ thông tin	D90	2018: 19.5
+Mạng máy tính và truyền thông dữ liệu	A00	2019: 19.3	2018: 17.5	2017: 19
+Mạng máy tính và truyền thông dữ liệu	A01	2019: 19.3	2018: 17.5	2017: 19
+Mạng máy tính và truyền thông dữ liệu	D90	2018: 17.5
+Kỹ thuật điện tử - viễn thông	A00	2019: 19.1	2018: 17.5	2017: 20
+Kỹ thuật điện tử - viễn thông	A01	2019: 19.1	2018: 17.5	2017: 20
+Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông)	D90	2018: 17.5
+Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông)	A00	2019: 18.4	2018: 16.8	2017: 18
+Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông)	A01	2019: 18.4	2018: 16.8	2017: 18
+Ngành Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông)	D90	2018: 16.8
+Kỹ thuật xây dựng	A00	2019: 19.3	2018: 17.5	2017: 20
+Kỹ thuật xây dựng	A01	2019: 19.3	2018: 17.5	2017: 20
+Kỹ thuật xây dựng (Chuyên ngành: Xây dựng dân dụng và công nghiệp, Kỹ thuật kết cấu công trình, Kỹ thuật nền móng và công trình ngầm)	D90	2018: 17.5
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 17	2018: 14
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 17	2018: 14
+Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Xây dựng cầu đường	D90	2018: 14
+Kỹ thuật xây dựng	A00	2019: 16.2	2018: 16.4	2017: 18
+Kỹ thuật xây dựng	A01	2019: 16.2	2018: 16.4	2017: 18
+Ngành Kỹ thuật xây dựng	D90	2018: 16.4
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	A00	2019: 22.8	2018: 20.9	2017: 22
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	A01	2019: 22.8	2018: 20.9	2017: 22
+Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	D01	2019: 22.8	2018: 20.9	2017: 22
+Ngành Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức)	D90	2018: 20.9
+Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải)	A00	2019: 19.6	2018: 17.7	2017: 19
+Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải)	A01	2019: 19.6	2018: 17.7	2017: 19
+Ngành Khoa học hàng hải (Chuyên ngành Quản lí hàng hải)	D90	2018: 17.7
+Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển)	A00	2019: 14.7	2018: 14	2017: 17
+Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển)	A01	2019: 14.7	2018: 14	2017: 17
+Ngành Khoa học hàng hải (Chuyên ngành Điều khiển tàu biển)	D90	2018: 14
+Kỹ thuật tàu thuỷ	A00	2019: 14	2018: 14.4	2017: 16
+Kỹ thuật tàu thuỷ	A01	2019: 14	2018: 14.4	2017: 16
+Ngành kỹ thuật tàu thủy (Chuyên ngành: Thiết kế thân tàu thủy, Công nghệ đóng tàu thủy, Kỹ thuật công trình ngoài khơi)	D90	2018: 14.4
+Khoa học Hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển)	A00	2019: 14	2018: 14
+Khoa học Hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển)	A01	2019: 14	2018: 14
+Ngành Khoa học hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển)	D90	2018: 14
+Khoa học hàng hải (chuyên ngành Công nghệ máy tàu thủy)	A00	2019: 14
+Khoa học hàng hải (chuyên ngành Công nghệ máy tàu thủy)	A01	2019: 14
+Ngành Khoa học hàng hải (Chuyên ngành Thiết bị năng lượng tàu thủy	A00	2018: 14	2017: 15
+Ngành Khoa học hàng hải (Chuyên ngành Thiết bị năng lượng tàu thủy	A01	2018: 14	2017: 15
+Ngành Khoa học hàng hải (Chuyên ngành Thiết bị năng lượng tàu thủy	D90	2018: 14
+Ngành Khoa học Hàng hải -Chuyên ngành Điều khiển tàu biển	A00	2018: 14
+Ngành Khoa học Hàng hải -Chuyên ngành Điều khiển tàu biển	A01	2018: 14
+Ngành Khoa học Hàng hải -Chuyên ngành Điều khiển tàu biển	D90	2018: 14
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 21.45	2018: 19.1	2017: 22
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 21.45	2018: 19.1	2017: 22
+Kỹ thuật điều khiển và tự động hóa (Chuyên ngành Tự động hóa công nghiệp)	D90	2018: 19.1
+Kỹ thuật cơ khí	A00	2019: 21.1	2018: 19.1	2017: 21
+Kỹ thuật cơ khí	A01	2019: 21.1	2018: 19.1	2017: 21
+Kỹ thuật cơ khí (Chuyên ngành: Cơ giới hóa xếp dỡ, cơ khí ô tô, Máy xây dựng, Cơ khí tự động)	D90	2018: 19.1
+Kỹ thuật cơ khí (Chuyên ngành Cơ khí ô tô)	A00	2019: 20.75	2018: 19	2017: 21
+Kỹ thuật cơ khí (Chuyên ngành Cơ khí ô tô)	A01	2019: 20.75	2018: 19	2017: 21
+Kỹ thuật điện	A00	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điện	A01	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điện (Chuyên ngành: Điện và tự động tàu thủy, Điện công nghiệp, Hệ thống điện giao thông)	D90	2018: 17.5
+Kỹ thuật tàu thuỷ	A00	2019: 14	2018: 14.4	2017: 16
+Kỹ thuật tàu thuỷ	A01	2019: 14	2018: 14.4	2017: 16
+Ngành kỹ thuật tàu thủy (Chuyên ngành: Thiết kế thân tàu thủy, Công nghệ đóng tàu thủy, Kỹ thuật công trình ngoài khơi)	D90	2018: 14.4
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 21.45	2018: 19.1	2017: 22
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 21.45	2018: 19.1	2017: 22
+Kỹ thuật điều khiển và tự động hóa (Chuyên ngành Tự động hóa công nghiệp)	D90	2018: 19.1
+Kỹ thuật điện	A00	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điện	A01	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điện (Chuyên ngành: Điện và tự động tàu thủy, Điện công nghiệp, Hệ thống điện giao thông)	D90	2018: 17.5
+Kỹ thuật môi trường	A00	2019: 14	2018: 16.3	2017: 18
+Kỹ thuật môi trường	A01	2019: 14	2018: 16.3	2017: 18
+Kỹ thuật môi trường	B00	2019: 14	2018: 16.3	2017: 18
+Ngành kỹ thuật môi trường	D90	2018: 16.3

@@ -1,0 +1,165 @@
+Kế toán	A00	2019: 15.5	2018: 14.5	2017: 17.25
+Kế toán	A01	2019: 15.5	2018: 14.5
+Kế toán	D01	2019: 15.5	2018: 14.5	2017: 17.25
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Tài chính Ngân hàng	A00	2019: 14	2018: 13	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 13
+Tài chính Ngân hàng	D01	2019: 14	2018: 13	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 18
+Tài chính Ngân hàng	A01	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 17.5	2018: 15	2017: 17.5
+Quản trị kinh doanh	A01	2019: 17.5	2018: 15
+Quản trị kinh doanh	D01	2019: 17.5	2018: 15	2017: 17.5
+Kinh tế	A00	2019: 14	2018: 13	2017: 15.5
+Kinh tế	A01	2019: 14	2018: 13
+Kinh tế	D01	2019: 14	2018: 13	2017: 15.5
+Kinh doanh thương mại	A00	2019: 14	2018: 13
+Kinh doanh thương mại	A01	2019: 14	2018: 13
+Kinh doanh thương mại	D01	2019: 14	2018: 13
+Kinh tê nông nghiệp		2018: 13
+Kinh tế nông nghiệp	A00	2017: 15.5
+Kinh tế nông nghiệp	D01	2017: 15.5
+Kinh tế	A00	2019: 18
+Kinh tế	A01	2019: 18
+Kinh tế	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Kinh doanh thương mại	A00	2019: 18
+Kinh doanh thương mại	A01	2019: 18
+Kinh doanh thương mại	D01	2019: 18
+Kinh tế nông nghiệp	A00	2019: 18
+Kinh tế nông nghiệp	A01	2019: 18
+Kinh tế nông nghiệp	D01	2019: 18
+Ngôn ngữ Anh	D01	2019: 18	2018: 16	2017: 18
+Ngôn ngữ Anh	D14	2019: 18	2018: 16
+Ngôn ngữ Anh	D15	2019: 18	2018: 16
+Ngôn ngữ Anh	D66	2019: 18
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D14	2019: 18
+Ngôn ngữ Anh	D15	2019: 18
+Ngôn ngữ Anh	D66	2019: 18
+Công nghệ thông tin	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Giáo dục Chính trị	C00	2019: 18.5	2018: 19	2017: 22.25
+Giáo dục Chính trị	C19	2019: 18.5	2018: 19	2017: 22.25
+Giáo dục Chính trị	C20	2019: 18.5
+Giáo dục Chính trị	D66	2019: 18.5	2018: 19	2017: 22.25
+Giáo duc Chính tri	D01	2018: 19	2017: 22.25
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 17	2017: 20.25
+Sư phạm Tiếng Anh	D14	2019: 18
+Sư phạm Tiếng Anh	D15	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A02	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D08	2019: 14	2018: 13
+Quản lý đất đai	A00	2019: 14	2018: 13	2017: 15.5
+Quản lý đất đai	A01	2019: 14	2018: 13	2017: 15.5
+Quản lý đất đai	A02	2019: 14	2018: 13	2017: 15.5
+Quản lý đất đai	B00	2019: 14
+Công nghệ kỹ thuật môi trường	A00	2019: 18
+Công nghệ kỹ thuật môi trường	A02	2019: 18
+Công nghệ kỹ thuật môi trường	B00	2019: 18
+Công nghệ kỹ thuật môi trường	D08	2019: 18
+Quản lý đất đai	A00	2019: 18
+Quản lý đất đai	A01	2019: 18
+Quản lý đất đai	A02	2019: 18
+Quản lý đất đai	B00	2019: 18
+Khoa học cây trồng	A00	2019: 14	2018: 13
+Khoa học cây trồng	A02	2019: 14	2018: 13	2017: 15.5
+Khoa học cây trồng	B00	2019: 14	2018: 13	2017: 15.5
+Khoa học cây trồng	D08	2019: 14	2018: 13	2017: 15.5
+Chăn nuôi	A02	2019: 14	2018: 13	2017: 15.5
+Chăn nuôi	B00	2019: 14	2018: 13	2017: 15.5
+Chăn nuôi	D08	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A02	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	D07	2019: 14	2018: 13	2017: 15.5
+Lâm sinh	A00	2019: 14	2018: 13
+Lâm sinh	A02	2019: 14	2018: 13	2017: 15.5
+Lâm sinh	B00	2019: 14	2018: 13	2017: 15.5
+Lâm sinh	D08	2019: 14	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	A00	2019: 14	2018: 13
+Quản lý tài nguyên rừng	A02	2019: 14	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	B00	2019: 14	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	D08	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 18
+Công nghệ sau thu hoạch	A02	2019: 18
+Công nghệ sau thu hoạch	B00	2019: 18
+Công nghệ sau thu hoạch	D07	2019: 18
+Chăn nuôi	A02	2019: 18
+Chăn nuôi	B00	2019: 18
+Chăn nuôi	D08	2019: 18
+Khoa học cây trồng	A00	2019: 18
+Khoa học cây trồng	A02	2019: 18
+Khoa học cây trồng	B00	2019: 18
+Khoa học cây trồng	D08	2019: 18
+Lâm sinh	A00	2019: 18
+Lâm sinh	A02	2019: 18
+Lâm sinh	B00	2019: 18
+Lâm sinh	D08	2019: 18
+Quản lý tài nguyên rừng	A00	2019: 18
+Quản lý tài nguyên rừng	A02	2019: 18
+Quản lý tài nguyên rừng	B00	2019: 18
+Quản lý tài nguyên rừng	D08	2019: 18
+Y khoa	B00	2019: 23	2018: 21	2017: 26
+Kỹ thuật xét nghiệm y học	B00	2019: 20	2018: 18.5
+Điều dưỡng	B00	2019: 19	2018: 17.5
+Y khoa (LT)	B00	2018: 19	2017: 25
+Điều dưỡng	B00	2017: 20.75
+Chăn nuôi	A02	2019: 14	2018: 13	2017: 15.5
+Chăn nuôi	B00	2019: 14	2018: 13	2017: 15.5
+Chăn nuôi	D08	2019: 14	2018: 13	2017: 15.5
+Thú y	A02	2019: 14	2018: 13	2017: 17.5
+Thú y	B00	2019: 14	2018: 13	2017: 17.5
+Thú y	D08	2019: 14	2018: 13	2017: 17.5
+Chăn nuôi	A02	2019: 18
+Chăn nuôi	B00	2019: 18
+Chăn nuôi	D08	2019: 18
+Thú y	A02	2019: 18
+Thú y	B00	2019: 18
+Thú y	D08	2019: 18
+Khoa học cây trồng	A00	2019: 14	2018: 13
+Khoa học cây trồng	A02	2019: 14	2018: 13	2017: 15.5
+Khoa học cây trồng	B00	2019: 14	2018: 13	2017: 15.5
+Khoa học cây trồng	D08	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A02	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	D07	2019: 14	2018: 13	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 18
+Công nghệ sau thu hoạch	A02	2019: 18
+Công nghệ sau thu hoạch	B00	2019: 18
+Công nghệ sau thu hoạch	D07	2019: 18
+Khoa học cây trồng	A00	2019: 18
+Khoa học cây trồng	A02	2019: 18
+Khoa học cây trồng	B00	2019: 18
+Khoa học cây trồng	D08	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A02	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D08	2019: 14	2018: 13
+Công nghệ sinh học	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sinh học	A02	2019: 14	2018: 13
+Công nghệ sinh học	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sinh học	D08	2019: 14	2018: 13
+Sinh học	A02	2019: 14	2018: 13
+Sinh học	B00	2019: 14	2018: 13	2017: 15.5
+Sinh học	D08	2019: 14	2018: 13
+Sinh học	A02	2019: 18
+Sinh học	B00	2019: 18
+Sinh học	D08	2019: 18
+Công nghệ sinh học	A00	2019: 18
+Công nghệ sinh học	A02	2019: 18
+Công nghệ sinh học	B00	2019: 18
+Công nghệ sinh học	D08	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 18
+Công nghệ kỹ thuật môi trường	A02	2019: 18
+Công nghệ kỹ thuật môi trường	B00	2019: 18
+Công nghệ kỹ thuật môi trường	D08	2019: 18

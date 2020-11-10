@@ -1,0 +1,52 @@
+Kế toán	A00	2019: 14	2018: 14
+Kế toán	C03	2019: 14
+Kế toán	C14	2019: 14	2018: 14
+Kế toán	D01	2019: 14
+Kế toán	D01; C00	2018: 14
+Tài chính Ngân hàng	A00	2019: 14	2017: 15.5
+Tài chính Ngân hàng	C00	2019: 14	2018: 14
+Tài chính Ngân hàng	C04	2019: 14
+Tài chính Ngân hàng	D01	2019: 14	2017: 15.5
+Tài chính ngân hàng	C04; A00; D01	2018: 14
+Quản trị kinh doanh	A00	2019: 14	2017: 15.5
+Quản trị kinh doanh	C00	2019: 14	2018: 14
+Quản trị kinh doanh	C01	2019: 14
+Quản trị kinh doanh	D01	2019: 14	2017: 15.5
+Quản trị kinh doanh	C01; A00; D01	2018: 14
+Ngôn ngữ Anh	D01	2019: 14	2018: 14
+Ngôn ngữ Anh	D14	2019: 14	2018: 14
+Ngôn ngữ Anh	D15	2019: 14	2018: 14
+Ngôn ngữ Anh	D66	2019: 14	2018: 14
+Ngôn ngữ Trung Quốc	C00	2019: 14
+Ngôn ngữ Trung Quốc	D01	2019: 14	2018: 14
+Ngôn ngữ Trung Quốc	D04	2019: 14	2018: 14
+Ngôn ngữ Trung Quốc	D15	2019: 14	2018: 14
+Ngôn ngữ Trung Quốc	D14	2018: 14
+Ngôn ngữ Nhật	C00	2019: 14
+Ngôn ngữ Nhật	D01	2019: 14	2018: 14
+Ngôn ngữ Nhật	D15	2019: 14	2018: 14
+Ngôn ngữ Nhật	D66	2019: 14	2018: 14
+Ngôn ngữ Nhật	D14	2018: 14
+Công nghệ thông tin	A00	2019: 14	2018: 14
+Công nghệ thông tin	A01	2019: 14	2017: 15.5
+Công nghệ thông tin	C14	2019: 14
+Công nghệ thông tin	D01	2019: 14	2017: 15.5
+Công nghệ thông tin	C14; A01; D01	2018: 14
+Công nghệ kỹ thuật xây dựng	A00	2019: 20
+Công nghệ kỹ thuật xây dựng	A01	2019: 20
+Công nghệ kỹ thuật xây dựng	A04	2019: 20
+Công nghệ kỹ thuật xây dựng	A06	2019: 20
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 14	2018: 14
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 14	2018: 14
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 14	2018: 14
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 14	2018: 14
+Công nghệ sau thu hoạch	A00	2019: 22	2017: 15.5
+Công nghệ sau thu hoạch	A02	2019: 22	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 22	2017: 15.5
+Công nghệ sau thu hoạch	C08	2019: 22
+Công nghệ sau thu hoạch	D08	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 22	2017: 15.5
+Công nghệ sau thu hoạch	A02	2019: 22	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 22	2017: 15.5
+Công nghệ sau thu hoạch	C08	2019: 22
+Công nghệ sau thu hoạch	D08	2017: 15.5

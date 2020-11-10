@@ -1,0 +1,26 @@
+Ngôn ngữ Anh	D01	2019: 13	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D72	2019: 13	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D96	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	D90	2019: 13
+Công nghệ thông tin	D72	2018: 14	2017: 15.5
+Kỹ thuật điện tử - viễn thông	A00	2019: 13	2018: 13
+Kỹ thuật điện tử - viễn thông	A01	2019: 13	2018: 13
+Kỹ thuật điện tử - viễn thông	D90	2019: 13	2018: 13
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D72	2019: 18	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh	D96	2019: 18	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh  (cao đẳng)	D01	2018: 15
+Sư phạm Tiếng Anh  (cao đẳng)	D72	2018: 15
+Sư phạm Tiếng Anh  (cao đẳng)	D96	2018: 15
+Công nghệ kỹ thuật cơ khí	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D90	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật cơ điện tử	A00	2019: 13	2018: 13
+Kỹ thuật cơ điện tử	A01	2019: 13	2018: 13
+Kỹ thuật cơ điện tử	D90	2019: 13	2018: 13
+Sinh học ứng dụng	B00	2019: 13	2018: 13
+Sinh học ứng dụng	D90	2019: 13
+Sinh học ứng dụng	D09	2018: 13

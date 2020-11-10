@@ -1,0 +1,26 @@
+Ngôn ngữ Anh	A01	2019: 14
+Ngôn ngữ Anh	D01	2019: 14
+Ngôn ngữ Anh	D14	2019: 14
+Công nghệ thông tin	A00	2019: 14
+Công nghệ thông tin	A01	2019: 14
+Công nghệ thông tin	D01	2019: 14
+Việt Nam học	C00	2019: 14
+Việt Nam học	D01	2019: 14
+Việt Nam học	D14	2019: 14
+Việt Nam học	C00	2019: 14
+Việt Nam học	D01	2019: 14
+Việt Nam học	D14	2019: 14
+Sư phạm Tiếng Anh	A01	2019: 18	2018: 17
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 17
+Sư phạm Tiếng Anh	D14	2019: 18	2018: 17
+Sư phạm Tiếng Anh	A01; D01; D14	2017: 17
+Sư phạm Tiếng Anh		2017: 17
+Hoá học	A00	2019: 14
+Hoá học	B00	2019: 14
+Hoá học	D07	2019: 14
+Sinh học	A02	2019: 14
+Sinh học	B00	2019: 14
+Sinh học	D08	2019: 14
+Vật lý học	A00	2019: 14
+Vật lý học	A01	2019: 14
+Vật lý học	A02	2019: 14

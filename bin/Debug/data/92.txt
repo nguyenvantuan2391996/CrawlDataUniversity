@@ -1,0 +1,111 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D07	2019: 14	2018: 14	2017: 15.5
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Kế toán	D07	2019: 18
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D07	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A00	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	D01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	D07	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A00	2019: 18
+Kinh tế	A01	2019: 18
+Kinh tế	D01	2019: 18
+Kinh tế	D07	2019: 18
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Quản trị kinh doanh	D07	2019: 18
+Ngôn ngữ Anh	A01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 14	2018: 14
+Ngôn ngữ Anh	D09	2019: 14	2018: 14
+Ngôn ngữ Anh	D10	2019: 14	2018: 14
+Ngôn ngữ Anh	A00	2017: 15.5
+Ngôn ngữ Anh	D07	2017: 15.5
+Ngôn ngữ Anh	A01	2019: 18
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D09	2019: 18
+Ngôn ngữ Anh	D10	2019: 18
+Công nghệ thông tin	A00	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	A01	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	D01	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	D07	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Công nghệ thông tin	D07	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A02	2019: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	D07	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 18
+Công nghệ kỹ thuật môi trường	A02	2019: 18
+Công nghệ kỹ thuật môi trường	B00	2019: 18
+Công nghệ kỹ thuật môi trường	D07	2019: 18
+Công nghệ kỹ thuật ô tô	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	D01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	D07	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 15	2018: 15	2017: 15.5
+Công nghệ chế tạo máy	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A01	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	D01	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	D07	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D01	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D07	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 18
+Công nghệ kỹ thuật cơ khí	A01	2019: 18
+Công nghệ kỹ thuật cơ khí	D01	2019: 18
+Công nghệ kỹ thuật cơ khí	D07	2019: 18
+Công nghệ chế tạo máy	A00	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 18
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 18
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 18
+Công nghệ kỹ thuật ô tô	A00	2019: 18
+Công nghệ kỹ thuật ô tô	A01	2019: 18
+Công nghệ kỹ thuật ô tô	D01	2019: 18
+Công nghệ kỹ thuật ô tô	D07	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 15	2018: 15	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 18
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 18
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 18
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 18
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 18
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 18
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 18
+Công nghệ kỹ thuật hoá học	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật hoá học	A02	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật hoá học	B00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật hoá học	D07	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A02	2019: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	D07	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật hoá học	A00	2019: 18
+Công nghệ kỹ thuật hoá học	A02	2019: 18
+Công nghệ kỹ thuật hoá học	B00	2019: 18
+Công nghệ kỹ thuật hoá học	D07	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 18
+Công nghệ kỹ thuật môi trường	A02	2019: 18
+Công nghệ kỹ thuật môi trường	B00	2019: 18
+Công nghệ kỹ thuật môi trường	D07	2019: 18

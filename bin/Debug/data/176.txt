@@ -1,0 +1,10 @@
+Du lịch	C00	2019: 20	2018: 21	2017: 22.75
+Du lịch	D01	2019: 20	2018: 21	2017: 22.75
+Du lịch	D10	2019: 20
+Du lịch	D15	2019: 20	2018: 21	2017: 22.75
+Việt Nam học	D09	2018: 21	2017: 22.75
+Việt Nam học	D09	2018: 21	2017: 22.75
+Văn hoá các dân tộc thiểu số Việt Nam	C00	2019: 15	2018: 14.5	2017: 19
+Văn hoá các dân tộc thiểu số Việt Nam	D01	2019: 15	2018: 14.5	2017: 19
+Văn hoá các dân tộc thiểu số Việt Nam	D09	2019: 15	2018: 14.5	2017: 19
+Văn hoá các dân tộc thiểu số Việt Nam	D15	2019: 15	2018: 14.5	2017: 19

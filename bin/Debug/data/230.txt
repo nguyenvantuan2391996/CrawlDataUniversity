@@ -1,0 +1,28 @@
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C03	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C04	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 13.5	2018: 13.5
+Sư phạm tiếng anh	D01	2019: 16
+Sư phạm tiếng anh	A01	2019: 16
+Sư phạm tiếng anh	D15	2019: 16
+Sư phạm tiếng anh	C00	2019: 16
+Quản lý tài nguyên và môi trường	A00	2019: 13	2018: 13.5
+Quản lý tài nguyên và môi trường	B00	2019: 13	2018: 13.5
+Quản lý tài nguyên và môi trường	C02	2019: 13	2018: 13.5
+Quản lý tài nguyên và môi trường	D01	2019: 13	2018: 13.5
+Chăn nuôi	A00	2019: 13	2018: 13.5
+Chăn nuôi	B00	2019: 13	2018: 13.5
+Chăn nuôi	C02	2019: 13	2018: 13.5
+Chăn nuôi	D01	2019: 13	2018: 13.5
+Khoa học cây trồng	A00	2019: 13	2018: 13.5
+Khoa học cây trồng	B00	2019: 13	2018: 13.5
+Khoa học cây trồng	C02	2019: 13	2018: 13.5
+Khoa học cây trồng	D01	2019: 13	2018: 13.5
+Chăn nuôi	A00	2019: 13	2018: 13.5
+Chăn nuôi	B00	2019: 13	2018: 13.5
+Chăn nuôi	C02	2019: 13	2018: 13.5
+Chăn nuôi	D01	2019: 13	2018: 13.5
+Khoa học cây trồng	A00	2019: 13	2018: 13.5
+Khoa học cây trồng	B00	2019: 13	2018: 13.5
+Khoa học cây trồng	C02	2019: 13	2018: 13.5
+Khoa học cây trồng	D01	2019: 13	2018: 13.5

@@ -1,0 +1,119 @@
+Kế toán	A00	2020: 19	2019: 17	2018: 16	2017: 17
+Kế toán	A00, A01, D01, C01	2019: 600
+Tài chính Ngân hàng	A00	2020: 20	2019: 17	2018: 16	2017: 17
+Tài chính Ngân hàng	A00, A01, D01, C01	2019: 600
+Quản trị kinh doanh	A00	2020: 22	2019: 19	2018: 17	2017: 20
+Thương mại điện tử	A00	2020: 21	2019: 18	2018: 19	2017: 16
+Thương mại điện tử	A00, A01, D01, C01	2019: 650
+Quản trị kinh doanh	A00, A01, D01, C00	2019: 600
+Kinh doanh quốc tế	A00	2020: 23	2019: 19	2018: 18	2017: 21
+Logistics và Quản lý chuỗi cung ứng	A00	2020: 24	2019: 17
+Kinh doanh quốc tế	A00, A01, D01, C00	2019: 700
+Logistics và Quản lý chuỗi cung ứng	A00, A01, D01, C00	2019: 600
+Quan hệ quốc tế	A01	2020: 21	2019: 21	2018: 20	2017: 16
+Ngôn ngữ Nhật	A01	2020: 19	2019: 20	2018: 20	2017: 16
+Ngôn ngữ Hàn Quốc	A01	2020: 19	2019: 19
+Ngôn ngữ Anh	A01	2020: 19	2019: 17	2018: 16	2017: 18
+Quan hệ quốc tế	A01, D01, D14, D15	2019: 700
+Ngôn ngữ Anh	A01, D01, D14, D15	2019: 650
+Ngôn ngữ Nhật	A01, D01, D14, D15	2019: 650
+Ngôn ngữ Hàn Quốc	A01, D01, D14, D15	2019: 650
+Công nghệ truyền thông	A00	2020: 20	2019: 18
+Marketing	A00	2020: 23	2019: 18	2018: 17	2017: 19
+Công nghệ truyền thông	A00, A01, D01, C00	2019: 650
+Marketing	A00, A01, D01, C00	2019: 600
+Công nghệ thông tin	A00	2020: 20	2019: 17	2018: 18	2017: 16
+Công nghệ thông tin	A00, A01, D01, C01	2019: 650
+Luật quốc tế	A00	2020: 20	2019: 20	2018: 19	2017: 16
+Luật	A00	2020: 19	2019: 17
+Luật kinh tế	A00	2020: 19	2019: 17	2018: 17	2017: 20
+Luật quốc tế	A00, A01, D01, C00	2019: 700
+Luật	A00, A01, D01, C00	2019: 600
+Luật kinh tế	A00, A01, D01, C00	2019: 600
+Quản trị dịch vụ du lịch và lữ hành	A00	2020: 20	2019: 18	2018: 17	2017: 18
+Quản trị khách sạn	A00	2020: 21	2019: 18	2018: 16	2017: 21
+Quản trị dịch vụ du lịch và lữ hành	A00, A01, D01, C00	2019: 600
+Quản trị khách sạn	A00, A01, D01, C00	2019: 600
+Quản trị nhân lực	A00	2020: 22	2019: 17	2018: 16	2017: 17
+Quản trị nhân lực	A00, A01, D01, C00	2019: 600
+Quan hệ công chúng	A00	2020: 21	2019: 17
+Kinh doanh thương mại	A00	2020: 20
+Quản trị nhà hàng và dịch vụ ăn uống	A00	2020: 20
+Ngôn ngữ Trung Quốc	A01	2020: 19
+Quảng cáo	A00	2020: 19
+Khoa học dữ liệu	A00	2020: 19
+Kế toán	A01	2020: 19	2019: 17	2018: 16	2017: 17
+Kế toán	D01	2020: 19	2019: 17	2018: 16	2017: 17
+Kế toán	C01	2020: 19	2019: 17	2018: 16	2017: 17
+Tài chính Ngân hàng	A01	2020: 20	2019: 17	2018: 16	2017: 17
+Tài chính Ngân hàng	D01	2020: 20	2019: 17	2018: 16	2017: 17
+Tài chính Ngân hàng	C01	2020: 20	2019: 17	2018: 16	2017: 17
+Quản trị kinh doanh	A01	2020: 22	2019: 19	2018: 17	2017: 20
+Quản trị kinh doanh	D01	2020: 22	2019: 19	2018: 17	2017: 20
+Quản trị kinh doanh	C00	2020: 22	2019: 19	2018: 17	2017: 20
+Thương mại điện tử	A01	2020: 21	2019: 18	2018: 19	2017: 16
+Thương mại điện tử	D01	2020: 21	2019: 18	2018: 19	2017: 16
+Thương mại điện tử	C01	2020: 21	2019: 18	2018: 19	2017: 16
+Kinh doanh quốc tế	A01	2020: 23	2019: 19	2018: 18	2017: 21
+Kinh doanh quốc tế	D01	2020: 23	2019: 19	2018: 18	2017: 21
+Kinh doanh quốc tế	C00	2020: 23	2019: 19	2018: 18	2017: 21
+Logistics và Quản lý chuỗi cung ứng	A01	2020: 24	2019: 17
+Logistics và Quản lý chuỗi cung ứng	D01	2020: 24	2019: 17
+Logistics và Quản lý chuỗi cung ứng	C00	2020: 24	2019: 17
+Quan hệ quốc tế	D15	2020: 21	2019: 21	2018: 20	2017: 16
+Quan hệ quốc tế	D14	2020: 21	2019: 21	2018: 20	2017: 16
+Quan hệ quốc tế	D01	2020: 21	2019: 21	2018: 20	2017: 16
+Ngôn ngữ Nhật	D01	2020: 19	2019: 20	2018: 20	2017: 16
+Ngôn ngữ Nhật	D14	2020: 19	2019: 20	2018: 20	2017: 16
+Ngôn ngữ Nhật	D15	2020: 19	2019: 20	2018: 20	2017: 16
+Ngôn ngữ Hàn Quốc	D01	2020: 19	2019: 19
+Ngôn ngữ Hàn Quốc	D14	2020: 19	2019: 19
+Ngôn ngữ Hàn Quốc	D15	2020: 19	2019: 19
+Ngôn ngữ Anh	D01	2020: 19	2019: 17	2018: 16	2017: 18
+Ngôn ngữ Anh	D14	2020: 19	2019: 17	2018: 16	2017: 18
+Ngôn ngữ Anh	D15	2020: 19	2019: 17	2018: 16	2017: 18
+Công nghệ truyền thông	A01	2020: 20	2019: 18
+Công nghệ truyền thông	D01	2020: 20	2019: 18
+Công nghệ truyền thông	C00	2020: 20	2019: 18
+Marketing	A01	2020: 23	2019: 18	2018: 17	2017: 19
+Marketing	D01	2020: 23	2019: 18	2018: 17	2017: 19
+Marketing	C00	2020: 23	2019: 18	2018: 17	2017: 19
+Công nghệ thông tin	A01	2020: 20	2019: 17	2018: 18	2017: 16
+Công nghệ thông tin	D01	2020: 20	2019: 17	2018: 18	2017: 16
+Công nghệ thông tin	C01	2020: 20	2019: 17	2018: 18	2017: 16
+Luật quốc tế	A01	2020: 20	2019: 20	2018: 19	2017: 16
+Luật quốc tế	D01	2020: 20	2019: 20	2018: 19	2017: 16
+Luật quốc tế	C00	2020: 20	2019: 20	2018: 19	2017: 16
+Luật	A01	2020: 19	2019: 17
+Luật	D01	2020: 19	2019: 17
+Luật	C00	2020: 19	2019: 17
+Luật kinh tế	A01	2020: 19	2019: 17	2018: 17	2017: 20
+Luật kinh tế	D01	2020: 19	2019: 17	2018: 17	2017: 20
+Luật kinh tế	C00	2020: 19	2019: 17	2018: 17	2017: 20
+Quản trị dịch vụ du lịch và lữ hành	A01	2020: 20	2019: 18	2018: 17	2017: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2020: 20	2019: 18	2018: 17	2017: 18
+Quản trị dịch vụ du lịch và lữ hành	C00	2020: 20	2019: 18	2018: 17	2017: 18
+Quản trị khách sạn	A01	2020: 21	2019: 18	2018: 16	2017: 21
+Quản trị khách sạn	D01	2020: 21	2019: 18	2018: 16	2017: 21
+Quản trị khách sạn	C00	2020: 21	2019: 18	2018: 16	2017: 21
+Quản trị nhân lực	A01	2020: 22	2019: 17	2018: 16	2017: 17
+Quản trị nhân lực	D01	2020: 22	2019: 17	2018: 16	2017: 17
+Quản trị nhân lực	C00	2020: 22	2019: 17	2018: 16	2017: 17
+Quan hệ công chúng	A01	2020: 21	2019: 17
+Quan hệ công chúng	D01	2020: 21	2019: 17
+Quan hệ công chúng	C00	2020: 21	2019: 17
+Kinh doanh thương mại	A01	2020: 20
+Kinh doanh thương mại	D01	2020: 20
+Kinh doanh thương mại	C00	2020: 20
+Quản trị nhà hàng và dịch vụ ăn uống	A01	2020: 20
+Quản trị nhà hàng và dịch vụ ăn uống	D01	2020: 20
+Quản trị nhà hàng và dịch vụ ăn uống	C00	2020: 20
+Ngôn ngữ Trung Quốc	D01	2020: 19
+Ngôn ngữ Trung Quốc	D14	2020: 19
+Ngôn ngữ Trung Quốc	D15	2020: 19
+Quảng cáo	A01	2020: 19
+Quảng cáo	D01	2020: 19
+Quảng cáo	C00	2020: 19
+Khoa học dữ liệu	A01	2020: 19
+Khoa học dữ liệu	D01	2020: 19
+Khoa học dữ liệu	C01	2020: 19

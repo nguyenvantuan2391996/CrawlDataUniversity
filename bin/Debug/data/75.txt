@@ -1,0 +1,91 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	C01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	C01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A00	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	C01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	C01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	A01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D09	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Anh	D10	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	C00	2019: 14
+Ngôn ngữ Trung Quốc	C03	2019: 14
+Ngôn ngữ Trung Quốc	C04	2019: 14
+Ngôn ngữ Trung Quốc	D01	2019: 14	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D09	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D10	2018: 14	2017: 15.5
+Ngôn ngữ Trung Quốc	D15	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	D07	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	A00	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	A01	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	C00	2019: 14	2018: 14	2017: 15.5
+Luật kinh tế	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	V00	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	C00	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	C03	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	C04	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	C03	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	C04	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 14
+Việt Nam học	C00	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	C03	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	C04	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D01	2019: 14	2018: 14	2017: 15.5
+Khoa học môi trường	A00	2019: 14	2018: 17	2017: 15.5
+Khoa học môi trường	B00	2019: 14	2018: 17	2017: 15.5
+Khoa học môi trường	C02	2019: 14	2018: 17	2017: 15.5
+Khoa học môi trường	D01	2019: 14	2018: 17	2017: 15.5
+Dược học	A00	2019: 20	2018: 16	2017: 15.5
+Dược học	B00	2019: 20	2018: 16	2017: 15.5
+Dược học	C02	2019: 20	2018: 16	2017: 15.5
+Dược học	D01	2019: 20	2018: 16	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	A00	2019: 14	2018: 15
+Công nghệ kỹ thuật ô tô	A01	2019: 14	2018: 15
+Công nghệ kỹ thuật ô tô	C01	2019: 14	2018: 15
+Công nghệ kỹ thuật ô tô	D01	2019: 14	2018: 15
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ sinh học	A00	2019: 18	2018: 17	2017: 15.5
+Công nghệ sinh học	B00	2019: 18	2018: 17	2017: 15.5
+Công nghệ sinh học	C02	2019: 18	2018: 17	2017: 15.5
+Công nghệ sinh học	D01	2019: 18	2018: 17	2017: 15.5
+Công nghệ kỹ thuật hoá học	A00	2019: 14	2018: 17	2017: 15.5
+Công nghệ kỹ thuật hoá học	B00	2019: 14	2018: 17	2017: 15.5
+Công nghệ kỹ thuật hoá học	C02	2019: 14	2018: 17	2017: 15.5
+Công nghệ kỹ thuật hoá học	D01	2019: 14	2018: 17	2017: 15.5

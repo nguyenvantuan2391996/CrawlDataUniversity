@@ -1,0 +1,52 @@
+Kế toán	A00	2018: 13.5
+Kế toán	A01	2018: 13.5	2017: 15.5
+Kế toán	C00	2018: 13.5	2017: 15.5
+Kế toán	D01	2018: 13.5	2017: 15.5
+Kế toán	A09	2017: 15.5
+Tài chính - Ngân hàng	A01	2018: 13.5	2017: 15.5
+Tài chính - Ngân hàng	A09	2018: 13.5	2017: 15.5
+Tài chính - Ngân hàng	C00	2018: 13.5	2017: 15.5
+Tài chính - Ngân hàng	D01	2018: 13.5	2017: 15.5
+Quản trị kinh doanh	A00	2018: 13.5
+Quản trị kinh doanh	A01	2018: 13.5	2017: 15.5
+Quản trị kinh doanh	C00	2018: 13.5	2017: 15.5
+Quản trị kinh doanh	D01	2018: 13.5	2017: 15.5
+Quản trị kinh doanh	A09	2017: 15.5
+Ngôn ngữ Anh	A01	2018: 13.5	2017: 15.5
+Ngôn ngữ Anh	D01	2018: 13.5	2017: 15.5
+Ngôn ngữ Anh	A10	2018: 13.5
+Ngôn ngữ Anh	D66	2018: 13.5	2017: 15.5
+Ngôn ngữ Anh	D10	2017: 15.5
+Công nghệ thông tin	A00	2018: 13.5	2017: 15.5
+Công nghệ thông tin	A01	2018: 13.5	2017: 15.5
+Công nghệ thông tin	A02	2018: 13.5
+Công nghệ thông tin	D01	2018: 13.5	2017: 15.5
+Luật Kinh tế	A00	2018: 13.5	2017: 15.5
+Luật Kinh tế	A01	2018: 13.5	2017: 15.5
+Luật Kinh tế	C00	2018: 13.5	2017: 15.5
+Luật Kinh tế	D01	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	A01	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	A09	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	C00	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	D01	2018: 13.5	2017: 15.5
+Xã hội học	A01	2018: 14
+Xã hội học	A09	2018: 14
+Xã hội học	C00	2018: 14	2017: 15.5
+Xã hội học	D01	2018: 14	2017: 15.5
+Xã hội học	A00	2017: 15.5
+Du lịch (Việt Nam học)	A01	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	A09	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	C00	2018: 13.5	2017: 15.5
+Du lịch (Việt Nam học)	D01	2018: 13.5	2017: 15.5
+Dược học	A00	2018: 16
+Dược học	B00	2018: 16
+Dược học	C08	2018: 16
+Dược học	D07	2018: 16
+Công nghệ kỹ thuật điện - điện tử	A00	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật điện - điện tử	A01	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật điện - điện tử	A02	2018: 13.5
+Công nghệ kỹ thuật điện - điện tử	D01	2018: 13.5	2017: 15.5
+Công nghệ sinh học	A00	2018: 14	2017: 15.5
+Công nghệ sinh học	A01	2018: 14	2017: 15.5
+Công nghệ sinh học	B00	2018: 14	2017: 15.5
+Công nghệ sinh học	D01	2018: 14	2017: 15.5

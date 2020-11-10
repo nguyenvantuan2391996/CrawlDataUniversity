@@ -1,0 +1,36 @@
+Ngành Kế toán	A00	2019: 18.7	2018: 17.25	2017: 18.25
+Ngành Kế toán	A01	2019: 18.7	2018: 17.25	2017: 18.25
+Ngành Kế toán	D01	2019: 18.7	2018: 17.25	2017: 18.25
+Ngành Kế toán	D07	2019: 18.7	2018: 17.25	2017: 18.25
+Ngành Kinh tế vận tải	A00	2019: 19.85	2018: 18.25	2017: 18.5
+Ngành Kinh tế vận tải	A01	2019: 19.85	2018: 18.25	2017: 18.5
+Ngành Kinh tế vận tải	D01	2019: 19.85	2018: 18.25	2017: 18.5
+Ngành Kinh tế vận tải	D07	2019: 19.85	2018: 18.25	2017: 18.5
+Ngành Quản trị kinh doanh	A00	2019: 18	2018: 17	2017: 19
+Ngành Quản trị kinh doanh	A01	2019: 18	2018: 17	2017: 19
+Ngành Quản trị kinh doanh	D01	2019: 18	2018: 17	2017: 19
+Ngành Quản trị kinh doanh	D07	2019: 18	2018: 17	2017: 19
+Ngành Kinh tế xây dựng	A00	2019: 16.95	2018: 16.4	2017: 15.5
+Ngành Kinh tế xây dựng	A01	2019: 16.95	2018: 16.4	2017: 15.5
+Ngành Kinh tế xây dựng	D01	2019: 16.95	2018: 16.4	2017: 15.5
+Ngành Kinh tế xây dựng	D07	2019: 16.95	2018: 16.4	2017: 15.5
+Ngành Quản lý xây dựng	A00	2018: 15.65
+Ngành Quản lý xây dựng	A01	2018: 15.65
+Ngành Quản lý xây dựng	D01	2018: 15.65
+Ngành Quản lý xây dựng	D07	2018: 15.65
+Ngành Công nghệ thông tin	A00	2019: 18.25	2018: 17.4	2017: 20
+Ngành Công nghệ thông tin	A01	2019: 18.25	2018: 17.4	2017: 20
+Ngành Công nghệ thông tin	D01	2019: 18.25
+Ngành Công nghệ thông tin	D07	2019: 18.25	2018: 17.4	2017: 20
+Ngành Kỹ thuật điện tử - viễn thông	A00	2019: 15	2018: 15.35	2017: 17.25
+Ngành Kỹ thuật điện tử - viễn thông	A01	2019: 15	2018: 15.35	2017: 17.25
+Ngành Kỹ thuật điện tử - viễn thông	D01	2019: 15
+Ngành Kỹ thuật điện tử - viễn thông	D07	2019: 15	2018: 15.35	2017: 17.25
+Ngành Kỹ thuật xây dựng công trình giao thông	A00	2019: 14.1	2018: 14	2017: 15.5
+Ngành Kỹ thuật xây dựng công trình giao thông	A01	2019: 14.1	2018: 14	2017: 15.5
+Ngành Kỹ thuật xây dựng công trình giao thông	D01	2019: 14.1
+Ngành Kỹ thuật xây dựng công trình giao thông	D07	2019: 14.1	2018: 14	2017: 15.5
+Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử	A00	2019: 17.45	2018: 17.1	2017: 19.75
+Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử	A01	2019: 17.45	2018: 17.1	2017: 19.75
+Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử	D01	2019: 17.45
+Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử	D07	2019: 17.45	2018: 17.1	2017: 19.75

@@ -1,0 +1,16 @@
+Kế toán	A00	2017: 15.5
+Kế toán	A12	2017: 15.5
+Kế toán	C14	2017: 15.5
+Kế toán	D01	2017: 15.5
+Tài chính – Ngân hàng	A01	2017: 15.5
+Tài chính – Ngân hàng	A10	2017: 15.5
+Tài chính – Ngân hàng	A16	2017: 15.5
+Tài chính – Ngân hàng	C15	2017: 15.5
+Quản trị kinh doanh	A09	2017: 15.5
+Quản trị kinh doanh	A14	2017: 15.5
+Quản trị kinh doanh	A18	2017: 15.5
+Quản trị kinh doanh	C04	2017: 15.5
+Luật kinh tế	A00	2017: 15.5
+Luật kinh tế	C00	2017: 15.5
+Luật kinh tế	C23	2017: 15.5
+Luật kinh tế	D01	2017: 15.5

@@ -1,0 +1,43 @@
+Tài chính- Ngân hàng	A00	2018: 14	2017: 15.5
+Tài chính- Ngân hàng	101	2018: 14
+Tài chính- Ngân hàng	C01.D06	2018: 14
+Tài chính – Ngân hàng	A01	2017: 15.5
+Tài chính – Ngân hàng	C01	2017: 15.5
+Tài chính – Ngân hàng	D01	2017: 15.5
+Quản trị kinh doanh	A00	2018: 14	2017: 15.5
+Quản trị kinh doanh	101	2018: 14
+Quản trị kinh doanh	C01.D08	2018: 14
+Quản trị kinh doanh	A01	2017: 15.5
+Quản trị kinh doanh	C01	2017: 15.5
+Quản trị kinh doanh	D01	2017: 15.5
+Kinh tế	A00	2017: 15.5
+Kinh tế	A01	2017: 15.5
+Kinh tế	C01	2017: 15.5
+Kinh tế	D01	2017: 15.5
+Công nghệ thông tin	A00	2018: 14	2017: 15.5
+Công nghệ thông tin	101	2018: 14
+Công nghệ thông tin	C01.D05	2018: 14
+Công nghệ thông tin	A01	2017: 15.5
+Công nghệ thông tin	C01	2017: 15.5
+Công nghệ thông tin	D01	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A00	2018: 14	2017: 15.5
+Công nghệ kỹ thuật xây dựng	101	2018: 14
+Công nghệ kỹ thuật xây dựng	C01.D04	2018: 14
+Công nghệ kỹ thuật xây dựng	A01	2017: 15.5
+Công nghệ kỹ thuật xây dựng	C01	2017: 15.5
+Công nghệ kỹ thuật xây dựng	D07	2017: 15.5
+Công nghệ kỹ thuật ô tô	A00	2018: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	101	2018: 14
+Công nghệ kỹ thuật ô tô	C01.D03	2018: 14
+Công nghệ kỹ thuật ô tô	A01	2017: 15.5
+Công nghệ kỹ thuật ô tô	C01	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ khí	101	2018: 14
+Công nghệ kỹ thuật cơ khí	C01.D02	2018: 14
+Công nghệ kỹ thuật cơ khí	A01	2017: 15.5
+Công nghệ kỹ thuật cơ khí	C01	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	101	2018: 14
+Công nghệ kỹ thuật điện, điện tử	C01.D01	2018: 14
+Công nghệ kỹ thuật điện, điện tử	A01	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	C01	2017: 15.5

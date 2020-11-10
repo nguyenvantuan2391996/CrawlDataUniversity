@@ -1,0 +1,169 @@
+Kinh doanh nông nghiệp	A00	2019: 16.5
+Kinh doanh nông nghiệp	A10	2019: 16.5
+Kinh doanh nông nghiệp	B00	2019: 16.5
+Kinh doanh nông nghiệp	C02	2019: 16.5
+Kinh tế nông nghiệp	A00	2019: 13.5	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	A10	2019: 13.5
+Kinh tế nông nghiệp	B00	2019: 13.5	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	C02	2019: 13.5	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	B02	2018: 13
+Bất động sản	A00	2019: 13	2018: 13
+Bất động sản	A02	2019: 13	2018: 13
+Bất động sản	C00	2019: 13
+Bất động sản	D10	2019: 13	2018: 13
+Bất động sản	D14	2018: 13
+Kinh tế nông nghiệp	A00	2019: 18
+Kinh tế nông nghiệp	A10	2019: 18
+Kinh tế nông nghiệp	B00	2019: 18
+Kinh tế nông nghiệp	C02	2019: 18
+Kinh doanh quốc tế	A00	2019: 17
+Kinh doanh quốc tế	A01	2019: 17
+Kinh doanh quốc tế	B00	2019: 17
+Kinh doanh quốc tế	C02	2019: 17
+Kinh doanh quốc tế	A00	2019: 17
+Kinh doanh quốc tế	A01	2019: 17
+Kinh doanh quốc tế	B00	2019: 17
+Kinh doanh quốc tế	C02	2019: 17
+Công nghệ kỹ thuật môi trường	A00	2019: 15	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A09	2019: 15
+Công nghệ kỹ thuật môi trường	B00	2019: 15	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D01	2019: 15	2018: 13
+Công nghệ kỹ thuật môi trường	C02	2018: 13
+Quản lý tài nguyên và môi trường	A01	2019: 13.5
+Quản lý tài nguyên và môi trường	B00	2019: 13.5
+Quản lý tài nguyên và môi trường	C00	2019: 13.5	2018: 13
+Quản lý tài nguyên và môi trường	D14	2019: 13.5	2018: 13
+Quản lý tài nguyên và môi trường	A06	2018: 13
+Quản lý tài nguyên và môi trường	C14	2018: 13
+Khoa học môi trường	A07	2019: 13.5
+Khoa học môi trường	A09	2019: 13.5
+Khoa học môi trường	B00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học môi trường	D01	2019: 13.5
+Khoa học môi trường	C04	2018: 13
+Khoa học môi trường	C17	2018: 13
+Khoa học môi trường	A00	2018: 13	2017: 15.5
+Quản lý đất đai	A00	2019: 13	2018: 13	2017: 15.5
+Quản lý đất đai	B00	2019: 13
+Quản lý đất đai	D10	2019: 13	2018: 13
+Quản lý đất đai	A02	2018: 13
+Quản lý đất đai	C13	2018: 13
+Khoa học môi trường	A07	2019: 18
+Khoa học môi trường	A09	2019: 18
+Khoa học môi trường	B00	2019: 18
+Khoa học môi trường	D01	2019: 18
+Quản lý tài nguyên và môi trường	A01	2019: 17
+Quản lý tài nguyên và môi trường	B00	2019: 17
+Quản lý tài nguyên và môi trường	C00	2019: 17
+Quản lý tài nguyên và môi trường	D14	2019: 17
+Quản lý đất đai	A00	2019: 17
+Quản lý đất đai	B00	2019: 17
+Quản lý đất đai	D10	2019: 17
+Lâm sinh	A00	2019: 20	2018: 13
+Lâm sinh	B00	2019: 20	2018: 13
+Lâm sinh	B02	2019: 20	2018: 13
+Lâm sinh	C02	2019: 20	2018: 13
+Quản lý tài nguyên rừng	A01	2019: 18.5
+Quản lý tài nguyên rừng	A14	2019: 18.5	2018: 13
+Quản lý tài nguyên rừng	B00	2019: 18.5	2018: 13	2017: 15.5
+Quản lý tài nguyên rừng	B03	2019: 18.5	2018: 13
+Quản lý tài nguyên rừng	A00	2018: 13	2017: 15.5
+Khoa học cây trồng	A00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B02	2019: 13.5	2018: 13
+Khoa học cây trồng	C02	2019: 13.5	2018: 13	2017: 15.5
+Chăn nuôi	A00	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	B00	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	C02	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	D01	2019: 13	2018: 13	2017: 15.5
+Nông nghiệp	A00	2019: 13	2018: 13
+Nông nghiệp	B00	2019: 13	2018: 13
+Nông nghiệp	B02	2019: 13	2018: 13
+Nông nghiệp	C02	2019: 13	2018: 13
+Công nghệ sau thu hoạch	A00	2018: 13
+Công nghệ sau thu hoạch	B00	2018: 13
+Công nghệ sau thu hoạch	C04	2018: 13
+Công nghệ sau thu hoạch	D10	2018: 13
+Phát triển nông thôn	B02	2018: 13
+Phát triển nông thôn	A00	2018: 13	2017: 15.5
+Phát triển nông thôn	B00	2018: 13	2017: 15.5
+Phát triển nông thôn	C02	2018: 13	2017: 15.5
+Khoa học cây trồng	A00	2019: 17
+Khoa học cây trồng	B00	2019: 17
+Khoa học cây trồng	B02	2019: 17
+Khoa học cây trồng	C02	2019: 17
+Lâm sinh	A00	2019: 17
+Lâm sinh	B00	2019: 17
+Lâm sinh	B02	2019: 17
+Lâm sinh	C02	2019: 17
+Quản lý tài nguyên rừng	A01	2019: 17
+Quản lý tài nguyên rừng	A14	2019: 17
+Quản lý tài nguyên rừng	B00	2019: 17
+Quản lý tài nguyên rừng	B03	2019: 17
+Chăn nuôi	A00	2019: 15
+Chăn nuôi	B00	2019: 15
+Chăn nuôi	C02	2019: 15
+Chăn nuôi	D01	2019: 15
+Thú y	A00	2019: 13	2018: 13	2017: 15.5
+Thú y	B00	2019: 13	2018: 13	2017: 15.5
+Thú y	C02	2019: 13	2018: 13	2017: 15.5
+Thú y	D01	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	A00	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	B00	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	C02	2019: 13	2018: 13	2017: 15.5
+Chăn nuôi	D01	2019: 13	2018: 13	2017: 15.5
+Thú y	A00	2019: 17
+Thú y	B00	2019: 17
+Thú y	C02	2019: 17
+Thú y	D01	2019: 17
+Chăn nuôi	A00	2019: 15
+Chăn nuôi	B00	2019: 15
+Chăn nuôi	C02	2019: 15
+Chăn nuôi	D01	2019: 15
+Công nghệ thực phẩm (CTTT)	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thực phẩm (CTTT)	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thực phẩm (CTTT)	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thực phẩm (CTTT)	D08	2019: 13.5
+Khoa học cây trồng	A00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B00	2019: 13.5	2018: 13	2017: 15.5
+Khoa học cây trồng	B02	2019: 13.5	2018: 13
+Khoa học cây trồng	C02	2019: 13.5	2018: 13	2017: 15.5
+Đảm bảo chất lượng và an toàn thực phẩm	A00	2019: 13.5	2018: 13
+Đảm bảo chất lượng và an toàn thực phẩm	B00	2019: 13.5	2018: 13
+Đảm bảo chất lượng và an toàn thực phẩm	D01	2019: 13.5
+Đảm bảo chất lượng và an toàn thực phẩm	D07	2019: 13.5
+Đảm bảo chất lượng và an toàn thực phẩm	C04	2018: 13
+Đảm bảo chất lượng và an toàn thực phẩm	D10	2018: 13
+Công nghệ sau thu hoạch	A00	2018: 13
+Công nghệ sau thu hoạch	B00	2018: 13
+Công nghệ sau thu hoạch	C04	2018: 13
+Công nghệ sau thu hoạch	D10	2018: 13
+Công nghệ thực phẩm (CTTT)	A00	2019: 20
+Công nghệ thực phẩm (CTTT)	B00	2019: 20
+Công nghệ thực phẩm (CTTT)	D01	2019: 20
+Công nghệ thực phẩm (CTTT)	D08	2019: 20
+Đảm bảo chất lượng và an toàn thực phẩm	A00	2019: 17
+Đảm bảo chất lượng và an toàn thực phẩm	B00	2019: 17
+Đảm bảo chất lượng và an toàn thực phẩm	D01	2019: 17
+Đảm bảo chất lượng và an toàn thực phẩm	D07	2019: 17
+Khoa học cây trồng	A00	2019: 17
+Khoa học cây trồng	B00	2019: 17
+Khoa học cây trồng	B02	2019: 17
+Khoa học cây trồng	C02	2019: 17
+Công nghệ kỹ thuật môi trường	A00	2019: 15	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A09	2019: 15
+Công nghệ kỹ thuật môi trường	B00	2019: 15	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D01	2019: 15	2018: 13
+Công nghệ kỹ thuật môi trường	C02	2018: 13
+Công nghệ sinh học	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ sinh học	B02	2019: 13.5
+Công nghệ sinh học	B04	2019: 13.5
+Công nghệ sinh học	B05	2019: 13.5
+Công nghệ sinh học	C04	2018: 13
+Công nghệ sinh học	D10	2018: 13
+Công nghệ sinh học	A00	2018: 13	2017: 15.5
+Công nghệ sinh học	C02	2018: 13	2017: 15.5
+Công nghệ sinh học	D01	2018: 13	2017: 15.5
+Công nghệ sinh học	B00	2019: 17
+Công nghệ sinh học	B02	2019: 17
+Công nghệ sinh học	B04	2019: 17
+Công nghệ sinh học	B05	2019: 17

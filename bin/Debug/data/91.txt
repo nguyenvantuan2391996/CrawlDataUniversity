@@ -1,0 +1,142 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D07	2019: 14
+Kế toán	A00	2019: 22.5
+Kế toán	A01	2019: 22.5
+Kế toán	D01	2019: 22.5
+Kế toán	D07	2019: 22.5
+Tài chính Ngân hàng	A00	2019: 14
+Tài chính Ngân hàng	A01	2019: 14
+Tài chính Ngân hàng	D01	2019: 14
+Tài chính Ngân hàng	D07	2019: 14
+Tài chính Ngân hàng	A00	2019: 21.5
+Tài chính Ngân hàng	A01	2019: 21.5
+Tài chính Ngân hàng	D01	2019: 21.5
+Tài chính Ngân hàng	D07	2019: 21.5
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 16
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 16
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 16
+Quản trị kinh doanh	D07	2019: 14
+Quản trị kinh doanh	A00	2019: 23.3
+Quản trị kinh doanh	A01	2019: 23.3
+Quản trị kinh doanh	D01	2019: 23.3
+Quản trị kinh doanh	D07	2019: 23.3
+Công nghệ thông tin	A00	2019: 15	2018: 14	2017: 16.5
+Công nghệ thông tin	A01	2019: 15	2018: 14	2017: 16.5
+Công nghệ thông tin	C01	2019: 15
+Công nghệ thông tin	D01	2019: 15	2018: 14	2017: 16.5
+Công nghệ thông tin	A00	2019: 25.9
+Công nghệ thông tin	A01	2019: 25.9
+Công nghệ thông tin	C01	2019: 25.9
+Công nghệ thông tin	D01	2019: 25.9
+Kỹ thuật xây dựng	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	C01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	D07	2019: 14	2018: 14	2017: 15.5
+Địa kỹ thuật xây dựng	A00	2019: 14
+Địa kỹ thuật xây dựng	A01	2019: 14
+Địa kỹ thuật xây dựng	A04	2019: 14
+Địa kỹ thuật xây dựng	A06	2019: 14
+Địa kỹ thuật xây dựng	A00	2019: 21.9
+Địa kỹ thuật xây dựng	A01	2019: 21.9
+Địa kỹ thuật xây dựng	A04	2019: 21.9
+Địa kỹ thuật xây dựng	A06	2019: 21.9
+Kỹ thuật xây dựng	A00	2019: 19.97
+Kỹ thuật xây dựng	A01	2019: 19.97
+Kỹ thuật xây dựng	C01	2019: 19.97
+Kỹ thuật xây dựng	D07	2019: 19.97
+Kỹ thuật địa vật lý	A00	2019: 15	2018: 15	2017: 17
+Kỹ thuật địa vật lý	A01	2019: 15	2018: 15	2017: 17
+Kỹ thuật dầu khí	A00	2019: 15	2018: 15	2017: 17
+Kỹ thuật dầu khí	A01	2019: 15	2018: 15	2017: 17
+Địa chất học	A00	2019: 14
+Địa chất học	A01	2019: 14
+Địa chất học	A04	2019: 14
+Địa chất học	A06	2019: 14
+Kỹ thuật địa chất	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật địa chất	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật địa chất	A04	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật địa chất	A06	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	C01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	D01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật mỏ	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật mỏ	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật mỏ	C01	2019: 14
+Kỹ thuật mỏ	D01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật dầu khí	A00	2019: 14
+Kỹ thuật dầu khí	A01	2019: 14
+Kỹ thuật địa vật lý	A00	2019: 19.5
+Kỹ thuật địa vật lý	A01	2019: 19.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 19
+Kỹ thuật trắc địa - bản đồ	A01	2019: 19
+Kỹ thuật trắc địa - bản đồ	C01	2019: 19
+Kỹ thuật trắc địa - bản đồ	D01	2019: 19
+Kỹ thuật mỏ	A00	2019: 18.3
+Kỹ thuật mỏ	A01	2019: 18.3
+Kỹ thuật mỏ	C01	2019: 18.3
+Kỹ thuật mỏ	D01	2019: 18.3
+Kỹ thuật dầu khí	A00	2019: 18.1
+Kỹ thuật dầu khí	A01	2019: 18.1
+Địa chất học	A00	2019: 18
+Địa chất học	A01	2019: 18
+Địa chất học	A04	2019: 18
+Địa chất học	A06	2019: 18
+Kỹ thuật địa chất	A00	2019: 18
+Kỹ thuật địa chất	A01	2019: 18
+Kỹ thuật địa chất	A04	2019: 18
+Kỹ thuật địa chất	A06	2019: 18
+Kỹ thuật trắc địa - bản đồ	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	C01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	D01	2019: 14	2018: 14	2017: 15.5
+Quản lý đất đai	A00	2019: 14	2018: 14	2017: 15.5
+Quản lý đất đai	A01	2019: 14	2018: 14	2017: 15.5
+Quản lý đất đai	B00	2019: 14	2018: 14	2017: 15.5
+Quản lý đất đai	D01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 19
+Kỹ thuật trắc địa - bản đồ	A01	2019: 19
+Kỹ thuật trắc địa - bản đồ	C01	2019: 19
+Kỹ thuật trắc địa - bản đồ	D01	2019: 19
+Quản lý đất đai	A00	2019: 18
+Quản lý đất đai	A01	2019: 18
+Quản lý đất đai	B00	2019: 18
+Quản lý đất đai	D01	2019: 18
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 17.5	2018: 16	2017: 17.99
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 17.5	2018: 16	2017: 17.99
+Kỹ thuật điều khiển và tự động hoá	D07	2019: 17.5
+Kỹ thuật cơ khí	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật cơ khí	A01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật điện	A00	2019: 14	2018: 14	2017: 17.99
+Kỹ thuật điện	A01	2019: 14	2018: 14	2017: 17.99
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 24.1
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 24.1
+Kỹ thuật điều khiển và tự động hoá	D07	2019: 24.1
+Kỹ thuật cơ khí	A00	2019: 18
+Kỹ thuật cơ khí	A01	2019: 18
+Kỹ thuật điện	A00	2019: 18
+Kỹ thuật điện	A01	2019: 18
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 17.5	2018: 16	2017: 17.99
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 17.5	2018: 16	2017: 17.99
+Kỹ thuật điều khiển và tự động hoá	D07	2019: 17.5
+Kỹ thuật điện	A00	2019: 14	2018: 14	2017: 17.99
+Kỹ thuật điện	A01	2019: 14	2018: 14	2017: 17.99
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 24.1
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 24.1
+Kỹ thuật điều khiển và tự động hoá	D07	2019: 24.1
+Kỹ thuật điện	A00	2019: 18
+Kỹ thuật điện	A01	2019: 18
+Công nghệ kỹ thuật hoá học	A00	2019: 15	2018: 15	2017: 17
+Công nghệ kỹ thuật hoá học	A01	2019: 15	2018: 15	2017: 17
+Công nghệ kỹ thuật hoá học	D07	2019: 15	2018: 15	2017: 17
+Kỹ thuật môi trường	A00	2019: 14	2018: 14	2017: 16
+Kỹ thuật môi trường	A01	2019: 14	2018: 14	2017: 16
+Kỹ thuật môi trường	B00	2019: 14	2018: 14	2017: 16
+Công nghệ kỹ thuật hoá học	A00	2019: 20.7
+Công nghệ kỹ thuật hoá học	A01	2019: 20.7
+Công nghệ kỹ thuật hoá học	D07	2019: 20.7
+Kỹ thuật môi trường	A00	2019: 18
+Kỹ thuật môi trường	A01	2019: 18
+Kỹ thuật môi trường	B00	2019: 18

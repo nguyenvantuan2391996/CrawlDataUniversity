@@ -1,0 +1,16 @@
+Tài chính và Kế toán (FA)	A00	2019: 20	2018: 20.2
+Tài chính và Kế toán (FA)	A01	2019: 20	2018: 20.2
+Tài chính và Kế toán (FA)	D01	2019: 20	2018: 20.2
+Tài chính và Kế toán (FA)	D03	2019: 20	2018: 20.2
+Tài chính và Kế toán (FA)	D05	2019: 20	2018: 20.2
+Quản trị kinh doanh (BA)	A00	2019: 20	2018: 20.05	2017: 21
+Quản trị kinh doanh (BA)	A01	2019: 20	2018: 20.05	2017: 21
+Quản trị kinh doanh (BA)	D01	2019: 20	2018: 20.05	2017: 21
+Quản trị kinh doanh (BA)	D03	2019: 20	2018: 20.05	2017: 21
+Quản trị kinh doanh (BA)	D05	2019: 20	2018: 20.05
+Khoa học máy tính (CS)	A00	2019: 21	2018: 20.1	2017: 21
+Khoa học máy tính (CS)	A01	2019: 21	2018: 20.1	2017: 21
+Kỹ thuật xây dựng (CE)	A00	2019: 20	2017: 21
+Kỹ thuật xây dựng (CE)	A01	2019: 20	2017: 21
+Kỹ thuật cơ khí (ME)	A00	2019: 21	2018: 20	2017: 21
+Kỹ thuật cơ khí (ME)	A01	2019: 21	2018: 20	2017: 21

@@ -1,0 +1,56 @@
+ĐH Kế toán	A00	2018: 14	2017: 18.5
+ĐH Kế toán	A01	2018: 14	2017: 18.5
+ĐH Kế toán	D01	2018: 14	2017: 18.5
+ĐH Kế toán	D90	2018: 14	2017: 18.5
+ĐH Tài chính ngân hàng	A00	2018: 13	2017: 14.5
+ĐH Tài chính ngân hàng	A01	2018: 13	2017: 14.5
+ĐH Tài chính ngân hàng	D01	2018: 13	2017: 14.5
+ĐH Tài chính ngân hàng	D90	2018: 13	2017: 14.5
+ĐH Quản trị Kinh doanh	A00	2018: 14	2017: 17.5
+ĐH Quản trị Kinh doanh	A01	2018: 14	2017: 17.5
+ĐH Quản trị Kinh doanh	D01	2018: 14	2017: 17.5
+ĐH Quản trị Kinh doanh	D90	2018: 14	2017: 17.5
+ĐH Công nghệ Thông tin	A00	2018: 13	2017: 15.5
+ĐH Công nghệ Thông tin	A01	2018: 13	2017: 15.5
+ĐH Công nghệ Thông tin	D07	2018: 13	2017: 15.5
+ĐH Công nghệ Thông tin	D90	2018: 13	2017: 15.5
+ĐH Công nghệ Kỹ thuật Xây dựng	A00	2018: 13	2017: 14.5
+ĐH Công nghệ Kỹ thuật Xây dựng	A01	2018: 13	2017: 14.5
+ĐH Công nghệ Kỹ thuật Xây dựng	D07	2018: 13	2017: 14.5
+ĐH Công nghệ Kỹ thuật Xây dựng	D90	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	A00	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	A01	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	B00	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	D08	2018: 13	2017: 14.5
+ĐH Nuôi trồng thủy sản	A00	2018: 13	2017: 14.5
+ĐH Nuôi trồng thủy sản	A01	2018: 13	2017: 14.5
+ĐH Nuôi trồng thủy sản	B00	2018: 13	2017: 14.5
+ĐH Nuôi trồng thủy sản	D08	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	A00	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	A01	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	D07	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	D90	2018: 13	2017: 14.5
+ĐH Công nghệ Kỹ thuật Cơ khí	A00	2018: 13	2017: 15.5
+ĐH Công nghệ Kỹ thuật Cơ khí	A01	2018: 13	2017: 15.5
+ĐH Công nghệ Kỹ thuật Cơ khí	D07	2018: 13	2017: 15.5
+ĐH Công nghệ Kỹ thuật Cơ khí	D90	2018: 13	2017: 15.5
+ĐH Công nghệ kỹ thuật cơ điện tử	A00	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	A01	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	D07	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật cơ điện tử	D90	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật điều khiển và tự động hóa	D07	2018: 13	2017: 14.5
+ĐH Công nghệ kỹ thuật điều khiển và tự động hóa	D90	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	A00	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	A01	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	B00	2018: 13	2017: 14.5
+ĐH Khoa học cây trồng	D08	2018: 13	2017: 14.5
+ĐH Công nghệ Sinh học	A00	2018: 13	2017: 14.5
+ĐH Công nghệ Sinh học	A01	2018: 13	2017: 14.5
+ĐH Công nghệ Sinh học	B00	2018: 13	2017: 14.5
+ĐH Công nghệ Sinh học	D08	2018: 13	2017: 14.5
+ĐH Toán ứng dụng	A00	2018: 13	2017: 14.5
+ĐH Toán ứng dụng	A01	2018: 13	2017: 14.5
+ĐH Toán ứng dụng	D07	2018: 13	2017: 14.5
+ĐH Toán ứng dụng	D90	2018: 13	2017: 14.5

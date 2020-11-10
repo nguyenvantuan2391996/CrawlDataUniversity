@@ -1,0 +1,60 @@
+Kế toán	A00	2019: 14	2018: 15	2017: 15.5
+Kế toán	A01	2019: 14	2018: 15	2017: 15.5
+Kế toán	D01	2019: 14	2018: 15	2017: 15.5
+Kế toán	D10	2019: 14	2018: 15
+Tài chính - Ngân hàng	A00	2019: 14	2018: 14	2017: 15.5
+Tài chính - Ngân hàng	A01	2019: 14	2018: 14	2017: 15.5
+Tài chính - Ngân hàng	D01	2019: 14	2018: 14	2017: 15.5
+Tài chính - Ngân hàng	D10	2019: 14	2018: 14
+Quản trị kinh doanh	A00	2019: 14	2018: 15.1	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 15.1	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 15.1	2017: 15.5
+Quản trị kinh doanh	D10	2019: 14	2018: 15.1
+Ngôn ngữ Trung Quốc	C00	2019: 18	2018: 16	2017: 15.5
+Ngôn ngữ Trung Quốc	D01	2019: 18	2018: 16	2017: 15.5
+Ngôn ngữ Trung Quốc	D14	2019: 18	2018: 16	2017: 15.5
+Ngôn ngữ Trung Quốc	D15	2019: 18	2018: 16	2017: 15.5
+Ngôn ngữ Anh (Biên phiên dịch; Tiếng Anh kinh doanh)	D01	2019: 14	2018: 15.8	2017: 15.5
+Ngôn ngữ Anh (Biên phiên dịch; Tiếng Anh kinh doanh)	D14	2019: 14	2018: 15.8	2017: 15.5
+Ngôn ngữ Anh (Biên phiên dịch; Tiếng Anh kinh doanh)	D15	2019: 14	2018: 15.8	2017: 15.5
+Khoa học máy tính (Công nghệ thông tin)	A00	2019: 14	2018: 14.2	2017: 15.5
+Khoa học máy tính (Công nghệ thông tin)	A01	2019: 14	2018: 14.2	2017: 15.5
+Khoa học máy tính (Công nghệ thông tin)	A02	2019: 14	2018: 14.2
+Khoa học máy tính (Công nghệ thông tin)	A04	2019: 14	2018: 14.2
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	C00	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	C19	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	C20	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	D14	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	C00	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	C19	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	C20	2019: 17	2018: 18.5	2017: 15.5
+Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn)	D14	2019: 17	2018: 18.5	2017: 15.5
+Công tác xã hội	C00	2019: 14	2018: 14	2017: 15.5
+Công tác xã hội	C19	2019: 14	2018: 14	2017: 15.5
+Công tác xã hội	C20	2019: 14	2018: 14	2017: 15.5
+Công tác xã hội	D14	2019: 14	2018: 14	2017: 15.5
+Sư phạm Tiếng Anh	D01	2019: 19.5	2018: 17.11	2017: 15.5
+Sư phạm Tiếng Anh	D13	2019: 19.5	2018: 17.11
+Sư phạm Tiếng Anh	D14	2019: 19.5	2018: 17.11	2017: 15.5
+Sư phạm Tiếng Anh	D15	2019: 19.5	2018: 17.11	2017: 15.5
+Giáo dục Chính trị	C00	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C18	2019: 18	2018: 17
+Giáo dục Chính trị	D01	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	D14	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C19	2017: 15.5
+Quàn lý đất đai	A00	2019: 20.7	2018: 14	2017: 24
+Quàn lý đất đai	A01	2019: 20.7	2018: 14	2017: 24
+Quàn lý đất đai	B00	2019: 20.7	2018: 14	2017: 24
+Quàn lý đất đai	D07	2019: 20.7	2018: 14	2017: 24
+Khoa học môi trường	A00	2019: 14	2018: 14	2017: 15.5
+Khoa học môi trường	B00	2019: 14	2018: 14	2017: 15.5
+Khoa học môi trường	D07	2019: 14	2018: 14	2017: 15.5
+Khoa học môi trường	D08	2019: 14	2018: 14	2017: 15.5
+Nuôi trồng thuỷ sản	A00	2019: 14	2018: 14.05	2017: 15.5
+Nuôi trồng thuỷ sản	B00	2019: 14	2018: 14.05	2017: 15.5
+Nuôi trồng thuỷ sản	D07	2019: 14	2018: 14.05	2017: 15.5
+Nuôi trồng thuỷ sản	D08	2019: 14	2018: 14.05	2017: 15.5
+Nông học	A00	2019: 14	2018: 14	2017: 15.5
+Nông học	B00	2019: 14	2018: 14	2017: 15.5
+Nông học	D07	2019: 14	2018: 14	2017: 15.5
+Nông học	D08	2019: 14	2018: 14	2017: 15.5

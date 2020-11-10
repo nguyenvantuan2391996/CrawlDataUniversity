@@ -1,0 +1,30 @@
+Quản trị kinh doanh	A00	2019: 17.5	2018: 14.5	2017: 15.75
+Quản trị kinh doanh	C00	2019: 17.5
+Quản trị kinh doanh	D01	2019: 17.5	2018: 14.5	2017: 15.75
+Quản trị kinh doanh	D10	2019: 17.5	2018: 14.5	2017: 15.75
+Quản trị kinh doanh	A01	2018: 14.5	2017: 15.75
+Kinh tế	A00	2018: 14.5	2017: 15.75
+Kinh tế	A01	2018: 14.5	2017: 15.75
+Kinh tế	D01	2018: 14.5	2017: 15.75
+Kinh tế	D10	2018: 14.5	2017: 15.75
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18	2018: 17.5	2017: 21.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 18	2017: 21.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18	2018: 17.5	2017: 21.5
+Quản trị dịch vụ du lịch và lữ hành	D10	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2018: 17.5	2017: 21.5
+Quản trị dịch vụ du lịch và lữ hành	C01	2018: 17.5
+Quản trị nhà hàng và dịch vụ ăn uống	A00	2019: 17.5	2018: 15.25
+Quản trị nhà hàng và dịch vụ ăn uống	C00	2019: 17.5
+Quản trị nhà hàng và dịch vụ ăn uống	D01	2019: 17.5	2018: 15.25
+Quản trị nhà hàng và dịch vụ ăn uống	D10	2019: 17.5	2018: 15.25
+Quản trị nhà hàng và dịch vụ ăn uống	A01	2018: 15.25
+Quản trị khách sạn	A00	2019: 17.25	2018: 15.25
+Quản trị khách sạn	C00	2019: 17.25
+Quản trị khách sạn	D01	2019: 17.25	2018: 15.25
+Quản trị khách sạn	D10	2019: 17.25	2018: 15.25
+Quản trị khách sạn	A01	2018: 15.25
+Du lịch	A00	2019: 17	2018: 15
+Du lịch	C00	2019: 17
+Du lịch	D01	2019: 17	2018: 15
+Du lịch	D10	2019: 17	2018: 15
+Du lịch	A01	2018: 15

@@ -1,0 +1,21 @@
+Kế toán	A00	2019: 13	2018: 14
+Kế toán	A01	2019: 13	2018: 14
+Kế toán	D01	2019: 13	2018: 14
+Quản trị kinh doanh	A00	2019: 13	2018: 14
+Quản trị kinh doanh	A01	2019: 13	2018: 14
+Quản trị kinh doanh	D01	2019: 13	2018: 14
+Mạng máy tính và truyền thông dữ liệu	A00	2019: 13	2018: 14
+Mạng máy tính và truyền thông dữ liệu	A01	2019: 13	2018: 14
+Mạng máy tính và truyền thông dữ liệu	D01	2019: 13	2018: 14
+Công nghệ thông tin	A00	2019: 13	2018: 14
+Công nghệ thông tin	A01	2019: 13	2018: 14
+Công nghệ thông tin	D01	2019: 13	2018: 14
+Kỹ thuật cơ khí	A00	2019: 13	2018: 14
+Kỹ thuật cơ khí	A01	2019: 13	2018: 14
+Kỹ thuật cơ khí	D01	2019: 13	2018: 14
+Kỹ thuật điện	A00	2019: 13	2018: 14
+Kỹ thuật điện	A01	2019: 13	2018: 14
+Kỹ thuật điện	D01	2019: 13	2018: 14
+Kỹ thuật điện	A00	2019: 13	2018: 14
+Kỹ thuật điện	A01	2019: 13	2018: 14
+Kỹ thuật điện	D01	2019: 13	2018: 14

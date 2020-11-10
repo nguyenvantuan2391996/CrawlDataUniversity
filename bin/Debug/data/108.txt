@@ -1,0 +1,96 @@
+Kế toán	A00	2019: 13	2018: 13	2017: 15.5
+Kế toán	A01	2019: 13	2018: 13	2017: 15.5
+Kế toán	D01	2019: 13	2018: 13	2017: 15.5
+Kế toán	D07	2019: 13	2018: 13	2017: 15.5
+Kế toán	A00	2019: 16
+Kế toán	A01	2019: 16
+Kế toán	D01	2019: 16
+Kế toán	D07	2019: 16
+Tài chính Ngân hàng	A00	2019: 13	2018: 13	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 13	2018: 13	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 13	2018: 13	2017: 15.5
+Tài chính Ngân hàng	D07	2019: 13	2018: 13	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 16
+Tài chính Ngân hàng	A01	2019: 16
+Tài chính Ngân hàng	D01	2019: 16
+Tài chính Ngân hàng	D07	2019: 16
+Quản trị kinh doanh	A00	2019: 13	2018: 13	2017: 15.5
+Quản trị kinh doanh	A01	2019: 13	2018: 13	2017: 15.5
+Quản trị kinh doanh	D01	2019: 13	2018: 13	2017: 15.5
+Quản trị kinh doanh	D07	2019: 13	2018: 13	2017: 15.5
+Quản trị kinh doanh	A00	2019: 16
+Quản trị kinh doanh	A01	2019: 16
+Quản trị kinh doanh	D01	2019: 16
+Quản trị kinh doanh	D07	2019: 16
+Công nghệ thông tin	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ thông tin	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ thông tin	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ thông tin	D07	2019: 13	2018: 13	2017: 15.5
+Công nghệ thông tin	A00	2019: 16
+Công nghệ thông tin	A01	2019: 16
+Công nghệ thông tin	D01	2019: 16
+Công nghệ thông tin	D07	2019: 16
+Công nghệ kỹ thuật công trình xây dựng	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	D07	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	A00	2019: 16
+Công nghệ kỹ thuật công trình xây dựng	A01	2019: 16
+Công nghệ kỹ thuật công trình xây dựng	D01	2019: 16
+Công nghệ kỹ thuật công trình xây dựng	D07	2019: 16
+Kỹ thuật địa chất	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật địa chất	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật địa chất	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật địa chất	D07	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	D07	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật mỏ	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật mỏ	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật mỏ	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật mỏ	D07	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật địa chất	A00	2019: 16
+Kỹ thuật địa chất	A01	2019: 16
+Kỹ thuật địa chất	D01	2019: 16
+Kỹ thuật địa chất	D07	2019: 16
+Kỹ thuật trắc địa - bản đồ	A00	2019: 16
+Kỹ thuật trắc địa - bản đồ	A01	2019: 16
+Kỹ thuật trắc địa - bản đồ	D01	2019: 16
+Kỹ thuật trắc địa - bản đồ	D07	2019: 16
+Kỹ thuật mỏ	A00	2019: 16
+Kỹ thuật mỏ	A01	2019: 16
+Kỹ thuật mỏ	D01	2019: 16
+Kỹ thuật mỏ	D07	2019: 16
+Kỹ thuật trắc địa - bản đồ	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	D07	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật trắc địa - bản đồ	A00	2019: 16
+Kỹ thuật trắc địa - bản đồ	A01	2019: 16
+Kỹ thuật trắc địa - bản đồ	D01	2019: 16
+Kỹ thuật trắc địa - bản đồ	D07	2019: 16
+Công nghệ kỹ thuật cơ khí	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D07	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 16
+Công nghệ kỹ thuật cơ khí	A01	2019: 16
+Công nghệ kỹ thuật cơ khí	D01	2019: 16
+Công nghệ kỹ thuật cơ khí	D07	2019: 16
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D07	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 16
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 16
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 16
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 16
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 16
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 16
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 16
+Công nghệ kỹ thuật điều khiển và tự động hóa	D07	2019: 16

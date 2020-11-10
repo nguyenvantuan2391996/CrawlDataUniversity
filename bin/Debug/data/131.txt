@@ -1,0 +1,68 @@
+Quản trị kinh doanh	A00	2019: 20	2018: 25.85	2017: 20
+Quản trị kinh doanh	D01	2019: 20	2018: 25.85	2017: 20
+Quản trị kinh doanh	D78	2019: 20	2018: 25.85	2017: 20
+Quản trị kinh doanh	D90	2019: 20	2018: 25.85	2017: 20
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 20	2018: 23.83	2017: 20
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 20	2018: 23.83	2017: 20
+Logistics và Quản lý chuỗi cung ứng	D78	2019: 20	2018: 23.83	2017: 20
+Logistics và Quản lý chuỗi cung ứng	D90	2019: 20	2018: 23.83	2017: 20
+Ngôn ngữ Trung Quốc	D01	2019: 28	2018: 27.02	2017: 26.17
+Ngôn ngữ Trung Quốc	D14	2019: 28	2018: 27.02	2017: 26.17
+Ngôn ngữ Trung Quốc	D15	2019: 28	2018: 27.02	2017: 26.17
+Ngôn ngữ Trung Quốc	D78	2019: 28	2018: 27.02	2017: 26.17
+Ngôn ngữ Anh	D01	2019: 27.5	2018: 27.8	2017: 28.5
+Ngôn ngữ Anh	D14	2019: 27.5	2018: 27.8	2017: 28.5
+Ngôn ngữ Anh	D15	2019: 27.5	2018: 27.8	2017: 28.5
+Ngôn ngữ Anh	D78	2019: 27.5	2018: 27.8	2017: 28.5
+Công nghệ thông tin	A00	2019: 20	2017: 18.92
+Công nghệ thông tin	A01	2019: 20	2018: 23.93	2017: 18.92
+Công nghệ thông tin	D01	2019: 20	2018: 23.93	2017: 18.92
+Công nghệ thông tin	D90	2019: 20	2018: 23.93	2017: 18.92
+Công nghệ thông tin (ĐH)	D00	2018: 23.93
+Luật	C00	2019: 20	2017: 21.25
+Luật	D66	2019: 20	2017: 21.25
+Luật	D78	2019: 20	2017: 21.25
+Luật	D90	2019: 20	2017: 21.25
+Việt Nam học	C00	2019: 18	2018: 22.58	2017: 21.42
+Việt Nam học	D14	2019: 18	2018: 22.58	2017: 21.42
+Việt Nam học	D15	2019: 18	2018: 22.58	2017: 21.42
+Việt Nam học	D78	2019: 18	2018: 22.58	2017: 21.42
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 18	2018: 30.42	2017: 19.5
+Quản trị dịch vụ du lịch và lữ hành	D15	2019: 18	2018: 30.42	2017: 19.5
+Quản trị dịch vụ du lịch và lữ hành	D78	2019: 18	2018: 30.42	2017: 19.5
+Quản tri dịch vụ du lịch vi lữ hành (ĐH)	C00	2018: 30.42	2017: 19.5
+Quản trị khách sạn	D01	2019: 18
+Quản trị khách sạn	D14	2019: 18	2018: 30.75	2017: 21
+Quản trị khách sạn	D15	2019: 18	2018: 30.75	2017: 21
+Quản trị khách sạn	D78	2019: 18	2018: 30.75	2017: 21
+Quản tri khách sạn (ĐH)	C00	2018: 30.75	2017: 21
+Việt Nam học	C00	2019: 18	2018: 22.58	2017: 21.42
+Việt Nam học	D14	2019: 18	2018: 22.58	2017: 21.42
+Việt Nam học	D15	2019: 18	2018: 22.58	2017: 21.42
+Việt Nam học	D78	2019: 18	2018: 22.58	2017: 21.42
+Công tác xã hội	C00	2019: 18	2018: 22.25	2017: 20.92
+Công tác xã hội	D01	2019: 18	2018: 22.25	2017: 20.92
+Công tác xã hội	D66	2019: 18	2018: 22.25	2017: 20.92
+Công tác xã hội	D78	2019: 18	2018: 22.25	2017: 20.92
+Sư phạm Tiếng Anh	D01	2019: 21.5
+Sư phạm Tiếng Anh	D14	2019: 21.5
+Sư phạm Tiếng Anh	D15	2019: 21.5
+Sư phạm Tiếng Anh	D78	2019: 21.5
+Quản lý giáo dục	C00	2019: 18	2018: 21.25	2017: 21
+Quản lý Giáo dục (ĐH)	D14	2018: 21.25	2017: 21
+Quản lý Giáo dục (ĐH)	D15	2018: 21.25	2017: 21
+Quản lý Giáo dục (ĐH)	D78	2018: 21.25	2017: 21
+Công nghệ kỹ thuật môi trường	A00	2019: 23
+Công nghệ kỹ thuật môi trường	B00	2019: 23	2018: 20.52	2017: 20
+Công nghệ kỹ thuật môi trường	D07	2019: 23	2018: 20.52	2017: 20
+Công nghệ kỹ thuật môi trường	D08	2019: 23	2018: 20.52	2017: 20
+Công nghệ kỹ thuật môi trường	A00	2019: 23
+Công nghệ kỹ thuật môi trường	B00	2019: 23	2018: 20.52	2017: 20
+Công nghệ kỹ thuật môi trường	D07	2019: 23	2018: 20.52	2017: 20
+Công nghệ kỹ thuật môi trường	D08	2019: 23	2018: 20.52	2017: 20
+Toán ứng dụng	A00	2019: 20	2018: 20.95	2017: 26.17
+Toán ứng dụng	D01	2019: 20
+Toán ứng dụng	D07	2019: 20	2018: 20.95	2017: 26.17
+Toán ứng dụng	D90	2019: 20	2018: 20.95	2017: 26.17
+Toán ứng dụng (ĐH )	A01	2018: 20.95	2017: 26.17

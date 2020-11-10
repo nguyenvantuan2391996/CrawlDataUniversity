@@ -1,0 +1,199 @@
+Kế toán	A00	2019: 16	2018: 16	2017: 17
+Kế toán	A01	2019: 16	2018: 16	2017: 17
+Kế toán	C01	2019: 16	2018: 16	2017: 17
+Kế toán	D01	2019: 16	2018: 16	2017: 17
+Kế toán		2019: 650
+Kế toán	A01	2019: 19
+Kế toán	A00	2019: 18
+Kế toán	C01	2019: 18
+Kế toán	D01	2019: 18
+Tài chính - Ngân hàng	A00	2019: 16	2018: 16	2017: 17
+Tài chính - Ngân hàng	A01	2019: 16	2018: 16	2017: 17
+Tài chính - Ngân hàng	C01	2019: 16	2018: 16	2017: 17
+Tài chính - Ngân hàng	D01	2019: 16	2018: 16	2017: 17
+Tài chính - Ngân hàng		2019: 650
+Tài chính Ngân hàng	A01	2019: 20
+Tài chính Ngân hàng	A00	2019: 18
+Tài chính Ngân hàng	C01	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 17	2018: 17	2017: 19
+Quản trị kinh doanh	A01	2019: 17	2018: 17	2017: 19
+Quản trị kinh doanh	C00	2019: 17	2018: 17	2017: 19
+Quản trị kinh doanh	D01	2019: 17	2018: 17	2017: 19
+Kinh tế xây dựng	A00	2019: 16	2018: 16	2017: 16
+Kinh tế xây dựng	A01	2019: 16	2018: 16	2017: 16
+Kinh tế xây dựng	C01	2019: 16	2018: 16	2017: 16
+Kinh tế xây dựng	D01	2019: 16	2018: 16	2017: 16
+Hệ thống thông tin quản lý	A00	2019: 16	2018: 16	2017: 16
+Hệ thống thông tin quản lý	A01	2019: 16	2018: 16	2017: 16
+Hệ thống thông tin quản lý	C01	2019: 16	2018: 16	2017: 16
+Hệ thống thông tin quản lý	D01	2019: 16	2018: 16	2017: 16
+Quản trị kinh doanh		2019: 700
+Kinh tế xây dựng		2019: 650
+Hệ thống thông tin quản lý		2019: 650
+Quản trị kinh doanh	A01	2019: 20
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	C00	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Hệ thống thông tin quản lý	A00	2019: 18
+Hệ thống thông tin quản lý	A01	2019: 18
+Hệ thống thông tin quản lý	C01	2019: 18
+Hệ thống thông tin quản lý	D01	2019: 18
+Kinh tế xây dựng	A00	2019: 18
+Kinh tế xây dựng	A01	2019: 18
+Kinh tế xây dựng	C01	2019: 18
+Kinh tế xây dựng	D01	2019: 18
+Kinh doanh quốc tế	A00	2019: 20	2018: 19
+Kinh doanh quốc tế	A01	2019: 20	2018: 19
+Kinh doanh quốc tế	C00	2019: 20	2018: 19
+Kinh doanh quốc tế	D01	2019: 20	2018: 19
+Logistics & quản lý chuỗi cung ứng	A00	2019: 17
+Logistics & quản lý chuỗi cung ứng	A01	2019: 17
+Logistics & quản lý chuỗi cung ứng	C01	2019: 17
+Logistics & quản lý chuỗi cung ứng	D01	2019: 17
+Kinh doanh quốc tế		2019: 690
+Logistics & Quản lý chuỗi cung ứng		2019: 650
+Kinh doanh quốc tế	A01	2019: 21
+Kinh doanh quốc tế	A00	2019: 18
+Kinh doanh quốc tế	C00	2019: 18
+Kinh doanh quốc tế	D01	2019: 18
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 20
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 18
+Logistics và Quản lý chuỗi cung ứng	C01	2019: 18
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 18
+Ngôn ngữ Hàn Quốc	A01	2019: 17
+Ngôn ngữ Hàn Quốc	C00	2019: 17
+Ngôn ngữ Hàn Quốc	D01	2019: 17
+Ngôn ngữ Hàn Quốc	D15	2019: 17
+Ngôn ngữ Anh	A01	2019: 17	2018: 16	2017: 20
+Ngôn ngữ Anh	D01	2019: 17	2018: 16	2017: 20
+Ngôn ngữ Anh	D14	2019: 17	2018: 16	2017: 20
+Ngôn ngữ Anh	D15	2019: 17	2018: 16	2017: 20
+Ngôn ngữ Nhật	A01	2019: 17	2018: 16	2017: 18.5
+Ngôn ngữ Nhật	D01	2019: 17	2018: 16	2017: 18.5
+Ngôn ngữ Nhật	D14	2019: 17	2018: 16
+Ngôn ngữ Nhật	D15	2019: 17	2018: 16
+Ngôn ngữ Nhật	D06	2017: 18.5
+Ngôn ngữ Trung Quốc	A01	2019: 16
+Ngôn ngữ Trung Quốc	C00	2019: 16
+Ngôn ngữ Trung Quốc	D01	2019: 16
+Ngôn ngữ Trung Quốc	D15	2019: 16
+Ngôn ngữ Nhật		2019: 690
+Ngôn ngữ Anh		2019: 680
+Ngôn ngữ Hàn Quốc		2019: 675
+Ngôn ngữ Trung Quốc		2019: 650
+Ngôn ngữ Hàn Quốc	A01	2019: 20
+Ngôn ngữ Hàn Quốc	C00	2019: 18
+Ngôn ngữ Hàn Quốc	D01	2019: 18
+Ngôn ngữ Hàn Quốc	D15	2019: 18
+Ngôn ngữ Nhật	A01	2019: 20
+Ngôn ngữ Nhật	D01	2019: 18
+Ngôn ngữ Nhật	D14	2019: 18
+Ngôn ngữ Nhật	D15	2019: 18
+Ngôn ngữ Trung Quốc	A01	2019: 20
+Ngôn ngữ Trung Quốc	C00	2019: 18
+Ngôn ngữ Trung Quốc	D01	2019: 18
+Ngôn ngữ Trung Quốc	D15	2019: 18
+Ngôn ngữ Anh	A01	2019: 20
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D14	2019: 18
+Ngôn ngữ Anh	D15	2019: 18
+Marketing	A00	2019: 19	2018: 20	2017: 21
+Marketing	A01	2019: 19	2018: 20	2017: 21
+Marketing	C00	2019: 19	2018: 20	2017: 21
+Marketing	D01	2019: 19	2018: 20	2017: 21
+Marketing		2019: 675
+Marketing	A01	2019: 20
+Marketing	A00	2019: 18
+Marketing	C00	2019: 18
+Marketing	D01	2019: 18
+Công nghệ thông tin	A00	2019: 18	2018: 17	2017: 19
+Công nghệ thông tin	A01	2019: 18	2018: 17	2017: 19
+Công nghệ thông tin	C01	2019: 18	2018: 17	2017: 19
+Công nghệ thông tin	D01	2019: 18	2018: 17	2017: 19
+An toàn thông tin	A00	2019: 16	2018: 16
+An toàn thông tin	A01	2019: 16	2018: 16
+An toàn thông tin	C01	2019: 16	2018: 16
+An toàn thông tin	D01	2019: 16	2018: 16
+Kỹ thuật điện tử - viễn thông	A00	2019: 16	2018: 16	2017: 16
+Kỹ thuật điện tử - viễn thông	A01	2019: 16	2018: 16	2017: 16
+Kỹ thuật điện tử - viễn thông	C01	2019: 16	2018: 16	2017: 16
+Kỹ thuật điện tử - viễn thông	D01	2019: 16	2018: 16	2017: 16
+Công nghệ thông tin		2019: 700
+An toàn thông tin		2019: 650
+Kỹ thuật điện tử - viễn thông		2019: 650
+Công nghệ thông tin	A01	2019: 20
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	C01	2019: 18
+Công nghệ thông tin	D01	2019: 18
+An toàn thông tin	A01	2019: 19
+An toàn thông tin	A00	2019: 18
+An toàn thông tin	C01	2019: 18
+An toàn thông tin	D01	2019: 18
+Kỹ thuật điện tử - viễn thông	A00	2019: 18
+Kỹ thuật điện tử - viễn thông	A01	2019: 18
+Kỹ thuật điện tử - viễn thông	C01	2019: 18
+Kỹ thuật điện tử - viễn thông	D01	2019: 18
+Truyền thông đa phương tiện	A01	2019: 17	2018: 16	2017: 17
+Truyền thông đa phương tiện	C00	2019: 17	2018: 16	2017: 17
+Truyền thông đa phương tiện	D01	2019: 17	2018: 16	2017: 17
+Truyền thông đa phương tiện	D15	2019: 17	2018: 16	2017: 17
+Thiết kế đồ họa	V00	2019: 16	2018: 16	2017: 16.25
+Thiết kế đồ họa	H01	2019: 16	2018: 16	2017: 16.25
+Thiết kế đồ họa	H02	2019: 16	2018: 16	2017: 16.25
+Thiết kế đồ họa	H06	2019: 16
+Thiết kế đồ họa	V02	2018: 16	2017: 16.25
+Truyền thông đa phương tiện		2019: 680
+Thiết kế đồ họa		2019: 650
+Truyền thông đa phương tiện	A01	2019: 19
+Truyền thông đa phương tiện	C00	2019: 18
+Truyền thông đa phương tiện	D01	2019: 18
+Truyền thông đa phương tiện	D15	2019: 18
+Luật kinh tế	A00	2019: 16	2018: 16	2017: 17.5
+Luật kinh tế	A01	2019: 16	2018: 16	2017: 17.5
+Luật kinh tế	C00	2019: 16	2018: 16	2017: 17.5
+Luật kinh tế	D01	2019: 16	2018: 16	2017: 17.5
+Luật kinh tế		2019: 650
+Luật kinh tế	A01	2019: 20
+Luật kinh tế	A00	2019: 18
+Luật kinh tế	C01	2019: 18
+Luật kinh tế	D01	2019: 18
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng công trình giao thông	C01	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng công trình giao thông	D01	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng	A00	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng	A01	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng	C01	2019: 16	2018: 16	2017: 16
+Kỹ thuật xây dựng	D01	2019: 16	2018: 16	2017: 16
+Kiến trúc		2019: 650
+Kỹ thuật xây dựng công trình giao thông		2019: 650
+Kỹ thuật xây dựng		2019: 650
+Kỹ thuật xây dựng	A00	2019: 18
+Kỹ thuật xây dựng	A01	2019: 18
+Kỹ thuật xây dựng	C01	2019: 18
+Kỹ thuật xây dựng	D01	2019: 18
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 18
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 18
+Kỹ thuật xây dựng công trình giao thông	C01	2019: 18
+Kỹ thuật xây dựng công trình giao thông	D01	2019: 18
+Quản trị nhà hàng và dịch vụ ăn uống	A00	2019: 18	2018: 16	2017: 18.5
+Quản trị nhà hàng và dịch vụ ăn uống	A01	2019: 18	2018: 16	2017: 18.5
+Quản trị nhà hàng và dịch vụ ăn uống	C00	2019: 18	2018: 16	2017: 18.5
+Quản trị nhà hàng và dịch vụ ăn uống	D01	2019: 18	2018: 16	2017: 18.5
+Quản trị khách sạn	A00	2019: 18	2018: 17	2017: 19
+Quản trị khách sạn	A01	2019: 18	2018: 17	2017: 19
+Quản trị khách sạn	C00	2019: 18	2018: 17	2017: 19
+Quản trị khách sạn	D01	2019: 18	2018: 17	2017: 19
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18	2018: 16	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18	2018: 16	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 18	2018: 16	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18	2018: 16	2017: 18.5
+Việt Nam học	A01	2019: 16
+Việt Nam học	C00	2019: 16
+Việt Nam học	D01	2019: 16
+Việt Nam học	D15	2019: 16
+Việt Nam học		2019: 650
+Việt Nam học	A01	2019: 20
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18

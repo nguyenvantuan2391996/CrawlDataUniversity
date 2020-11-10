@@ -1,0 +1,56 @@
+Ngôn ngữ Trung Quốc	A01	2019: 20.5	2018: 19	2017: 19
+Ngôn ngữ Trung Quốc	D01	2019: 20.5	2018: 19	2017: 19
+Ngôn ngữ Trung Quốc	D04	2019: 20.5	2018: 19	2017: 19
+Ngôn ngữ Trung Quốc	D66	2019: 20.5	2018: 19	2017: 19
+Ngôn ngữ Anh	A01	2019: 18.5	2018: 17.5	2017: 19
+Ngôn ngữ Anh	D01	2019: 18.5	2018: 17.5	2017: 19
+Ngôn ngữ Anh	D15	2019: 18.5	2018: 17.5	2017: 19
+Ngôn ngữ Anh	D66	2019: 18.5	2018: 17.5	2017: 19
+Ngôn ngữ Nga	A01	2019: 13	2018: 13
+Ngôn ngữ Nga	D01	2019: 13	2018: 13
+Ngôn ngữ Nga	D02	2019: 13	2018: 13
+Ngôn ngữ Nga	D66	2019: 13	2018: 13
+Ngôn ngữ Pháp	A01	2019: 13	2018: 13
+Ngôn ngữ Pháp	D01	2019: 13	2018: 13
+Ngôn ngữ Pháp	D03	2019: 13	2018: 13
+Ngôn ngữ Pháp	D66	2019: 13	2018: 13
+Ngôn ngữ Anh	A01	2019: 19
+Ngôn ngữ Anh	D01	2019: 19
+Ngôn ngữ Anh	D15	2019: 19
+Ngôn ngữ Anh	D66	2019: 19
+Ngôn ngữ Trung Quốc	A01	2019: 19
+Ngôn ngữ Trung Quốc	D01	2019: 19
+Ngôn ngữ Trung Quốc	D04	2019: 19
+Ngôn ngữ Trung Quốc	D66	2019: 19
+Ngôn ngữ Nga	A01	2019: 18
+Ngôn ngữ Nga	D01	2019: 18
+Ngôn ngữ Nga	D02	2019: 18
+Ngôn ngữ Nga	D66	2019: 18
+Ngôn ngữ Pháp	A01	2019: 18
+Ngôn ngữ Pháp	D01	2019: 18
+Ngôn ngữ Pháp	D03	2019: 18
+Ngôn ngữ Pháp	D66	2019: 18
+Sư phạm Tiếng Trung Quốc	A01	2019: 20.5	2018: 17.5
+Sư phạm Tiếng Trung Quốc	D01	2019: 20.5	2018: 17.5
+Sư phạm Tiếng Trung Quốc	D04	2019: 20.5	2018: 17.5
+Sư phạm Tiếng Trung Quốc	D66	2019: 20.5	2018: 17.5
+Sư phạm Tiếng Anh	A01	2019: 18.5	2018: 17.5	2017: 15.5
+Sư phạm Tiếng Anh	D01	2019: 18.5	2018: 17.5	2017: 15.5
+Sư phạm Tiếng Anh	D15	2019: 18.5	2018: 17.5	2017: 15.5
+Sư phạm Tiếng Anh	D66	2019: 18.5	2018: 17.5	2017: 15.5
+Sư phạm Tiếng Nga	A01	2018: 17	2017: 15.5
+Sư phạm Tiếng Nga	D01	2018: 17	2017: 15.5
+Sư phạm Tiếng Nga	D02	2018: 17	2017: 15.5
+Sư phạm Tiếng Nga	D66	2018: 17	2017: 15.5
+Sư phạm Tiếng Anh (hệ cao đẳng)	A01	2018: 15	2017: 10
+Sư phạm Tiếng Anh (hệ cao đẳng)	D01	2018: 15	2017: 10
+Sư phạm Tiếng Anh (hệ cao đẳng)	D15	2018: 15	2017: 10
+Sư phạm Tiếng Anh (hệ cao đẳng)	D66	2018: 15	2017: 10
+Sư phạm Tiếng Anh	A01	2019: 24
+Sư phạm Tiếng Anh	D01	2019: 24
+Sư phạm Tiếng Anh	D15	2019: 24
+Sư phạm Tiếng Anh	D66	2019: 24
+Sư phạm Tiếng Trung Quốc	A01	2019: 23
+Sư phạm Tiếng Trung Quốc	D01	2019: 23
+Sư phạm Tiếng Trung Quốc	D04	2019: 23
+Sư phạm Tiếng Trung Quốc	D66	2019: 23

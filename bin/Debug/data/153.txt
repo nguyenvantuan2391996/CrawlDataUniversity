@@ -1,0 +1,68 @@
+Hệ thống thông tin quản lý	A00	2019: 13.5	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	C00	2019: 13.5	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	C04	2019: 13.5	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	D01	2019: 13.5	2018: 13	2017: 15.5
+Thương mại điện tử	A00	2019: 13	2018: 14	2017: 15.5
+Thương mại điện tử	C00	2019: 13	2018: 14	2017: 15.5
+Thương mại điện tử	C04	2019: 13	2018: 14	2017: 15.5
+Thương mại điện tử	D01	2019: 13	2018: 14	2017: 15.5
+Công nghệ truyền thông	C04	2019: 13.5	2018: 14	2017: 15.5
+Công nghệ truyền thông	D01	2019: 13.5	2018: 14	2017: 15.5
+Công nghệ truyền thông	D10	2019: 13.5	2018: 14	2017: 15.5
+Công nghệ truyền thông	D15	2019: 13.5	2018: 14	2017: 15.5
+Khoa học máy tính	A00	2019: 14	2018: 13	2017: 15.5
+Khoa học máy tính	A01	2019: 14	2018: 13	2017: 15.5
+Khoa học máy tính	C02	2019: 14	2018: 13	2017: 15.5
+Khoa học máy tính	D01	2019: 14	2018: 13	2017: 15.5
+Mạng máy tính và truyền thông dữ liệu	A00	2019: 13.5	2018: 13	2017: 15.5
+Mạng máy tính và truyền thông dữ liệu	A01	2019: 13.5	2018: 13	2017: 15.5
+Mạng máy tính và truyền thông dữ liệu	C02	2019: 13.5	2018: 13	2017: 15.5
+Mạng máy tính và truyền thông dữ liệu	D01	2019: 13.5	2018: 13	2017: 15.5
+An toàn thông tin	A00	2019: 13.5	2018: 13	2017: 15.5
+An toàn thông tin	A01	2019: 13.5	2018: 13	2017: 15.5
+An toàn thông tin	C02	2019: 13.5	2018: 13	2017: 15.5
+An toàn thông tin	D01	2019: 13.5	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	C02	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ thông tin	A00	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	C02	2019: 13	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C04	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 13	2018: 14	2017: 15.5
+Thiết kế đồ họa	C04	2019: 13.5	2018: 13	2017: 15.5
+Thiết kế đồ họa	D01	2019: 13.5	2018: 13	2017: 15.5
+Thiết kế đồ họa	D10	2019: 13.5	2018: 13	2017: 15.5
+Thiết kế đồ họa	D15	2019: 13.5	2018: 13	2017: 15.5
+Truyền thông đa phương tiện	A01	2019: 13	2018: 13	2017: 15.5
+Truyền thông đa phương tiện	C01	2019: 13	2018: 13	2017: 15.5
+Truyền thông đa phương tiện	C02	2019: 13	2018: 13	2017: 15.5
+Truyền thông đa phương tiện	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	C02	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật phần mềm	D01	2019: 13	2018: 13	2017: 15.5
+Quản trị văn phòng	A00	2019: 13	2018: 13	2017: 15.5
+Quản trị văn phòng	C00	2019: 13	2018: 13	2017: 15.5
+Quản trị văn phòng	C04	2019: 13	2018: 13	2017: 15.5
+Quản trị văn phòng	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C01	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	C04	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 13	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	C01	2019: 13	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật y sinh	A00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật y sinh	B00	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật y sinh	D01	2019: 14	2018: 14	2017: 15.5
+Kỹ thuật y sinh	D07	2019: 14	2018: 14	2017: 15.5

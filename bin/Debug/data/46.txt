@@ -1,0 +1,36 @@
+Kế toán	A00	2019: 15.15
+Kế toán	B00	2019: 15.15
+Kế toán	C14	2019: 15.15
+Kế toán	D01	2019: 15.15
+Tài chính Ngân hàng	A00	2019: 15.3
+Tài chính Ngân hàng	B00	2019: 15.3
+Tài chính Ngân hàng	C14	2019: 15.3
+Tài chính Ngân hàng	D01	2019: 15.3
+Kinh tế	A00	2019: 15.35
+Kinh tế	B00	2019: 15.35
+Kinh tế	C14	2019: 15.35
+Kinh tế	D01	2019: 15.35
+Quản trị kinh doanh	A00	2019: 15.1
+Quản trị kinh doanh	B00	2019: 15.1
+Quản trị kinh doanh	C14	2019: 15.1
+Quản trị kinh doanh	D01	2019: 15.1
+Công nghệ thông tin	A00	2019: 15.7
+Công nghệ thông tin	B00	2019: 15.7
+Công nghệ thông tin	C14	2019: 15.7
+Công nghệ thông tin	D01	2019: 15.7
+Luật	A00	2019: 17.75
+Luật	B00	2019: 17.75
+Luật	C14	2019: 17.75
+Luật	D01	2019: 17.75
+Công nghệ kỹ thuật cơ khí	A00	2019: 15.05
+Công nghệ kỹ thuật cơ khí	B00	2019: 15.05
+Công nghệ kỹ thuật cơ khí	C14	2019: 15.05
+Công nghệ kỹ thuật cơ khí	D01	2019: 15.05
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 15
+Công nghệ kỹ thuật điện, điện tử	B00	2019: 15
+Công nghệ kỹ thuật điện, điện tử	C14	2019: 15
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 15
+Toán ứng dụng	A00	2019: 17.65
+Toán ứng dụng	B00	2019: 17.65
+Toán ứng dụng	C14	2019: 17.65
+Toán ứng dụng	D01	2019: 17.65

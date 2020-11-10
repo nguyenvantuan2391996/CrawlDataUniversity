@@ -1,0 +1,140 @@
+Khoa học quản lý	C00	2019: 13.5	2018: 13.5
+Khoa học quản lý	C14	2019: 13.5
+Khoa học quản lý	D01	2019: 13.5	2018: 13.5
+Khoa học quản lý	D84	2019: 13.5
+Khoa học quản lý	A01	2018: 13.5
+Khoa học quản lý	D07	2018: 13.5
+Khoa học quản lý	C00	2019: 18
+Khoa học quản lý	C14	2019: 18
+Khoa học quản lý	D01	2019: 18
+Khoa học quản lý	D84	2019: 18
+Ngôn ngữ Anh	D01	2019: 13.5	2018: 13.5
+Ngôn ngữ Anh	D14	2019: 13.5	2018: 13.5
+Ngôn ngữ Anh	D15	2019: 13.5
+Ngôn ngữ Anh	D66	2019: 13.5
+Ngôn ngữ Anh	A01	2018: 13.5
+Ngôn ngữ Anh	D07	2018: 13.5
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D14	2019: 18
+Ngôn ngữ Anh	D15	2019: 18
+Ngôn ngữ Anh	D66	2019: 18
+Báo chí	C00	2019: 13.5	2018: 13.5	2017: 18
+Báo chí	C14	2019: 13.5
+Báo chí	D01	2019: 13.5	2018: 13.5	2017: 18
+Báo chí	D84	2019: 13.5
+Báo chí	C03	2018: 13.5
+Báo chí	C04	2018: 13.5
+Báo chí	C00	2019: 18
+Báo chí	C14	2019: 18
+Báo chí	D01	2019: 18
+Báo chí	D84	2019: 18
+Luật	C00	2019: 14	2018: 14
+Luật	C14	2019: 14
+Luật	D01	2019: 14	2018: 14
+Luật	D84	2019: 14
+Luật	A01	2018: 14
+Luật	D07	2018: 14
+Luật	C00	2019: 18
+Luật	C14	2019: 18
+Luật	D01	2019: 18
+Luật	D84	2019: 18
+Du lịch	C00	2019: 14	2018: 13.5
+Du lịch	C04	2019: 14	2018: 13.5
+Du lịch	C14	2019: 14
+Du lịch	D01	2019: 14	2018: 13.5
+Du lịch	C03	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C04	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C14	2019: 13.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 13.5	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C03	2018: 13.5
+Du lịch	C00	2019: 18
+Du lịch	C04	2019: 18
+Du lịch	C14	2019: 18
+Du lịch	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C04	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C14	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Công tác xã hội	C00	2019: 13.5	2018: 13.5
+Công tác xã hội	C14	2019: 13.5
+Công tác xã hội	D01	2019: 13.5	2018: 13.5
+Công tác xã hội	D84	2019: 13.5
+Công tác xã hội	C01	2018: 13.5
+Công tác xã hội	C03	2018: 13.5
+Công tác xã hội	C00	2019: 18
+Công tác xã hội	C14	2019: 18
+Công tác xã hội	D01	2019: 18
+Công tác xã hội	D84	2019: 18
+Quản lý tài nguyên và môi trường	A00	2019: 13.5
+Quản lý tài nguyên và môi trường	B00	2019: 13.5
+Quản lý tài nguyên và môi trường	C14	2019: 13.5
+Quản lý tài nguyên và môi trường	D01	2019: 13.5
+Khoa học môi trường	A00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học môi trường	B00	2019: 13.5	2018: 13.5	2017: 15.5
+Khoa học môi trường	C14	2019: 13.5
+Khoa học môi trường	D01	2019: 13.5	2018: 13.5
+Khoa học môi trường	D07	2018: 13.5
+Quản lý tài nguyên và môi trường	A00	2019: 18
+Quản lý tài nguyên và môi trường	B00	2019: 18
+Quản lý tài nguyên và môi trường	C14	2019: 18
+Quản lý tài nguyên và môi trường	D01	2019: 18
+Khoa học môi trường	A00	2019: 18
+Khoa học môi trường	B00	2019: 18
+Khoa học môi trường	C14	2019: 18
+Khoa học môi trường	D01	2019: 18
+Công nghệ sinh học	B00	2019: 15	2018: 14	2017: 15
+Công nghệ sinh học	B04	2019: 15
+Công nghệ sinh học	C18	2019: 15
+Công nghệ sinh học	D08	2019: 15	2018: 14
+Công nghệ sinh học	A00	2018: 14	2017: 15
+Công nghệ sinh học	D07	2018: 14
+Công nghệ kỹ thuật hoá học	A11	2019: 13.5
+Công nghệ kỹ thuật hoá học	B00	2019: 13.5	2018: 14
+Công nghệ kỹ thuật hoá học	C17	2019: 13.5
+Công nghệ kỹ thuật hoá học	D01	2019: 13.5	2018: 14
+Công nghệ kỹ thuật hoá học	A00	2018: 14
+Công nghệ kỹ thuật hoá học	D07	2018: 14
+Hoá học	D01	2018: 14
+Hoá học	D07	2018: 14
+Sinh học	A00	2018: 14	2017: 14.25
+Sinh học	B00	2018: 14	2017: 14.25
+Sinh học	D07	2018: 14
+Sinh học	D08	2018: 14
+Sinh học	C08	2017: 14.25
+Công nghệ sinh học	B00	2019: 18
+Công nghệ sinh học	B04	2019: 18
+Công nghệ sinh học	C18	2019: 18
+Công nghệ sinh học	D08	2019: 18
+Công nghệ kỹ thuật hoá học	A11	2019: 18
+Công nghệ kỹ thuật hoá học	B00	2019: 18
+Công nghệ kỹ thuật hoá học	C17	2019: 18
+Công nghệ kỹ thuật hoá học	D01	2019: 18
+Toán ứng dụng	A00	2019: 19	2018: 16	2017: 14.25
+Toán ứng dụng	C14	2019: 19
+Toán ứng dụng	D01	2019: 19	2018: 16
+Toán ứng dụng	D84	2019: 19
+Toán ứng dụng	A01	2018: 16	2017: 14.25
+Toán ứng dụng	C01	2018: 16
+Toán học	A00	2018: 16	2017: 14.25
+Toán học	A01	2018: 16	2017: 14.25
+Toán học	C01	2018: 16
+Toán học	D01	2018: 16
+Toán ứng dụng	A00	2019: 18
+Toán ứng dụng	C14	2019: 18
+Toán ứng dụng	D01	2019: 18
+Toán ứng dụng	D84	2019: 18
+Địa lý tự nhiên	C00	2019: 13.5	2018: 13.5
+Địa lý tự nhiên	C04	2019: 13.5	2018: 13.5
+Địa lý tự nhiên	C20	2019: 13.5
+Địa lý tự nhiên	D01	2019: 13.5	2018: 13.5
+Địa lý tự nhiên	B00	2018: 13.5
+Địa lý tự nhiênkỹ thuật	A00	2017: 14.25
+Vật lý học	A00	2018: 16	2017: 14.25
+Vật lý học	A01	2018: 16	2017: 14.25
+Vật lý học	C01	2018: 16
+Vật lý học	D01	2018: 16
+Địa lý tự nhiên	C00	2019: 18
+Địa lý tự nhiên	C04	2019: 18
+Địa lý tự nhiên	C20	2019: 18
+Địa lý tự nhiên	D01	2019: 18

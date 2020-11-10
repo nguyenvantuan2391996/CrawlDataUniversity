@@ -1,0 +1,103 @@
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	A00	2019: 790
+Kế toán	A01	2019: 790
+Tài chính Ngân hàng	A00	2019: 20	2018: 19	2017: 24.5
+Tài chính Ngân hàng	A01	2019: 20	2018: 19	2017: 24.5
+Tài chính Ngân hàng	D01	2019: 20	2018: 19	2017: 24.5
+Tài chính Ngân hàng	A00	2019: 860
+Tài chính Ngân hàng	A01	2019: 860
+Tài chính Ngân hàng	D01	2019: 860
+Quản trị kinh doanh	A00	2019: 22.5	2018: 22	2017: 26
+Quản trị kinh doanh	A01	2019: 22.5	2018: 22	2017: 26
+Quản trị kinh doanh	D01	2019: 22.5	2018: 22	2017: 26
+Quản trị kinh doanh	A00	2019: 920
+Quản trị kinh doanh	A01	2019: 920
+Quản trị kinh doanh	D01	2019: 920
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 22.5	2018: 22	2017: 26
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 22.5	2018: 22	2017: 26
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 22.5	2018: 22	2017: 26
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 920
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 920
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 920
+Ngôn ngữ Anh	A01	2019: 23	2018: 22	2017: 25
+Ngôn ngữ Anh	D01	2019: 23	2017: 25
+Ngôn ngữ Anh	A00	2018: 22
+Ngôn ngữ Anh	A01	2019: 920
+Ngôn ngữ Anh	D01	2019: 920
+Công nghệ thông tin	A00	2019: 20	2018: 19	2017: 23.5
+Công nghệ thông tin	A01	2019: 20	2018: 19	2017: 23.5
+Kỹ thuật điện tử - viễn thông	A00	2019: 18	2018: 17.5	2017: 18.5
+Kỹ thuật điện tử - viễn thông	A01	2019: 18	2018: 17.5	2017: 18.5
+Công nghệ thông tin	A00	2019: 850
+Công nghệ thông tin	A01	2019: 850
+Kỹ thuật điện tử - viễn thông	A00	2019: 740
+Kỹ thuật điện tử - viễn thông	A01	2019: 740
+Kỹ thuật hệ thống công nghiệp	A00	2019: 18	2018: 18	2017: 22
+Kỹ thuật hệ thống công nghiệp	A01	2019: 18	2018: 18	2017: 22
+Kỹ thuật hệ thống công nghiệp	D01	2019: 18	2018: 18	2017: 22
+Kỹ thuật xây dựng	A00	2019: 18	2018: 17	2017: 17.5
+Kỹ thuật xây dựng	A01	2019: 18	2018: 17	2017: 17.5
+Kỹ thuật xây dựng	A00	2019: 780
+Kỹ thuật xây dựng	A01	2019: 780
+Kỹ thuật hệ thống công nghiệp	A00	2019: 740
+Kỹ thuật hệ thống công nghiệp	A01	2019: 740
+Kỹ thuật hệ thống công nghiệp	D01	2019: 740
+Quản lý thủy sản	A00	2019: 18	2018: 16	2017: 17.5
+Quản lý thủy sản	A01	2019: 18	2018: 16	2017: 17.5
+Quản lý thủy sản	B00	2019: 18	2018: 16	2017: 17.5
+Quản lý thủy sản	D01	2019: 18	2018: 16	2017: 17.5
+Quản lý thủy sản	A00	2019: 700
+Quản lý thủy sản	A01	2019: 700
+Quản lý thủy sản	B00	2019: 700
+Quản lý thủy sản	D01	2019: 700
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 18	2018: 17.5	2017: 19.5
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 18	2018: 17.5	2017: 19.5
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 800
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 800
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 18	2018: 17.5	2017: 19.5
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 18	2018: 17.5	2017: 19.5
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 800
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 800
+Công nghệ sinh học	A00	2019: 18	2018: 18
+Công nghệ sinh học	A01	2019: 18	2018: 18
+Công nghệ sinh học	B00	2019: 18	2018: 18
+Công nghệ sinh học	D01	2019: 18	2018: 18
+Công nghệ sinh học		2017: 22.5
+Hoá học	A00	2019: 18	2018: 18	2017: 23
+Hoá học	A01	2019: 18	2018: 18	2017: 23
+Hoá học	B00	2019: 18	2018: 18	2017: 23
+Hoá học		2017: 23
+Kỹ thuật y sinh	A00	2019: 18	2018: 18	2017: 24.5
+Kỹ thuật y sinh	A01	2019: 18	2018: 18	2017: 24.5
+Kỹ thuật y sinh	B00	2019: 18	2018: 18	2017: 24.5
+Kỹ thuật hoá học	A00	2019: 18	2018: 17
+Kỹ thuật hoá học	A01	2019: 18	2018: 17
+Kỹ thuật hoá học	B00	2019: 18
+Kỹ thuật hoá học	D07	2019: 18
+Kỹ thuật Hóa học	D01	2018: 17
+Kỹ thuật môi trường	A00	2019: 18	2018: 17	2017: 18
+Kỹ thuật môi trường	A01	2019: 18	2018: 17	2017: 18
+Kỹ thuật môi trường	B00	2019: 18	2018: 17	2017: 18
+Hoá học	A00	2019: 860
+Hoá học	A01	2019: 860
+Hoá học	B00	2019: 860
+Kỹ thuật y sinh	A00	2019: 850
+Kỹ thuật y sinh	A01	2019: 850
+Kỹ thuật y sinh	B00	2019: 850
+Công nghệ sinh học	A00	2019: 800
+Công nghệ sinh học	A01	2019: 800
+Công nghệ sinh học	B00	2019: 800
+Công nghệ sinh học	D01	2019: 800
+Kỹ thuật hoá học	A00	2019: 770
+Kỹ thuật hoá học	A01	2019: 770
+Kỹ thuật hoá học	B00	2019: 770
+Kỹ thuật hoá học	D07	2019: 770
+Kỹ thuật môi trường	A00	2019: 750
+Kỹ thuật môi trường	A01	2019: 750
+Kỹ thuật môi trường	B00	2019: 750
+Toán ứng dụng	A00	2019: 18	2018: 17.5	2017: 18
+Toán ứng dụng	A01	2019: 18	2018: 17.5	2017: 18
+Toán ứng dụng (Kỹ thuật tài chính và Quản trị rủi ro)	B00	2018: 17.5
+Toán ứng dụng	A00	2019: 810
+Toán ứng dụng	A01	2019: 810

@@ -1,0 +1,86 @@
+Ngôn ngữ Anh	D01	2019: 13	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 13	2017: 15.5
+Ngôn ngữ Anh	D72	2019: 13	2017: 15.5
+Ngôn ngữ Anh	D96	2019: 13	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D15	2019: 18
+Ngôn ngữ Anh	D72	2019: 18
+Ngôn ngữ Anh	D96	2019: 18
+Công nghệ truyền thông	A16	2019: 13
+Công nghệ truyền thông	C00	2019: 13
+Công nghệ truyền thông	C15	2019: 13
+Công nghệ truyền thông	D01	2019: 13
+Công nghệ truyền thông	A16	2019: 18
+Công nghệ truyền thông	C00	2019: 18
+Công nghệ truyền thông	C15	2019: 18
+Công nghệ truyền thông	D01	2019: 18
+Luật	A16	2019: 13	2017: 18
+Luật	C00	2019: 13
+Luật	C15	2019: 13	2017: 18
+Luật	D01	2019: 13	2017: 18
+Luật	D15	2017: 18
+Luật	A16	2019: 18
+Luật	C00	2019: 18
+Luật	C15	2019: 18
+Luật	D01	2019: 18
+Thanh nhạc	N00	2019: 19.5	2017: 19
+Hội hoạ	H00	2017: 15.5
+Thanh nhạc	N00	2019: 19.5
+Quản lý thể dục thể thao	T00	2019: 13	2017: 15.5
+Quản lý thể dục thể thao	T01	2019: 13	2017: 15.5
+Quản lý thể dục thể thao	T00	2019: 15
+Quản lý thể dục thể thao	T01	2019: 15
+Du lịch	A16	2019: 13
+Du lịch	C00	2019: 13
+Du lịch	C15	2019: 13
+Du lịch	D01	2019: 13
+Quản trị dịch vụ du lịch và lữ hành	A16	2019: 13	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 13
+Quản trị dịch vụ du lịch và lữ hành	C15	2019: 13	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 13	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	D15	2017: 15.5
+Quản trị khách sạn	A16	2019: 13	2017: 15.5
+Quản trị khách sạn	C00	2019: 13
+Quản trị khách sạn	C15	2019: 13	2017: 15.5
+Quản trị khách sạn	D01	2019: 13	2017: 15.5
+Quản trị khách sạn	D15	2017: 15.5
+Việt Nam học	A16	2017: 15.5
+Việt Nam học	C15	2017: 15.5
+Việt Nam học	D01	2017: 15.5
+Việt Nam học	D15	2017: 15.5
+Du lịch	A16	2019: 18
+Du lịch	C00	2019: 18
+Du lịch	C15	2019: 18
+Du lịch	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A16	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C15	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Quản trị khách sạn	A16	2019: 18
+Quản trị khách sạn	C00	2019: 18
+Quản trị khách sạn	C15	2019: 18
+Quản trị khách sạn	D01	2019: 18
+Công tác xã hội	A16	2019: 13	2017: 18
+Công tác xã hội	C00	2019: 13
+Công tác xã hội	C15	2019: 13	2017: 18
+Công tác xã hội	D01	2019: 13	2017: 18
+Công tác xã hội	D15	2017: 18
+Việt Nam học	A16	2017: 15.5
+Việt Nam học	C15	2017: 15.5
+Việt Nam học	D01	2017: 15.5
+Việt Nam học	D15	2017: 15.5
+Công tác xã hội	A16	2019: 18
+Công tác xã hội	C00	2019: 18
+Công tác xã hội	C15	2019: 18
+Công tác xã hội	D01	2019: 18
+Quản lý nhà nước	A16	2019: 13	2017: 15.5
+Quản lý nhà nước	C00	2019: 13
+Quản lý nhà nước	C15	2019: 13	2017: 15.5
+Quản lý nhà nước	D01	2019: 13	2017: 15.5
+Quản lý nhà nước	D15	2017: 15.5
+Quản lý nhà nước	A16	2019: 18
+Quản lý nhà nước	C00	2019: 18
+Quản lý nhà nước	C15	2019: 18
+Quản lý nhà nước	D01	2019: 18
+Thiết kế thời trang	H00	2019: 13	2017: 15.5
+Thiết kế thời trang	H00	2019: 15

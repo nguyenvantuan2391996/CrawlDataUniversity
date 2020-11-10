@@ -1,0 +1,199 @@
+Quản trị kinh doanh	A00	2019: 14	2018: 14.5	2017: 16.75
+Quản trị kinh doanh	A01	2019: 14	2018: 14.5	2017: 16.75
+Quản trị kinh doanh	D01	2019: 14	2018: 14.5	2017: 16.75
+Quản trị kinh doanh	D02	2019: 14	2017: 16.75
+Quản trị kinh doanh	D03	2019: 14	2017: 16.75
+Quản trị kinh doanh	D04	2019: 14	2017: 16.75
+Quản trị kinh doanh	D05	2019: 14	2017: 16.75
+Quản trị kinh doanh	D06	2019: 14	2017: 16.75
+Quản trị kinh doanh	D27	2019: 14	2017: 16.75
+Quản trị kinh doanh	D28	2019: 14	2017: 16.75
+Quản trị kinh doanh	D29	2019: 14	2017: 16.75
+Quản trị kinh doanh	D30	2019: 14	2017: 16.75
+Quản trị kinh doanh	D78	2019: 14	2017: 16.75
+Quản trị kinh doanh	D79	2019: 14	2017: 16.75
+Quản trị kinh doanh	D80	2019: 14	2017: 16.75
+Quản trị kinh doanh	D81	2019: 14	2017: 16.75
+Quản trị kinh doanh	D82	2019: 14	2017: 16.75
+Quản trị kinh doanh	D83	2019: 14	2017: 16.75
+Quản trị kinh doanh	D09	2018: 14.5
+Quản trị kinh doanh	D26	2017: 16.75
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Quản trị kinh doanh	D02	2019: 18
+Quản trị kinh doanh	D03	2019: 18
+Quản trị kinh doanh	D04	2019: 18
+Quản trị kinh doanh	D05	2019: 18
+Quản trị kinh doanh	D06	2019: 18
+Quản trị kinh doanh	D27	2019: 18
+Quản trị kinh doanh	D28	2019: 18
+Quản trị kinh doanh	D29	2019: 18
+Quản trị kinh doanh	D30	2019: 18
+Quản trị kinh doanh	D78	2019: 18
+Quản trị kinh doanh	D79	2019: 18
+Quản trị kinh doanh	D80	2019: 18
+Quản trị kinh doanh	D81	2019: 18
+Quản trị kinh doanh	D82	2019: 18
+Quản trị kinh doanh	D83	2019: 18
+Công nghệ thông tin	A00	2019: 14	2018: 16.5
+Công nghệ thông tin	A01	2019: 14	2018: 16.5
+Công nghệ thông tin	C01	2019: 14	2018: 16.5
+Công nghệ thông tin	D01	2019: 14	2018: 16.5
+Công nghệ thông tin	D02	2019: 14
+Công nghệ thông tin	D04	2019: 14
+Công nghệ thông tin	D05	2019: 14
+Công nghệ thông tin	D06	2019: 14
+Công nghệ thông tin	D26	2019: 14
+Công nghệ thông tin	D27	2019: 14
+Công nghệ thông tin	D28	2019: 14
+Công nghệ thông tin	D29	2019: 14
+Công nghệ thông tin	D30	2019: 14
+Công nghệ thông tin	A00; A01; c01	2017: 17.75
+Công nghệ thông tin	D01; D02; D03; D04; D05; D06; D07; D21; D22; D23; D24; D25; D26; D27; D28; D29; D30	2017: 17.75
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 14	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 14	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 14	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D02	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D03	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D04	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D05	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D06	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D26	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D27	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D28	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D29	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D30	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D90	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D91	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D92	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D93	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D94	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D95	2019: 14	2017: 15.5
+Công nghệ kỹ thuật điện tử viễn thông	D07	2018: 13.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	C01	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Công nghệ thông tin	D02	2019: 18
+Công nghệ thông tin	D04	2019: 18
+Công nghệ thông tin	D05	2019: 18
+Công nghệ thông tin	D06	2019: 18
+Công nghệ thông tin	D26	2019: 18
+Công nghệ thông tin	D27	2019: 18
+Công nghệ thông tin	D28	2019: 18
+Công nghệ thông tin	D29	2019: 18
+Công nghệ thông tin	D30	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D02	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D03	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D04	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D05	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D06	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D26	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D27	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D28	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D29	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D30	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D90	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D91	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D92	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D93	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D94	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D95	2019: 18
+Thiết kế công nghiệp	A01	2019: 14	2018: 13.5	2017: 15.5
+Thiết kế công nghiệp	D01	2019: 14	2018: 13.5	2017: 15.5
+Thiết kế công nghiệp	D02	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D03	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D04	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D05	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D06	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D26	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D27	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D28	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D29	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D30	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D78	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D79	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D80	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D81	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D82	2019: 14	2017: 15.5
+Thiết kế công nghiệp	D83	2019: 14	2017: 15.5
+Thiết kế công nghiệp	H06	2019: 14	2018: 13.5	2017: 15.5
+Thiết kế công nghiệp	A00	2018: 13.5
+Thiết kế công nghiệp	A01	2019: 18
+Thiết kế công nghiệp	D01	2019: 18
+Thiết kế công nghiệp	D02	2019: 18
+Thiết kế công nghiệp	D03	2019: 18
+Thiết kế công nghiệp	D04	2019: 18
+Thiết kế công nghiệp	D05	2019: 18
+Thiết kế công nghiệp	D06	2019: 18
+Thiết kế công nghiệp	D26	2019: 18
+Thiết kế công nghiệp	D27	2019: 18
+Thiết kế công nghiệp	D28	2019: 18
+Thiết kế công nghiệp	D29	2019: 18
+Thiết kế công nghiệp	D30	2019: 18
+Thiết kế công nghiệp	D78	2019: 18
+Thiết kế công nghiệp	D79	2019: 18
+Thiết kế công nghiệp	D80	2019: 18
+Thiết kế công nghiệp	D81	2019: 18
+Thiết kế công nghiệp	D82	2019: 18
+Thiết kế công nghiệp	D83	2019: 18
+Thiết kế công nghiệp	H06	2019: 18
+Kỹ thuật xây dựng	A00	2019: 14	2018: 13.5
+Kỹ thuật xây dựng	A01	2019: 14	2018: 13.5
+Kỹ thuật xây dựng	D01	2019: 14	2018: 13.5
+Kỹ thuật xây dựng	D02	2019: 14
+Kỹ thuật xây dựng	D03	2019: 14
+Kỹ thuật xây dựng	D04	2019: 14
+Kỹ thuật xây dựng	D26	2019: 14
+Kỹ thuật xây dựng	D27	2019: 14
+Kỹ thuật xây dựng	D28	2019: 14
+Kỹ thuật xây dựng	D29	2019: 14
+Kỹ thuật xây dựng	D30	2019: 14
+Kỹ thuật xây dựng	D96	2019: 14
+Kỹ thuật xây dựng	D97	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	D98	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	D99	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	DD0	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	DD1	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	D07	2018: 13.5
+Kỹ thuật xây dựng	A00; A01; D01; D02; D03; D04; D05; D06; D26; D27; D28; D29; D30; D96	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 18
+Kỹ thuật xây dựng	A01	2019: 18
+Kỹ thuật xây dựng	D01	2019: 18
+Kỹ thuật xây dựng	D02	2019: 18
+Kỹ thuật xây dựng	D03	2019: 18
+Kỹ thuật xây dựng	D04	2019: 18
+Kỹ thuật xây dựng	D26	2019: 18
+Kỹ thuật xây dựng	D27	2019: 18
+Kỹ thuật xây dựng	D28	2019: 18
+Kỹ thuật xây dựng	D29	2019: 18
+Kỹ thuật xây dựng	D30	2019: 18
+Kỹ thuật xây dựng	D96	2019: 18
+Kỹ thuật xây dựng	D97	2019: 18
+Kỹ thuật xây dựng	D98	2019: 18
+Kỹ thuật xây dựng	D99	2019: 18
+Kỹ thuật xây dựng	DD0	2019: 18
+Kỹ thuật xây dựng	DD1	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 14	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 14	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 14	2018: 13.5	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D02	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D03	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D04	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D05	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D06	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D26	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D27	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D28	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D29	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D30	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D90	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D91	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D92	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D93	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D94	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D95	2019: 14	2017: 15.5

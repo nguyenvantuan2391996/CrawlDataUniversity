@@ -1,0 +1,23 @@
+Quản trị kinh doanh	A00	2019: 20.6	2018: 19	2017: 21
+Quản trị kinh doanh	A01	2019: 20.6	2018: 19	2017: 21
+Quản trị kinh doanh	D01	2019: 20.6	2018: 19	2017: 21
+Quản trị kinh doanh	D96	2019: 20.6	2018: 19
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18	2018: 18	2017: 20
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 18	2018: 18	2017: 20
+Công nghệ kỹ thuật điện tử - viễn thông	D96	2019: 18
+Công nghệ kỹ thuật điện tử, truyền thông	D01	2018: 18
+Công nghệ kỹ thuật điện tử, truyền thông	D90	2018: 18	2017: 20
+Kỹ thuật hàng không	A00	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	A01	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	D90	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	A00	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	A01	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	D90	2019: 22.35	2018: 19.8	2017: 23
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18	2018: 18	2017: 20
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 18	2018: 18	2017: 20
+Công nghệ kỹ thuật điện tử - viễn thông	D96	2019: 18
+Công nghệ kỹ thuật điện tử, truyền thông	D01	2018: 18
+Công nghệ kỹ thuật điện tử, truyền thông	D90	2018: 18	2017: 20
+Kỹ thuật hàng không	A00	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	A01	2019: 22.35	2018: 19.8	2017: 23
+Kỹ thuật hàng không	D90	2019: 22.35	2018: 19.8	2017: 23

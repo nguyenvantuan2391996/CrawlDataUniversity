@@ -1,0 +1,50 @@
+Quản trị kinh doanh	C00	2019: 18.5	2018: 19	2017: 21.5
+Quản trị kinh doanh	A00	2019: 17.5	2018: 18	2017: 21.5
+Quản trị kinh doanh	A01	2019: 17.5	2018: 18	2017: 21.5
+Quản trị kinh doanh	D01	2019: 17.5	2018: 18	2017: 21.5
+Quản trị kinh doanh		2018: 18
+Quản trị kinh doanh	C00	2019: 19
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Truyền thông đa phương tiện	C00	2019: 17.5	2018: 18.5	2017: 16.5
+Truyền thông đa phương tiện	A00	2019: 16.5	2018: 17.5	2017: 16.5
+Truyền thông đa phương tiện	D01	2019: 16.5	2018: 17.5	2017: 16.5
+Truyền thông đa phương tiện	A01	2019: 16.5	2018: 17.5	2017: 16.5
+Truyền thông đa phương tiện	C00	2019: 19
+Truyền thông đa phương tiện	A00	2019: 18
+Truyền thông đa phương tiện	D01	2019: 18
+Truyền thông đa phương tiện	V00	2019: 18
+Luật	A00	2019: 16	2018: 17.5	2017: 22.5
+Luật	A01	2019: 16	2018: 17.5	2017: 22.5
+Luật	C00	2019: 16	2018: 17.5	2017: 22.5
+Luật	D01	2019: 16	2018: 17.5	2017: 22.5
+Luật	A00	2019: 18
+Luật	A01	2019: 18
+Luật	C00	2019: 18
+Luật	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 19
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành		2017: 19.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 19
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Công tác xã hội	A00	2019: 15	2018: 16	2017: 21.5
+Công tác xã hội	A01	2019: 15	2018: 16	2017: 21.5
+Công tác xã hội	C00	2019: 15	2018: 16	2017: 21.5
+Công tác xã hội	D01	2019: 15	2018: 16	2017: 21.5
+Giới và phát triển	A00	2019: 14.5	2017: 17.5
+Giới và phát triển	A01	2019: 14.5	2017: 17.5
+Giới và phát triển	C00	2019: 14.5	2017: 17.5
+Giới và phát triển	D01	2019: 14.5	2017: 17.5
+Giới và phát triển	A00	2019: 18
+Giới và phát triển	A01	2019: 18
+Giới và phát triển	C00	2019: 18
+Giới và phát triển	D01	2019: 18
+Công tác xã hội	A00	2019: 18
+Công tác xã hội	A01	2019: 18
+Công tác xã hội	C00	2019: 18
+Công tác xã hội	D01	2019: 18

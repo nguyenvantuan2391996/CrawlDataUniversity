@@ -1,0 +1,31 @@
+Kế toán	A00	2017: 15.5
+Kế toán	A01	2017: 15.5
+Kế toán	A02	2017: 15.5
+Kế toán	C01	2017: 15.5
+Tài chính – Ngân hàng	A00	2017: 15.5
+Tài chính – Ngân hàng	A01	2017: 15.5
+Tài chính – Ngân hàng	A02	2017: 15.5
+Tài chính – Ngân hàng	C01	2017: 15.5
+Quản trị kinh doanh	A00	2017: 15.5
+Quản trị kinh doanh	A01	2017: 15.5
+Quản trị kinh doanh	A02	2017: 15.5
+Quản trị kinh doanh	C01	2017: 15.5
+Ngôn ngữ Anh	D01	2017: 15.5
+Ngôn ngữ Anh	D07	2017: 15.5
+Ngôn ngữ Anh	D14	2017: 15.5
+Công nghệ thông tin	A00	2017: 15.5
+Công nghệ thông tin	A01	2017: 15.5
+Công nghệ thông tin	A02	2017: 15.5
+Công nghệ thông tin	C01	2017: 15.5
+Kỹ thuật xây dựng	A00	2017: 15.5
+Kỹ thuật xây dựng	A01	2017: 15.5
+Kỹ thuật xây dựng	A02	2017: 15.5
+Kỹ thuật xây dựng	C01	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A00	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A01	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A02	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	C01	2017: 15.5
+Thú y	A02	2017: 15.5
+Thú y	B00	2017: 15.5
+Thú y	C01	2017: 15.5
+Thú y	D08	2017: 15.5

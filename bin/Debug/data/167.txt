@@ -1,0 +1,41 @@
+Ngôn ngữ Anh	A01	2019: 19	2018: 15	2017: 16.5
+Ngôn ngữ Anh	D01	2019: 19	2018: 15	2017: 16.5
+Ngôn ngữ Anh	D10	2019: 19	2018: 15	2017: 16.5
+Ngôn ngữ Anh	D78	2019: 19	2018: 15	2017: 16.5
+Ngôn ngữ Nhật	D01	2019: 19	2018: 15	2017: 16
+Ngôn ngữ Nhật	D06	2019: 19	2018: 15	2017: 16
+Ngôn ngữ Nhật	D10	2019: 19	2018: 15	2017: 16
+Ngôn ngữ Nhật	D78	2019: 19	2018: 15
+Ngôn ngữ Trung Quốc	A01	2019: 17
+Ngôn ngữ Trung Quốc	D01	2019: 17	2018: 17	2017: 17
+Ngôn ngữ Trung Quốc	D04	2019: 17	2018: 17	2017: 17
+Ngôn ngữ Trung Quốc	D10	2019: 17	2018: 17	2017: 17
+Ngôn ngữ Trung Quốc	D78	2018: 17
+Ngôn ngữ Hàn Quốc	D01	2019: 15
+Ngôn ngữ Hàn Quốc	D10	2019: 15
+Ngôn ngữ Hàn Quốc	D15	2019: 15
+Ngôn ngữ Hàn Quốc	D78	2019: 15
+Khoa học máy tính	A00	2019: 14	2018: 14	2017: 15.5
+Khoa học máy tính	A01	2019: 14	2018: 14	2017: 15.5
+Khoa học máy tính	D01	2019: 14	2018: 14	2017: 15.5
+Khoa học máy tính	D90	2019: 14	2018: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 16	2018: 15.5	2017: 17
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 16	2018: 15.5	2017: 17
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 16	2018: 15.5	2017: 17
+Quản trị dịch vụ du lịch và lữ hành	D90	2019: 16	2018: 15.5	2017: 17
+Quản trị khách sạn	A00	2019: 16	2018: 15	2017: 16
+Quản trị khách sạn	A01	2019: 16	2018: 15	2017: 16
+Quản trị khách sạn	D01	2019: 16	2018: 15	2017: 16
+Quản trị khách sạn	D90	2019: 16	2018: 15	2017: 16
+Quản trị nhà hàng và dịch vụ ăn uống	A00	2019: 14	2018: 14
+Quản trị nhà hàng và dịch vụ ăn uống	A01	2019: 14	2018: 14
+Quản trị nhà hàng và dịch vụ ăn uống	D01	2019: 14	2018: 14
+Quản trị nhà hàng và dịch vụ ăn uống	D90	2019: 14	2018: 14
+Quản lý tài nguyên và môi trường	A00	2019: 15	2018: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	A01	2019: 15	2018: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	B00	2019: 15	2018: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	D10	2019: 15	2018: 14
+Nuôi trồng thuỷ sản	A00	2019: 15	2018: 14	2017: 15.5
+Nuôi trồng thuỷ sản	A01	2019: 15	2018: 14
+Nuôi trồng thuỷ sản	B00	2019: 15	2018: 14	2017: 15.5
+Nuôi trồng thuỷ sản	D10	2019: 15	2018: 14

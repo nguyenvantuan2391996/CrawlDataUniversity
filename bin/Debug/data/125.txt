@@ -1,0 +1,42 @@
+Thương mại điện tử	A00	2019: 23.9	2018: 21.2	2017: 24
+Thương mại điện tử	A01	2019: 23.9	2018: 21.2	2017: 24
+Thương mại điện tử	D01	2019: 23.9	2018: 21.2	2017: 24
+Thương mại điện tử	A00	2019: 900
+Thương mại điện tử	A01	2019: 900
+Thương mại điện tử	D01	2019: 900
+Khoa học máy tính	A00	2019: 25.55	2018: 22.4	2017: 25.75
+Khoa học máy tính	A01	2019: 25.55	2018: 22.4	2017: 25.75
+Khoa học máy tính	D01	2019: 25.55	2018: 22.4	2017: 25.75
+Kỹ thuật phần mềm	A00	2019: 25.3	2018: 23.2	2017: 27
+Kỹ thuật phần mềm	A01	2019: 25.3	2018: 23.2	2017: 27
+Kỹ thuật phần mềm	D01	2019: 25.3	2018: 23.2	2017: 27
+Công nghệ thông tin	A00	2019: 24.65	2018: 22.5	2017: 25.75
+Công nghệ thông tin	A01	2019: 24.65	2018: 22.5	2017: 25.75
+Công nghệ thông tin	D01	2019: 24.65	2018: 22.5	2017: 25.75
+An toàn thông tin	A00	2019: 24.45	2018: 22.25	2017: 25.5
+An toàn thông tin	A01	2019: 24.45	2018: 22.25	2017: 25.5
+An toàn thông tin	D01	2019: 24.45	2018: 22.25	2017: 25.5
+Mạng máy tính và truyền thông dữ liệu	A00	2019: 23.2	2018: 21.2	2017: 24.5
+Mạng máy tính và truyền thông dữ liệu	A01	2019: 23.2	2018: 21.2	2017: 24.5
+Mạng máy tính và truyền thông dữ liệu	D01	2019: 23.2	2018: 21.2	2017: 24.5
+Khoa học máy tính	A00	2019: 980
+Khoa học máy tính	A01	2019: 980
+Khoa học máy tính	D01	2019: 980
+Kỹ thuật phần mềm	A00	2019: 960
+Kỹ thuật phần mềm	A01	2019: 960
+Kỹ thuật phần mềm	D01	2019: 960
+Công nghệ thông tin	A00	2019: 950
+Công nghệ thông tin	A01	2019: 950
+Công nghệ thông tin	D01	2019: 950
+An toàn thông tin	A00	2019: 900
+An toàn thông tin	A01	2019: 900
+An toàn thông tin	D01	2019: 900
+Mạng máy tính và truyền thông dữ liệu	A00	2019: 840
+Mạng máy tính và truyền thông dữ liệu	A01	2019: 840
+Mạng máy tính và truyền thông dữ liệu	D01	2019: 840
+Kỹ thuật phần mềm	A00	2019: 25.3	2018: 23.2	2017: 27
+Kỹ thuật phần mềm	A01	2019: 25.3	2018: 23.2	2017: 27
+Kỹ thuật phần mềm	D01	2019: 25.3	2018: 23.2	2017: 27
+Kỹ thuật phần mềm	A00	2019: 960
+Kỹ thuật phần mềm	A01	2019: 960
+Kỹ thuật phần mềm	D01	2019: 960

@@ -1,0 +1,36 @@
+Kế toán	A00	2019: 15	2018: 14	2017: 15.5
+Kế toán	A01	2019: 15	2018: 14	2017: 15.5
+Kế toán	C00	2019: 15	2018: 14	2017: 15.5
+Kế toán	D01	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	C00	2019: 15	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 15	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 15	2018: 15	2017: 15.5
+Quản trị kinh doanh	A01	2019: 15	2018: 15	2017: 15.5
+Quản trị kinh doanh	C00	2019: 15	2018: 15	2017: 15.5
+Quản trị kinh doanh	D01	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A02	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	A02	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật xây dựng	D01	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A02	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	D01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật nhiệt	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật nhiệt	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật nhiệt	A02	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật nhiệt	D01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A02	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A02	2019: 15	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 15	2018: 14	2017: 15.5

@@ -1,0 +1,58 @@
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)	A00	2019: 18.75	2018: 16.75
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)	A01	2019: 18.75	2018: 16.75
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)	D01 - D06	2019: 18.75
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)	D96 - DD1	2019: 18.75
+Kế toán, Phân tích và Kiểm toán	D01	2018: 16.75
+Kế toán, Phân tích và Kiểm toán	D03	2018: 16.75
+Kế toán, Phân tích và Kiểm toán	D06	2018: 16.75
+Kế toán, Phân tích và Kiểm toán	D96	2018: 16.75
+Kế toán, Phân tích và Kiểm toán	D97	2018: 16.75
+Kế toán, Phân tích và Kiểm toán	DD0	2018: 16.75
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	A00	2019: 17	2018: 16
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	A01	2019: 17	2018: 16
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	D01 - D06	2019: 17
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	D96 - DD1	2019: 17
+Hệ thống thông tin quản lý	D01	2018: 16
+Hệ thống thông tin quản lý	D03	2018: 16
+Hệ thống thông tin quản lý	D06	2018: 16
+Hệ thống thông tin quản lý	D96	2018: 16
+Hệ thống thông tin quản lý	D97	2018: 16
+Hệ thống thông tin quản lý	DD0	2018: 16
+Hệ thống thông tin quản lý	A00	2017: 17.25
+Hệ thống thông tin quản lý	A01	2017: 17.25
+Hệ thống thông tin quản lý	D01	2017: 17.25
+Hệ thống thông tin quản lý	D02	2017: 17.25
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh)	A00	2019: 20.5	2018: 18.5
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh)	A01	2019: 20.5	2018: 18.5
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh)	D01 - D06	2019: 20.5
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh)	D96 - DD1	2019: 20.5
+Kinh doanh quốc tế	D01	2018: 18.5
+Kinh doanh quốc tế	D03	2018: 18.5
+Kinh doanh quốc tế	D06	2018: 18.5
+Kinh doanh quốc tế	D96	2018: 18.5
+Kinh doanh quốc tế	D97	2018: 18.5
+Kinh doanh quốc tế	DD0	2018: 18.5
+Kinh doanh quốc tế	A00	2017: 18.5
+Kinh doanh quốc tế	A01	2017: 18.5
+Kinh doanh quốc tế	D01	2017: 18.5
+Kinh doanh quốc tế	D02	2017: 18.5
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	A00	2019: 17	2018: 16
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	A01	2019: 17	2018: 16
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	D01 - D06	2019: 17
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)	D96 - DD1	2019: 17
+Hệ thống thông tin quản lý	D01	2018: 16
+Hệ thống thông tin quản lý	D03	2018: 16
+Hệ thống thông tin quản lý	D06	2018: 16
+Hệ thống thông tin quản lý	D96	2018: 16
+Hệ thống thông tin quản lý	D97	2018: 16
+Hệ thống thông tin quản lý	DD0	2018: 16
+Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)	A00	2019: 17	2018: 15
+Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)	A01	2019: 17	2018: 15
+Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)	D01 - D06	2019: 17
+Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)	D90 - D95	2019: 17
+Tin học và Kỹ thuật máy tính	D01	2018: 15
+Tin học và Kỹ thuật máy tính	D03	2018: 15
+Tin học và Kỹ thuật máy tính	D06	2018: 15
+Tin học và Kỹ thuật máy tính	D90	2018: 15
+Tin học và Kỹ thuật máy tính	D91	2018: 15
+Tin học và Kỹ thuật máy tính	D94	2018: 15

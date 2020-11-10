@@ -1,0 +1,89 @@
+Kế toán	A01	2019: 15	2018: 16.25	2017: 18.5
+Kế toán	D01	2019: 15	2018: 16.25	2017: 18.5
+Kế toán	D07	2019: 15	2018: 16.25	2017: 18.5
+Kế toán	D11	2019: 15	2018: 16.25	2017: 18.5
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Kế toán	D07	2019: 18
+Kế toán	D11	2019: 18
+Tài chính Ngân hàng	A01	2019: 16	2018: 16.25	2017: 18
+Tài chính Ngân hàng	D01	2019: 16	2018: 16.25	2017: 18
+Tài chính Ngân hàng	D07	2019: 16	2018: 16.25	2017: 18
+Tài chính Ngân hàng	D11	2019: 16	2018: 16.25	2017: 18
+Tài chính Ngân hàng	A01	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Tài chính Ngân hàng	D07	2019: 18
+Tài chính Ngân hàng	D11	2019: 18
+Quản trị kinh doanh	A01	2019: 23.75	2018: 26.25	2017: 19.75
+Quản trị kinh doanh	D01	2019: 23.75	2018: 26.25	2017: 19.75
+Quản trị kinh doanh	D07	2019: 23.75	2018: 26.25	2017: 19.75
+Quản trị kinh doanh	D11	2019: 23.75	2018: 26.25	2017: 19.75
+Quản trị kinh doanh	A01	2019: 27.5
+Quản trị kinh doanh	D01	2019: 27.5
+Quản trị kinh doanh	D07	2019: 27.5
+Quản trị kinh doanh	D11	2019: 27.5
+Kinh doanh quốc tế	A01	2019: 25	2018: 27.75	2017: 21.25
+Kinh doanh quốc tế	D01	2019: 25	2018: 27.75	2017: 21.25
+Kinh doanh quốc tế	D07	2019: 25	2018: 27.75	2017: 21.25
+Kinh doanh quốc tế	D11	2019: 25	2018: 27.75	2017: 21.25
+Kinh doanh quốc tế	A01	2019: 27.5
+Kinh doanh quốc tế	D01	2019: 27.5
+Kinh doanh quốc tế	D07	2019: 27.5
+Kinh doanh quốc tế	D11	2019: 27.5
+Ngôn ngữ Anh	A01	2019: 30	2018: 28.75	2017: 22.25
+Ngôn ngữ Anh	D01	2019: 30	2018: 28.75	2017: 22.25
+Ngôn ngữ Anh	D14	2019: 30	2018: 28.75	2017: 22.25
+Ngôn ngữ Anh	D15	2019: 30	2018: 28.75	2017: 22.25
+Quan hệ quốc tế	A01	2019: 24	2018: 27.75	2017: 20.5
+Quan hệ quốc tế	D01	2019: 24	2018: 27.75	2017: 20.5
+Quan hệ quốc tế	D07	2019: 24	2018: 27.75	2017: 20.5
+Quan hệ quốc tế	D14	2019: 24	2018: 27.75	2017: 20.5
+Ngôn ngữ Trung Quốc	A01	2019: 22.25	2018: 21.5	2017: 21
+Ngôn ngữ Trung Quốc	D01	2019: 22.25	2018: 21.5	2017: 21
+Ngôn ngữ Trung Quốc	D04	2019: 22.25	2018: 21.5	2017: 21
+Ngôn ngữ Trung Quốc	D14	2019: 22.25	2018: 21.5	2017: 21
+Ngôn ngữ Anh	A01	2019: 28.5
+Ngôn ngữ Anh	D01	2019: 28.5
+Ngôn ngữ Anh	D14	2019: 28.5
+Ngôn ngữ Anh	D15	2019: 28.5
+Quan hệ quốc tế	A01	2019: 27.5
+Quan hệ quốc tế	D01	2019: 27.5
+Quan hệ quốc tế	D07	2019: 27.5
+Quan hệ quốc tế	D14	2019: 27.5
+Ngôn ngữ Trung Quốc	A01	2019: 22
+Ngôn ngữ Trung Quốc	D01	2019: 22
+Ngôn ngữ Trung Quốc	D04	2019: 22
+Ngôn ngữ Trung Quốc	D14	2019: 22
+Công nghệ thông tin	A00	2019: 19.75	2018: 18.25	2017: 19.5
+Công nghệ thông tin	A01	2019: 19.75	2018: 18.25	2017: 19.5
+Công nghệ thông tin	D01	2019: 19.75	2018: 18.25	2017: 19.5
+Công nghệ thông tin	D07	2019: 19.75	2018: 18.25	2017: 19.5
+Công nghệ thông tin	A00	2019: 19.5
+Công nghệ thông tin	A01	2019: 19.5
+Công nghệ thông tin	D01	2019: 19.5
+Công nghệ thông tin	D07	2019: 19.5
+Luật kinh tế	A01	2019: 15	2018: 15.5	2017: 17.5
+Luật kinh tế	D01	2019: 15	2018: 15.5	2017: 17.5
+Luật kinh tế	D07	2019: 15	2018: 15.5	2017: 17.5
+Luật kinh tế	D11	2019: 15
+Luật kinh tế	D14	2018: 15.5	2017: 17.5
+Luật kinh tế	A01	2019: 18
+Luật kinh tế	D01	2019: 18
+Luật kinh tế	D07	2019: 18
+Luật kinh tế	D11	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 20.5	2018: 19.75	2017: 20.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 20.5	2018: 19.75	2017: 20.5
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 20.5	2018: 19.75	2017: 20.5
+Quản trị dịch vụ du lịch và lữ hành	D15	2019: 20.5	2018: 19.75	2017: 20.5
+Quản trị khách sạn	A01	2019: 19	2018: 20.25	2017: 20.75
+Quản trị khách sạn	D01	2019: 19	2018: 20.25	2017: 20.75
+Quản trị khách sạn	D14	2019: 19	2018: 20.25	2017: 20.75
+Quản trị khách sạn	D15	2019: 19	2018: 20.25	2017: 20.75
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 21
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 21
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 21
+Quản trị dịch vụ du lịch và lữ hành	D15	2019: 21
+Quản trị khách sạn	A01	2019: 20
+Quản trị khách sạn	D01	2019: 20
+Quản trị khách sạn	D14	2019: 20
+Quản trị khách sạn	D15	2019: 20

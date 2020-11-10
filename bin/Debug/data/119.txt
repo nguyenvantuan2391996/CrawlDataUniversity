@@ -1,0 +1,12 @@
+Y khoa	A00	2019: 21
+Y khoa	B00	2019: 21
+Y khoa	B03	2019: 21
+Y khoa	B08	2019: 21
+Điều dưỡng	A00	2019: 18
+Điều dưỡng	B00	2019: 18
+Điều dưỡng	B03	2019: 18
+Điều dưỡng	B08	2019: 18
+Kỹ thuật xét nghiệm y học	A00	2019: 18
+Kỹ thuật xét nghiệm y học	B00	2019: 18
+Kỹ thuật xét nghiệm y học	B03	2019: 18
+Kỹ thuật xét nghiệm y học	B08	2019: 18

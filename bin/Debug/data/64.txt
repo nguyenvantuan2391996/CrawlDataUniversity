@@ -1,0 +1,100 @@
+Kế toán	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Kế toán	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Kế toán	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Kế toán	D07	2019: 14.5
+Kế toán	D90	2019: 14.5
+Kế toán	D02	2018: 14.5	2017: 15.5
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Kế toán	D07	2019: 18
+Quản trị Kinh doanh	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Kinh doanh	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Kinh doanh	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Kinh doanh	D07	2019: 14.5
+Quản trị Kinh doanh	D90	2019: 14.5
+Quản trị kinh doanh	D02	2018: 14.5	2017: 15.5
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Quản trị kinh doanh	D07	2019: 18
+Ngôn ngữ Anh	A00	2019: 14.5
+Ngôn ngữ Anh	A01	2019: 14.5
+Ngôn ngữ Anh	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Ngôn ngữ Anh	D07	2019: 14.5
+Ngôn ngữ Anh	D15	2019: 14.5
+Ngôn ngữ Anh	B00	2018: 14.5	2017: 15.5
+Ngôn ngữ Anh	A00	2019: 18
+Ngôn ngữ Anh	A01	2019: 18
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D07	2019: 18
+Công nghệ thông tin	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ thông tin	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ thông tin	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ thông tin	D07	2019: 14.5
+Công nghệ thông tin	D90	2019: 14.5
+Công nghệ thông tin	D02	2018: 14.5	2017: 15.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Công nghệ thông tin	D07	2019: 18
+Việt Nam học (Hướng dẫn Du lịch)	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	C00	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	D96	2019: 14.5
+Quản trị Khách sạn	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Khách sạn	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Khách sạn	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Khách sạn	C00	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Khách sạn	D96	2019: 14.5
+Việt Nam học	A00	2019: 18
+Việt Nam học	A01	2019: 18
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18
+Quản trị khách sạn	A00	2019: 18
+Quản trị khách sạn	A01	2019: 18
+Quản trị khách sạn	C00	2019: 18
+Quản trị khách sạn	D01	2019: 18
+Việt Nam học (Hướng dẫn Du lịch)	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	C00	2019: 14.5	2018: 14.5	2017: 15.5
+Việt Nam học (Hướng dẫn Du lịch)	D96	2019: 14.5
+Việt Nam học	A00	2019: 18
+Việt Nam học	A01	2019: 18
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18
+Quản trị Văn phòng	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Văn phòng	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Văn phòng	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Văn phòng	C00	2019: 14.5	2018: 14.5	2017: 15.5
+Quản trị Văn phòng	D96	2019: 14.5
+Quản trị văn phòng	A00	2019: 18
+Quản trị văn phòng	A01	2019: 18
+Quản trị văn phòng	D01	2019: 18
+Quản trị văn phòng	D07	2019: 18
+Dược học (Cấp bằng Dược sĩ)	A00	2019: 20	2018: 21	2017: 15.5
+Dược học (Cấp bằng Dược sĩ)	B00	2019: 20	2018: 21	2017: 15.5
+Dược học	A00	2019: 24
+Dược học	B00	2019: 24
+Công nghệ kỹ thuật Ô tô	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật Ô tô	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật Ô tô	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật Ô tô	D07	2019: 14.5
+Công nghệ kỹ thuật Ô tô	D90	2019: 14.5
+Công nghệ kỹ thuật ô tô	D02	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật ô tô	A00	2019: 18
+Công nghệ kỹ thuật ô tô	A01	2019: 18
+Công nghệ kỹ thuật ô tô	D01	2019: 18
+Công nghệ kỹ thuật ô tô	D07	2019: 18
+Công nghệ kỹ thuật Điện, Điện tử	A00	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật Điện, Điện tử	A01	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật Điện, Điện tử	D01	2019: 14.5	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật Điện, Điện tử	D07	2019: 14.5
+Công nghệ kỹ thuật Điện, Điện tử	D90	2019: 14.5
+Công nghệ kỹ thuật điện, điện tử	D02	2018: 14.5	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 18
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 18
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 18
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 18

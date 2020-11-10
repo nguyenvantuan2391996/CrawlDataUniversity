@@ -1,0 +1,28 @@
+Kế toán	A00	2019: 13	2018: 13
+Kế toán	A01	2019: 13	2018: 13
+Kế toán	C01	2019: 13	2018: 13
+Kế toán	D01	2019: 13	2018: 13
+Kinh tế xây dựng	A00	2019: 13	2018: 13	2017: 15.5
+Kinh tế xây dựng	A01	2019: 13	2018: 13	2017: 15.5
+Kinh tế xây dựng	C01	2019: 13	2018: 13	2017: 15.5
+Kinh tế xây dựng	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	C01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	C01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật xây dựng công trình giao thông	D01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật cấp thoát nước	A00	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	A01	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	C01	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	D01	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	A00	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	A01	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	C01	2019: 13	2018: 13
+Kỹ thuật cấp thoát nước	D01	2019: 13	2018: 13
+Kỹ thuật môi trường	A00	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật môi trường	A01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật môi trường	C01	2019: 13	2018: 13	2017: 15.5
+Kỹ thuật môi trường	D01	2019: 13	2018: 13	2017: 15.5

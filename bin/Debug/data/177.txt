@@ -1,0 +1,86 @@
+Báo chí	C00	2019: 13.5	2018: 13.75	2017: 18
+Báo chí	D01	2019: 13.5	2018: 13.75	2017: 18
+Báo chí	D15	2019: 13.5	2018: 13.75
+Báo chí	C15	2017: 18
+Công nghệ thông tin	A00	2019: 13.5	2018: 13.5	2017: 15
+Công nghệ thông tin	A01	2019: 13.5	2018: 13.5	2017: 15
+Công nghệ thông tin	D07	2019: 13.5
+Kỹ thuật phần mềm	A00	2019: 13
+Kỹ thuật phần mềm	A01	2019: 13
+Kỹ thuật phần mềm	D07	2019: 13
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 13	2018: 13	2017: 14.25
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 13	2018: 13	2017: 14.25
+Kỹ thuật phần mềm	A00	2019: 13
+Kỹ thuật phần mềm	A01	2019: 13
+Kỹ thuật phần mềm	D07	2019: 13
+Quy hoạch vùng và đô thị	V00	2019: 15
+Quy hoạch vùng và đô thị	V01	2019: 15
+Quy hoạch vùng và đô thị	V02	2019: 15
+Địa kỹ thuật xây dựng	A00	2019: 13
+Địa kỹ thuật xây dựng	A01	2019: 13
+Địa kỹ thuật xây dựng	D07	2019: 13
+Hán Nôm	C00	2019: 13.25	2018: 13	2017: 14.25
+Hán Nôm	C19	2019: 13.25	2018: 13	2017: 14.25
+Hán Nôm	D14	2019: 13.25	2018: 13
+Hán Nôm	C14	2017: 14.25
+Xã hội học	C00	2019: 13.25	2018: 13	2017: 14.25
+Xã hội học	D01	2019: 13.25	2018: 13	2017: 14.25
+Xã hội học	D14	2019: 13.25
+Xã hội học	D15	2018: 13
+Xã hội học	C14	2017: 14.25
+Công tác xã hội	C00	2019: 13.25	2018: 13	2017: 15
+Công tác xã hội	D01	2019: 13.25	2018: 13	2017: 15
+Công tác xã hội	D14	2019: 13.25	2018: 13
+Công tác xã hội	C14	2017: 15
+Quản lý nhà nước	A00	2019: 13.25
+Quản lý nhà nước	C199	2019: 13.25
+Quản lý nhà nước	D66	2019: 13.25
+Kỹ thuật địa chất	A00	2019: 14	2018: 13	2017: 14.25
+Kỹ thuật địa chất	B00	2019: 14	2018: 13	2017: 14.25
+Kỹ thuật địa chất	D07	2019: 14	2018: 13
+Kỹ thuật địa chất	C07	2017: 14.25
+Địa chất học	A00	2018: 13	2017: 14.25
+Địa chất học	B00	2018: 13	2017: 14.25
+Địa chất học	D07	2018: 13
+Địa chất học	C07	2017: 14.25
+Kỹ thuật trắc địa - bản đồ	C07	2017: 14.25
+Khoa học môi trường	A00	2019: 14	2018: 13	2017: 15.5
+Khoa học môi trường	B00	2019: 14	2018: 13	2017: 15.5
+Khoa học môi trường	D07	2019: 14	2018: 13
+Khoa học môi trường	C07	2017: 15.5
+Quản lý tài nguyên và môi trường	A00	2019: 13	2018: 13	2017: 13.5
+Quản lý tài nguyên và môi trường	B00	2019: 13	2018: 13	2017: 13.5
+Quản lý tài nguyên và môi trường	C04	2019: 13
+Quản lý tài nguyên và môi trường	D07	2018: 13
+Quản lý tài nguyên và môi trường	C07	2017: 13.5
+Kỹ thuật trắc địa - bản đồ	C07	2017: 14.25
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 13	2018: 13	2017: 14.25
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 13	2018: 13	2017: 14.25
+Công nghệ sinh học	A00	2019: 14	2018: 13	2017: 15
+Công nghệ sinh học	B00	2019: 14	2018: 13	2017: 15
+Công nghệ sinh học	D08	2019: 14	2018: 13
+Công nghệ sinh học	C08	2017: 15
+Kỹ thuật sinh học	A00	2019: 14
+Kỹ thuật sinh học	B00	2019: 14
+Kỹ thuật sinh học	D08	2019: 14
+Kỹ thuật môi trường	A00	2019: 14
+Kỹ thuật môi trường	B00	2019: 14
+Kỹ thuật môi trường	D07	2019: 14
+Hoá học	A00	2019: 13.25	2018: 13	2017: 14.25
+Hoá học	B00	2019: 13.25	2018: 13	2017: 14.25
+Hoá học	D07	2019: 13.25	2018: 13
+Hoá học	C07	2017: 14.25
+Công nghệ kỹ thuật hoá học	A00	2019: 13.25
+Công nghệ kỹ thuật hoá học	B00	2019: 13.25
+Công nghệ kỹ thuật hoá học	D07	2019: 13.25
+Sinh học	A00	2018: 13	2017: 14.25
+Sinh học	B00	2018: 13	2017: 14.25
+Sinh học	D08	2018: 13
+Sinh học	C08	2017: 14.25
+Toán học	A00	2019: 14	2018: 13	2017: 14.25
+Toán học	A01	2019: 14	2018: 13	2017: 14.25
+Toán ứng dụng	A00	2018: 13	2017: 14.25
+Toán ứng dụng	A01	2018: 13	2017: 14.25
+Vật lý học	A00	2019: 14	2018: 13	2017: 14.25
+Vật lý học	A01	2019: 14	2018: 13	2017: 14.25
+Địa lý tự nhiênkỹ thuật	C07	2017: 14.25

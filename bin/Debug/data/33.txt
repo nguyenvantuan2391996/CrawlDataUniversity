@@ -1,0 +1,115 @@
+Kế toán	A00	2019: 17.5	2018: 16.5	2017: 18.25
+Kế toán	A01	2019: 17.5	2018: 16.5	2017: 18.25
+Kế toán	C15	2019: 17.5
+Kế toán	D01	2019: 17.5	2018: 16.5	2017: 18.25
+Tài chính Ngân hàng	A00	2019: 17	2018: 14.75	2017: 17.75
+Tài chính Ngân hàng	A01	2019: 17	2018: 14.75	2017: 17.75
+Tài chính Ngân hàng	C15	2019: 17
+Tài chính Ngân hàng	D01	2019: 17	2018: 14.75	2017: 17.75
+Quản trị kinh doanh	A00	2019: 19	2018: 16.75	2017: 18.5
+Quản trị kinh doanh	A01	2019: 19	2018: 16.75	2017: 18.5
+Quản trị kinh doanh	C15	2019: 19
+Quản trị kinh doanh	D01	2019: 19	2018: 16.75	2017: 18.5
+Ngôn ngữ Anh	A01	2019: 16	2018: 16.75
+Ngôn ngữ Anh	D01	2019: 16	2018: 16.75	2017: 18.75
+Ngôn ngữ Anh	D09	2019: 16
+Ngôn ngữ Anh	D14	2019: 16
+Marketing	A00	2019: 17.5	2018: 14.75
+Marketing	A01	2019: 17.5	2018: 14.75
+Marketing	C15	2019: 17.5
+Marketing	D01	2019: 17.5	2018: 14.75
+Công nghệ thông tin	A00	2019: 15.5	2018: 16	2017: 17
+Công nghệ thông tin	A01	2019: 15.5	2018: 16	2017: 17
+Công nghệ thông tin	C01	2019: 15.5
+Công nghệ thông tin	D01	2019: 15.5	2018: 16	2017: 17
+Kỹ thuật phần mềm	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật phần mềm	C01	2019: 14
+Kỹ thuật phần mềm	D01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật phần mềm	A00	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật phần mềm	A01	2019: 14	2018: 15	2017: 15.5
+Kỹ thuật phần mềm	C01	2019: 14
+Kỹ thuật phần mềm	D01	2019: 14	2018: 15	2017: 15.5
+Luật	A01	2019: 17.5	2018: 18
+Luật	C00	2019: 17.5	2018: 18	2017: 21.25
+Luật	C01	2019: 17.5	2018: 18
+Luật	D01	2019: 17.5	2018: 18	2017: 21.25
+Việt Nam học	A01	2019: 19	2018: 19	2017: 21
+Việt Nam học	C00	2019: 19	2018: 19
+Việt Nam học	C04	2019: 19
+Việt Nam học	D01	2019: 19	2018: 19	2017: 21
+Việt Nam học	A00	2017: 21
+Việt Nam học	A01	2019: 19	2018: 19	2017: 21
+Việt Nam học	C00	2019: 19	2018: 19
+Việt Nam học	C04	2019: 19
+Việt Nam học	D01	2019: 19	2018: 19	2017: 21
+Việt Nam học	A00	2017: 21
+Giáo dục Chính trị	C00	2019: 18	2017: 19.5
+Giáo dục Chính trị	C13	2019: 18
+Giáo dục Chính trị	D01	2019: 18	2017: 19.5
+Giáo dục Chính trị	D66	2019: 18	2018: 17
+Giáo dục Chính trị	C00; D01; C19	2018: 17
+Sư phạm Tiếng Anh	A01	2019: 18	2018: 18
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 18	2017: 19
+Sư phạm Tiếng Anh	D09	2019: 18
+Sư phạm Tiếng Anh	D14	2019: 18
+Sư phạm Tiếng Anh	A01	2019: 16	2018: 15
+Sư phạm Tiếng Anh	D01	2019: 16	2018: 15	2017: 14
+Sư phạm Tiếng Anh	D09	2019: 16
+Sư phạm Tiếng Anh	D14	2019: 16
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A18	2019: 14
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	A00	2019: 14	2018: 14	2017: 15.75
+Quản lý tài nguyên và môi trường	A01	2019: 14	2018: 14	2017: 15.75
+Quản lý tài nguyên và môi trường	A18	2019: 14
+Quản lý tài nguyên và môi trường	B00	2019: 14	2018: 14	2017: 15.75
+Chăn nuôi	A00	2019: 14	2018: 14	2017: 15.5
+Chăn nuôi	A01	2019: 14	2018: 14	2017: 15.5
+Chăn nuôi	A18	2019: 14
+Chăn nuôi	B00	2019: 14	2018: 14	2017: 15.5
+Khoa học cây trồng	A00	2019: 14	2018: 14	2017: 15.5
+Khoa học cây trồng	A01	2019: 14	2018: 14	2017: 15.5
+Khoa học cây trồng	A18	2019: 14
+Khoa học cây trồng	B00	2019: 14	2018: 14	2017: 15.5
+Phát triển nông thôn	A00	2019: 14	2018: 14	2017: 15.75
+Phát triển nông thôn	A01	2019: 14	2018: 14	2017: 15.75
+Phát triển nông thôn	A18	2019: 14
+Phát triển nông thôn	B00	2019: 14	2018: 14	2017: 15.75
+Nuôi trồng thuỷ sản	A00	2019: 14	2018: 14	2017: 15.5
+Nuôi trồng thuỷ sản	A01	2019: 14	2018: 14	2017: 15.5
+Nuôi trồng thuỷ sản	A18	2019: 14
+Nuôi trồng thuỷ sản	B00	2019: 14	2018: 14	2017: 15.5
+Chăn nuôi	A00	2019: 14	2018: 14	2017: 15.5
+Chăn nuôi	A01	2019: 14	2018: 14	2017: 15.5
+Chăn nuôi	A18	2019: 14
+Chăn nuôi	B00	2019: 14	2018: 14	2017: 15.5
+Khoa học cây trồng	A00	2019: 14	2018: 14	2017: 15.5
+Khoa học cây trồng	A01	2019: 14	2018: 14	2017: 15.5
+Khoa học cây trồng	A18	2019: 14
+Khoa học cây trồng	B00	2019: 14	2018: 14	2017: 15.5
+Công nghệ sinh học	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ sinh học	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ sinh học	A18	2019: 14
+Công nghệ sinh học	B00	2019: 14	2018: 14	2017: 15.5
+Sinh học ứng dụng	A00	2019: 14	2018: 14
+Sinh học ứng dụng	A01	2019: 14	2018: 14
+Sinh học ứng dụng	A18	2019: 14
+Sinh học ứng dụng	B00	2019: 14	2018: 14
+Hoá học	A00	2019: 14	2018: 14
+Hoá học	B00	2019: 14	2018: 14
+Hoá học	C02	2019: 14
+Hoá học	D07	2019: 14
+Công nghệ kỹ thuật hoá học	A00	2019: 14	2018: 14
+Công nghệ kỹ thuật hoá học	A01	2019: 14	2018: 14
+Công nghệ kỹ thuật hoá học	A18	2019: 14
+Công nghệ kỹ thuật hoá học	B00	2019: 14	2018: 14
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật môi trường	A18	2019: 14
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 14	2017: 15.5
+Toán ứng dụng	A00	2019: 14	2018: 14
+Toán ứng dụng	A01	2019: 14	2018: 14
+Toán ứng dụng	C01	2019: 14
+Toán ứng dụng	D01	2019: 14

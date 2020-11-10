@@ -1,0 +1,15 @@
+Thiết kế đồ họa	H00	2019: 19.85	2017: 20
+Thiết kế đồ họa	H07	2019: 19.85	2017: 20
+Thiết kế đồ họa	Bố cục và hình họa	2018: 19
+Thiết kế công nghiệp	H00	2019: 17.25	2017: 15.5
+Thiết kế công nghiệp	H07	2019: 17.25	2017: 15.5
+Thiết kế công nghiệp	Bố cục và hình họa	2018: 16.75
+Hội hoạ	H00	2019: 15.5	2017: 17.75
+Hội hoạ	H07	2019: 15.5	2017: 17.75
+Hội Họa	Bố cục và hình họa	2018: 16.5
+Gốm	H00	2019: 15.5	2017: 18
+Gốm	H07	2019: 15.5	2017: 18
+Gốm	Bố cục và hình họa	2018: 16.5
+Thiết kế thời trang	H00	2019: 19.25	2017: 17
+Thiết kế thời trang	H07	2019: 19.25	2017: 17
+Thiết kế thời trang	Bố cục và hình họa	2018: 18

@@ -1,0 +1,25 @@
+Luật	A00	2019: 16	2018: 16
+Luật	C00	2019: 16	2018: 16
+Luật	D01	2019: 16	2018: 16
+Luật	D66	2019: 16
+Luật	A01	2018: 16
+Xây dựng Đảng và chính quyền nhà nước	C00	2019: 15	2018: 15	2017: 20.5
+Xây dựng Đảng và chính quyền nhà nước	C19	2019: 15
+Xây dựng Đảng và chính quyền nhà nước	D01	2019: 15	2018: 15	2017: 21
+Xây dựng Đảng và chính quyền nhà nước	D66	2019: 15
+Xây dựng Đảng và Chính quyền nhà nước	A00	2018: 15	2017: 20.5
+Xây dựng Đảng và Chính quyền nhà nước	C04	2018: 15	2017: 20.5
+Công tác xã hội	C00	2019: 15	2018: 15	2017: 21
+Công tác xã hội	C14	2019: 15	2018: 15	2017: 20.5
+Công tác xã hội	D01	2019: 15	2018: 15	2017: 20.5
+Công tác xã hội	D15	2019: 15	2018: 15	2017: 20.5
+Công tác thanh thiếu niên	C00	2019: 15	2018: 15	2017: 21.5
+Công tác thanh thiếu niên	C19	2019: 15
+Công tác thanh thiếu niên	C20	2019: 15
+Công tác thanh thiếu niên	D01	2019: 15	2018: 15
+Công tác thanh thiếu niên	A00	2018: 15
+Công tác thanh thiếu niên	C04	2018: 15
+Quản lý nhà nước	A00	2019: 15	2018: 15
+Quản lý nhà nước	A01	2019: 15	2018: 15
+Quản lý nhà nước	C00	2019: 15	2018: 15
+Quản lý nhà nước	D01	2019: 15	2018: 15

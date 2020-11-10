@@ -1,0 +1,121 @@
+Kế toán	A00	2019: 14
+Kế toán	A16	2019: 14
+Kế toán	D01	2019: 14
+Kế toán	C15	2019: 14
+Kế toán	A00	2019: 6
+Kế toán	A16	2019: 6
+Kế toán	C15	2019: 6
+Kế toán	D01	2019: 6
+Tài chính - Ngân hàng	A00	2019: 14
+Tài chính - Ngân hàng	A16	2019: 14
+Tài chính - Ngân hàng	D01	2019: 14
+Tài chính - Ngân hàng	C15	2019: 14
+Tài chính Ngân hàng	A00	2019: 6
+Tài chính Ngân hàng	A16	2019: 6
+Tài chính Ngân hàng	C15	2019: 6
+Tài chính Ngân hàng	D01	2019: 6
+Quản trị kinh doanh	A00	2019: 14
+Quản trị kinh doanh	A16	2019: 14
+Quản trị kinh doanh	D01	2019: 14
+Quản trị kinh doanh	C15	2019: 14
+Ngôn ngữ Anh	D01	2019: 14	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 14
+Ngôn ngữ Anh	D15	2019: 14
+Ngôn ngữ Anh	D12	2019: 14
+Ngôn ngữ Anh	A01	2017: 15.5
+Ngôn ngữ Anh	A16	2017: 15.5
+Ngôn ngữ Anh	C15	2017: 15.5
+Ngôn ngữ Trung Quốc	D01	2019: 14
+Ngôn ngữ Trung Quốc	D16	2019: 14
+Ngôn ngữ Trung Quốc	A16	2019: 14
+Ngôn ngữ Trung Quốc	C15	2019: 14
+Công nghệ thông tin	B00	2017: 15.5
+Luật kinh tế	A00	2019: 14	2017: 15.5
+Luật kinh tế	C00	2019: 14
+Luật kinh tế	C15	2019: 14
+Luật kinh tế	D01	2019: 14
+Luật kinh tế	A01	2017: 15.5
+Luật kinh tế	A00	2019: 6
+Luật kinh tế	C00	2019: 6
+Luật kinh tế	C15	2019: 6
+Luật kinh tế	D01	2019: 6
+Công nghệ kỹ thuật xây dựng	A00	2019: 14
+Công nghệ kỹ thuật xây dựng	A16	2019: 14
+Công nghệ kỹ thuật xây dựng	C01	2019: 14
+Công nghệ kỹ thuật xây dựng	C02	2019: 14
+Công nghệ kỹ thuật xây dựng	A00	2019: 6
+Công nghệ kỹ thuật xây dựng	A16	2019: 6
+Công nghệ kỹ thuật xây dựng	C01	2019: 6
+Công nghệ kỹ thuật xây dựng	C02	2019: 6
+Quản trị Khách sạn	A00	2019: 14
+Quản trị Khách sạn	C00	2019: 14
+Quản trị Khách sạn	D01	2019: 14
+Quản trị Khách sạn	C15	2019: 14
+Quản trị văn phòng	C00	2019: 14
+Quản trị văn phòng	D01	2019: 14
+Quản trị văn phòng	C15	2019: 14
+Quản trị văn phòng	A16	2019: 14
+Quản trị nhân lực	C00	2019: 14	2017: 15.5
+Quản trị nhân lực	D01	2019: 14
+Quản trị nhân lực	C15	2019: 14
+Quản trị nhân lực	A16	2019: 14
+Quản trị nhân lực	A00	2017: 15.5
+Quản trị nhân lực	A01	2017: 15.5
+Quản trị nhân lực	A16	2019: 6
+Quản trị nhân lực	C00	2019: 6
+Quản trị nhân lực	C15	2019: 6
+Quản trị nhân lực	D01	2019: 6
+Quản trị văn phòng	A16	2019: 6
+Quản trị văn phòng	C00	2019: 6
+Quản trị văn phòng	C15	2019: 6
+Quản trị văn phòng	D01	2019: 6
+Tâm lý học	C00	2019: 14
+Tâm lý học	D01	2019: 14
+Tâm lý học	A15	2019: 14
+Tâm lý học	C16	2019: 14
+Tâm lý học	A15	2019: 6
+Tâm lý học	C00	2019: 6
+Tâm lý học	C16	2019: 6
+Tâm lý học	D01	2019: 6
+Nông nghiệp	A00	2019: 14
+Nông nghiệp	B00	2019: 14
+Nông nghiệp	D01	2019: 14
+Nông nghiệp	D08	2019: 14
+Dược học	A00	2019: 20
+Dược học	B00	2019: 20
+Dược học	D07	2019: 20
+Dược học	B03	2019: 20
+Điều dưỡng	B00	2019: 18
+Điều dưỡng	A02	2019: 18
+Điều dưỡng	B03	2019: 18
+Điều dưỡng	A16	2019: 18
+Dinh dưỡng	B00	2019: 18
+Dinh dưỡng	A02	2019: 18
+Dinh dưỡng	B03	2019: 18
+Dinh dưỡng	A16	2019: 18
+Dược học	A00	2019: 8
+Dược học	B00	2019: 8
+Dược học	D01	2019: 8
+Dược học	D08	2019: 8
+Dinh dưỡng	A02	2019: 6.5
+Dinh dưỡng	A16	2019: 6.5
+Dinh dưỡng	B00	2019: 6.5
+Dinh dưỡng	B03	2019: 6.5
+Công nghệ kỹ thuật Ô tô	A00	2019: 14
+Công nghệ kỹ thuật Ô tô	A16	2019: 14
+Công nghệ kỹ thuật Ô tô	C01	2019: 14
+Công nghệ kỹ thuật Ô tô	C02	2019: 14
+Công nghệ kỹ thuật Điện, điện tử	A00	2019: 14	2017: 15.5
+Công nghệ kỹ thuật Điện, điện tử	A16	2019: 14
+Công nghệ kỹ thuật Điện, điện tử	C01	2019: 14
+Công nghệ kỹ thuật Điện, điện tử	C02	2019: 14
+Công nghệ kỹ thuật điện, điện tử	A01	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	B00	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 6
+Công nghệ kỹ thuật điện, điện tử	A16	2019: 6
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 6
+Công nghệ kỹ thuật điện, điện tử	C02	2019: 6
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 6
+Công nghệ kỹ thuật điều khiển và tự động hóa	A16	2019: 6
+Công nghệ kỹ thuật điều khiển và tự động hóa	C01	2019: 6
+Công nghệ kỹ thuật điều khiển và tự động hóa	C02	2019: 6

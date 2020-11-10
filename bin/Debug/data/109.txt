@@ -1,0 +1,33 @@
+Ke toán	A00	2018: 13	2017: 15.5
+Ke toán	A01	2018: 13	2017: 15.5
+Ke toán	D01	2018: 13	2017: 15.5
+Tài chính - Ngân hàng	A00	2018: 13	2017: 15.5
+Tài chính - Ngân hàng	A01	2018: 13	2017: 15.5
+Tài chính - Ngân hàng	D01	2018: 13	2017: 15.5
+Kinh tế	A00	2018: 14.4	2017: 15.5
+Kinh tế	A01	2018: 14.4	2017: 15.5
+Kinh tế	D01	2018: 14.4	2017: 15.5
+Quản trị kinh doanh	A00	2018: 13	2017: 15.5
+Quản trị kinh doanh	A01	2018: 13	2017: 15.5
+Quản trị kinh doanh	D01	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D01	2018: 13.2	2017: 15.5
+Công nghệ thông tin	A00	2018: 13	2017: 15.5
+Công nghệ thông tin	A01	2018: 13	2017: 15.5
+Công nghệ thông tin	D01	2018: 13	2017: 15.5
+Quản trị văn phòng	A00	2018: 13	2017: 15.5
+Quản trị văn phòng	A01	2018: 13	2017: 15.5
+Quản trị văn phòng	C00	2018: 13	2017: 15.5
+Quản trị văn phòng	D01	2018: 13	2017: 15.5
+Phát triển nông thôn	A00	2018: 14	2017: 15.5
+Phát triển nông thôn	A01	2018: 14	2017: 15.5
+Phát triển nông thôn	B00	2018: 14	2017: 15.5
+Chăn nuôi	A00	2018: 13.5	2017: 15.5
+Chăn nuôi	A01	2018: 13.5	2017: 15.5
+Chăn nuôi	B00	2018: 13.5	2017: 15.5
+Chăn nuôi	A00	2018: 13.5	2017: 15.5
+Chăn nuôi	A01	2018: 13.5	2017: 15.5
+Chăn nuôi	B00	2018: 13.5	2017: 15.5
+Kỹ thuật Điện	A00	2018: 13	2017: 15.5
+Kỹ thuật Điện	A01	2018: 13	2017: 15.5
+Kỹ thuật Điện	A00	2018: 13	2017: 15.5
+Kỹ thuật Điện	A01	2018: 13	2017: 15.5

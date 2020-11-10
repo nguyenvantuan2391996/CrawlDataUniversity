@@ -1,0 +1,199 @@
+Kế toán (2 chuyên ngành: Kế toán; Kiểm toán)	A00	2020: 21.5	2019: 17.5	2018: 16	2017: 17.25
+Kế toán (2 chuyên ngành: Kế toán; Kiểm toán)	A01	2020: 21.5	2019: 17.5	2018: 16	2017: 17.25
+Kế toán (2 chuyên ngành: Kế toán; Kiểm toán)	D01	2020: 21.5	2019: 17.5	2018: 16	2017: 17.25
+Kế toán (2 chuyên ngành: Kế toán; Kiểm toán)	D07	2020: 21.5	2019: 17.5	2018: 16
+Kế toán	A00	2019: 600
+Kế toán	A01	2019: 600
+Kế toán	D01	2019: 600
+Kế toán	D07	2019: 600
+Tài chính Ngân hàng	A00	2020: 20.5	2019: 17	2018: 15	2017: 17
+Tài chính Ngân hàng	A01	2020: 20.5	2019: 17	2018: 15	2017: 17
+Tài chính Ngân hàng	D01	2020: 20.5	2019: 17	2018: 15	2017: 17
+Tài chính Ngân hàng	D07	2020: 20.5	2019: 17	2018: 15
+Tài chính Ngân hàng	A00	2019: 600
+Tài chính Ngân hàng	A01	2019: 600
+Tài chính Ngân hàng	D01	2019: 600
+Tài chính Ngân hàng	D07	2019: 600
+Quản trị kinh doanh	A00	2020: 21.5	2019: 20	2018: 17	2017: 18.5
+Quản trị kinh doanh	A01	2020: 21.5	2019: 20	2018: 17	2017: 18.5
+Quản trị kinh doanh	D01	2020: 21.5	2019: 20	2018: 17	2017: 18.5
+Quản trị kinh doanh	D07	2020: 21.5	2019: 20	2018: 17
+Kinh doanh thương mại	A00	2020: 21	2019: 17	2018: 15.5	2017: 17.75
+Kinh doanh thương mại	A01	2020: 21	2019: 17	2018: 15.5	2017: 17.75
+Kinh doanh thương mại	D01	2020: 21	2019: 17	2018: 15.5	2017: 17.75
+Kinh doanh thương mại	D07	2020: 21	2019: 17	2018: 15.5
+Hệ thống thông tin quản lý	A00	2019: 15	2018: 14	2017: 15.5
+Hệ thống thông tin quản lý	A01	2020: 17	2018: 14	2017: 15.5
+Hệ thống thông tin quản lý	D01	2020: 17	2018: 14	2017: 15.5
+Hệ thống thông tin quản lý	D07	2020: 17	2018: 14
+Kinh doanh thương mại	A00	2019: 600
+Kinh doanh thương mại	A01	2019: 600
+Kinh doanh thương mại	D01	2019: 600
+Kinh doanh thương mại	D07	2019: 600
+Kinh doanh thương mại	A00	2019: 6.3
+Kinh doanh thương mại	A01	2019: 6.3
+Kinh doanh thương mại	D01	2019: 6.3
+Kinh doanh thương mại	D07	2019: 6.3
+Ngôn ngữ Anh (4 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)	A01	2020: 23.5	2019: 21	2018: 17.5	2017: 21.5
+Ngôn ngữ Anh (4 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)	D01	2020: 23.5	2019: 21	2018: 17.5	2017: 21.5
+Ngôn ngữ Anh (4 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)	D14	2020: 23.5	2019: 21	2018: 17.5	2017: 21.5
+Ngôn ngữ Anh (4 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh - Trung)	D15	2020: 23.5	2019: 21	2018: 17.5	2017: 21.5
+Ngôn ngữ Anh	A01	2019: 650
+Ngôn ngữ Anh	D01	2019: 650
+Ngôn ngữ Anh	D14	2019: 650
+Ngôn ngữ Anh	D15	2019: 650
+Ngôn ngữ Anh	A01	2019: 6.7
+Ngôn ngữ Anh	D01	2019: 6.7
+Ngôn ngữ Anh	D14	2019: 6.7
+Ngôn ngữ Anh	D15	2019: 6.7
+Marketing	A00	2020: 21	2019: 18.5	2018: 16	2017: 17.75
+Marketing	A01	2020: 21	2019: 18.5	2018: 16	2017: 17.75
+Marketing	D01	2020: 21	2019: 18.5	2018: 16	2017: 17.75
+Marketing	D07	2020: 21	2019: 18.5	2018: 16
+Marketing	A00	2019: 600
+Marketing	A01	2019: 600
+Marketing	D01	2019: 600
+Marketing	D07	2019: 600
+Marketing	A00	2019: 6.3
+Marketing	A01	2019: 6.3
+Marketing	D01	2019: 6.3
+Marketing	D07	2019: 6.3
+Công nghệ thông tin (2 chuyên ngành: Công nghệ thông tin; Truyền thông và Mạng máy tính)	A00	2020: 19	2019: 17	2018: 15.5	2017: 17.5
+Công nghệ thông tin (2 chuyên ngành: Công nghệ thông tin; Truyền thông và Mạng máy tính)	A01	2020: 19	2019: 17	2018: 15.5	2017: 17.5
+Công nghệ thông tin (2 chuyên ngành: Công nghệ thông tin; Truyền thông và Mạng máy tính)	D01	2020: 19	2019: 17	2018: 15.5	2017: 17.5
+Công nghệ thông tin (2 chuyên ngành: Công nghệ thông tin; Truyền thông và Mạng máy tính)	D07	2020: 19	2019: 17	2018: 15.5
+Công nghệ thông tin	A00	2019: 600
+Công nghệ thông tin	A01	2019: 600
+Công nghệ thông tin	D01	2019: 600
+Công nghệ thông tin	D07	2019: 600
+Công nghệ thông tin	A00	2019: 6.3
+Công nghệ thông tin	A01	2019: 6.3
+Công nghệ thông tin	D01	2019: 6.3
+Công nghệ thông tin	D07	2019: 6.3
+Kỹ thuật xây dựng (2 chuyên ngành: Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông)	A00	2020: 16	2019: 15	2018: 14.5	2017: 16
+Kỹ thuật xây dựng (2 chuyên ngành: Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông)	A01	2020: 16	2019: 15	2018: 14.5	2017: 16
+Kỹ thuật xây dựng (2 chuyên ngành: Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông)	C01	2020: 16	2019: 15	2018: 14.5	2017: 16
+Kỹ thuật xây dựng (2 chuyên ngành: Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông)	D07	2020: 16	2019: 15	2018: 14.5
+Kỹ thuật xây dựng	A00	2019: 580
+Kỹ thuật xây dựng	A01	2019: 580
+Kỹ thuật xây dựng	C01	2019: 580
+Kỹ thuật xây dựng	D07	2019: 580
+Kỹ thuật xây dựng	A00	2019: 5.7
+Kỹ thuật xây dựng	A01	2019: 5.7
+Kỹ thuật xây dựng	C01	2019: 5.7
+Kỹ thuật xây dựng	D07	2019: 5.7
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 21	2018: 18	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	A01	2020: 21	2019: 21	2018: 18	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	D01	2020: 21	2019: 21	2018: 18	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	D07	2020: 21	2019: 21	2018: 18
+Quản trị dịch vụ du lịch và lữ hành	D97	2017: 19.75
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 650
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 650
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 650
+Quản trị dịch vụ du lịch và lữ hành	D07	2019: 650
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 6.5
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 6.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 6.5
+Quản trị dịch vụ du lịch và lữ hành	D07	2019: 6.5
+Công nghệ sau thu hoạch	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	D07	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế biến thủy sản (2 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)	A00	2020: 15	2019: 15	2018: 14	2017: 16
+Công nghệ chế biến thủy sản (2 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)	A01	2020: 15	2019: 15	2018: 14	2017: 16
+Công nghệ chế biến thủy sản (2 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)	B00	2020: 15	2019: 15	2018: 14	2017: 16
+Công nghệ chế biến thủy sản (2 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)	D07	2020: 15	2019: 15	2018: 14	2017: 16
+Nuôi trồng thủy sản (3 chuyên ngành: Công nghệ Nuôi trồng thủy sản; Quản lý sức khỏe động vật thủy sản; Quản lý Nuôi trồng thủy sản)	A01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Nuôi trồng thủy sản (3 chuyên ngành: Công nghệ Nuôi trồng thủy sản; Quản lý sức khỏe động vật thủy sản; Quản lý Nuôi trồng thủy sản)	B00	2020: 15	2019: 15	2018: 14
+Quản lý thủy sản	A00	2020: 16	2019: 15	2018: 14	2017: 15.5
+Quản lý thủy sản	A01	2020: 16	2019: 15	2018: 14	2017: 15.5
+Quản lý thủy sản	B00	2020: 16	2019: 15	2018: 14	2017: 15.5
+Quản lý thủy sản	D07	2020: 16	2019: 15	2018: 14	2017: 15.5
+Nuôi trồng thuỷ sản	A00	2019: 580
+Nuôi trồng thuỷ sản	A01	2019: 580
+Nuôi trồng thuỷ sản	B00	2019: 580
+Nuôi trồng thuỷ sản	D07	2019: 580
+Công nghệ sau thu hoạch	A00	2019: 5.5
+Công nghệ sau thu hoạch	A01	2019: 5.5
+Công nghệ sau thu hoạch	B00	2019: 5.5
+Công nghệ sau thu hoạch	D07	2019: 5.5
+Công nghệ chế biến thuỷ sản	A00	2019: 5.5
+Công nghệ chế biến thuỷ sản	A01	2019: 5.5
+Công nghệ chế biến thuỷ sản	B00	2019: 5.5
+Công nghệ chế biến thuỷ sản	D07	2019: 5.5
+Kỹ thuật tàu thuỷ	A00	2020: 15.5	2019: 15	2018: 14	2017: 16
+Kỹ thuật tàu thuỷ	A01	2020: 15.5	2019: 15	2018: 14	2017: 16
+Kỹ thuật tàu thuỷ	C01	2020: 15.5	2019: 15	2018: 14	2017: 16
+Kỹ thuật tàu thuỷ	D07	2020: 15.5	2019: 15	2018: 14	2017: 16
+Khoa học hàng hải	A00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Khoa học hàng hải	A01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Khoa học hàng hải	C01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Khoa học hàng hải	D07	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật tàu thuỷ	A00	2019: 5.5
+Kỹ thuật tàu thuỷ	A01	2019: 5.5
+Kỹ thuật tàu thuỷ	C01	2019: 5.5
+Kỹ thuật tàu thuỷ	D07	2019: 5.5
+Khoa học hàng hải	A00	2019: 5.5
+Khoa học hàng hải	A01	2019: 5.5
+Khoa học hàng hải	C01	2019: 5.5
+Khoa học hàng hải	D07	2019: 5.5
+Kỹ thuật cơ điện tử	A00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật cơ điện tử	A01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật cơ điện tử	C01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật cơ điện tử	D07	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật nhiệt lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị nhiệt thực phẩm)	A00	2020:15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật nhiệt lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị nhiệt thực phẩm)	A01	2020:15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật nhiệt lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị nhiệt thực phẩm)	C01	2020:15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật nhiệt lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị nhiệt thực phẩm)	D07	2020:15	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	C01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	D07	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật cơ điện tử	A00	2019: 5.5
+Kỹ thuật cơ điện tử	A01	2019: 5.5
+Kỹ thuật cơ điện tử	C01	2019: 5.5
+Kỹ thuật cơ điện tử	D07	2019: 5.5
+Kỹ thuật nhiệt	A00	2019: 5.5
+Kỹ thuật nhiệt	A01	2019: 5.5
+Kỹ thuật nhiệt	C01	2019: 5.5
+Kỹ thuật nhiệt	D07	2019: 5.5
+Kỹ thuật điện (Chuyên ngành: Công nghệ kỹ thuật điện, điện tử) 	A00	2020: 16	2019: 15.5	2018: 14.5	2017: 16
+Kỹ thuật điện (Chuyên ngành: Công nghệ kỹ thuật điện, điện tử) 	A01	2020: 16	2019: 15.5	2018: 14.5	2017: 16
+Kỹ thuật điện (Chuyên ngành: Công nghệ kỹ thuật điện, điện tử) 	C01	2020: 16	2019: 15.5	2018: 14.5	2017: 16
+Kỹ thuật điện (Chuyên ngành: Công nghệ kỹ thuật điện, điện tử) 	D07	2020: 16	2019: 15.5	2018: 14.5	2017: 16
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 580
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 580
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 580
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 580
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 5.9
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 5.9
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 5.9
+Công nghệ kỹ thuật điện, điện tử	D07	2019: 5.9
+Công nghệ sau thu hoạch	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	D07	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 5.5
+Công nghệ sau thu hoạch	A01	2019: 5.5
+Công nghệ sau thu hoạch	B00	2019: 5.5
+Công nghệ sau thu hoạch	D07	2019: 5.5
+Công nghệ sinh học	A00	2020: 15	2019: 15	2018: 14	2017: 16
+Công nghệ sinh học	A01	2020: 15	2019: 15	2018: 14
+Công nghệ sinh học	B00	2020: 15	2019: 15	2018: 14	2017: 16
+Công nghệ sinh học	D07	2020: 15	2019: 15	2018: 14	2017: 16
+Kỹ thuật hoá học	A00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật hoá học	A01	2020: 15	2019: 15	2018: 14
+Kỹ thuật hoá học	B00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật hoá học	D07	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật môi trường	A00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật môi trường	A01	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật môi trường	B00	2020: 15	2019: 15	2018: 14	2017: 15.5
+Kỹ thuật môi trường	D07	2020: 15	2019: 15	2018: 14
+Kỹ thuật hoá học	A00	2019: 5.5
+Kỹ thuật hoá học	A01	2019: 5.5
+Kỹ thuật hoá học	B00	2019: 5.5
+Kỹ thuật hoá học	D07	2019: 5.5
+Kỹ thuật môi trường	A00	2019: 5.5
+Kỹ thuật môi trường	A01	2019: 5.5
+Kỹ thuật môi trường	B00	2019: 5.5
+Kỹ thuật môi trường	D07	2019: 5.5

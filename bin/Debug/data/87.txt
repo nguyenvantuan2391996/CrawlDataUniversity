@@ -1,0 +1,64 @@
+Kế toán	A00	2019: 14	2018: 13	2017: 15.5
+Kế toán	A01	2019: 14	2018: 13	2017: 15.5
+Kế toán	D01	2019: 14	2018: 13	2017: 15.5
+Kế toán	D90	2019: 14	2018: 13	2017: 15.5
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	D01	2019: 18
+Kế toán	D90	2019: 18
+Tài chính Ngân hàng	A00	2019: 14	2018: 13	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 13	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 14	2018: 13	2017: 15.5
+Tài chính Ngân hàng	D90	2019: 14	2018: 13	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 18
+Tài chính Ngân hàng	A01	2019: 18
+Tài chính Ngân hàng	D01	2019: 18
+Tài chính Ngân hàng	D90	2019: 18
+Quản trị kinh doanh	A00	2019: 14	2018: 13	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 13	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 13	2017: 15.5
+Quản trị kinh doanh	D90	2019: 14	2018: 13	2017: 15.5
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Quản trị kinh doanh	D90	2019: 18
+Ngôn ngữ Anh	A01	2019: 14	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 14	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D78	2019: 14	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D90	2019: 14	2018: 13	2017: 15.5
+Ngôn ngữ Anh	A01	2019: 18
+Ngôn ngữ Anh	D01	2019: 18
+Ngôn ngữ Anh	D78	2019: 18
+Ngôn ngữ Anh	D90	2019: 18
+Công nghệ thông tin	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	A16	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	D90	2019: 14	2018: 13	2017: 15.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	A16	2019: 18
+Công nghệ thông tin	D90	2019: 18
+Kỹ thuật xây dựng	A00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	C01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	D07	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 18
+Kỹ thuật xây dựng	A01	2019: 18
+Kỹ thuật xây dựng	C01	2019: 18
+Kỹ thuật xây dựng	D07	2019: 18
+Quản trị khách sạn	A00	2019: 14	2018: 13	2017: 15.5
+Quản trị khách sạn	A04	2019: 14	2018: 13	2017: 15.5
+Quản trị khách sạn	D01	2019: 14	2018: 13	2017: 15.5
+Quản trị khách sạn	D96	2019: 14	2018: 13	2017: 15.5
+Quản trị khách sạn	A00	2019: 18
+Quản trị khách sạn	A04	2019: 18
+Quản trị khách sạn	D01	2019: 18
+Quản trị khách sạn	D96	2019: 18
+Công nghệ sinh học	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sinh học	A02	2019: 14	2018: 13	2017: 15.5
+Công nghệ sinh học	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ sinh học	D90	2019: 14	2018: 13	2017: 15.5
+Công nghệ sinh học	A00	2019: 18
+Công nghệ sinh học	A02	2019: 18
+Công nghệ sinh học	B00	2019: 18
+Công nghệ sinh học	D90	2019: 18

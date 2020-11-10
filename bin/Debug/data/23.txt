@@ -1,0 +1,125 @@
+Kế toán	A00	2019: 20.25	2018: 15
+Kế toán	A01	2019: 20.25	2018: 15
+Kế toán	D01	2019: 20.25	2018: 15
+Kế toán		2017: 21
+Quản trị kinh doanh	A00	2019: 20.5	2018: 15	2017: 21
+Quản trị kinh doanh	A01	2019: 20.5	2018: 15	2017: 21
+Quản trị kinh doanh	D01	2019: 20.5	2018: 15	2017: 21
+Kinh tế	A00	2019: 19	2018: 17.5	2017: 20
+Kinh tế	A01	2019: 19	2018: 17.5	2017: 20
+Kinh tế	D01	2019: 19	2018: 17.5	2017: 20
+Kinh doanh nông nghiệp	A00	2019: 16.75	2018: 16.5	2017: 19
+Kinh doanh nông nghiệp	A01	2019: 16.75	2018: 16.5	2017: 19
+Kinh doanh nông nghiệp	D01	2019: 16.75	2018: 16.5	2017: 19
+Ngôn ngữ Anh	A01	2019: 14	2018: 15	2017: 22
+Ngôn ngữ Anh	D01	2019: 14	2018: 15	2017: 22
+Ngôn ngữ Anh	D14	2019: 14	2018: 15	2017: 22
+Ngôn ngữ Anh	D15	2019: 14	2018: 15	2017: 22
+Công nghệ thông tin	A00	2019: 19.75	2018: 18.15	2017: 21
+Công nghệ thông tin	A01	2019: 19.75	2018: 18.15	2017: 21
+Công nghệ thông tin	D07	2019: 19.75	2018: 18.15	2017: 21
+Khoa học môi trường	A00	2019: 16	2018: 17	2017: 18
+Khoa học môi trường	A01	2019: 16	2018: 17	2017: 18
+Khoa học môi trường	B00	2019: 16	2018: 17	2017: 18
+Khoa học môi trường	D07	2019: 16	2018: 17
+Quản lý tài nguyên và môi trường	A00	2019: 16	2018: 15	2017: 18
+Quản lý tài nguyên và môi trường	A01	2019: 16	2018: 15	2017: 18
+Quản lý tài nguyên và môi trường	B00	2019: 16	2018: 15	2017: 18
+Quản lý tài nguyên và môi trường	D07	2019: 16	2018: 15	2017: 18
+Quản lý đất đai	A00	2019: 16	2018: 15	2017: 18
+Quản lý đất đai	A01	2019: 16	2018: 15	2017: 18
+Quản lý đất đai	A04	2018: 15	2017: 18
+Quản lý đất đai	D01	2018: 15	2017: 18
+Sư phạm Kỹ thuật nông nghiệp	A00	2019: 18	2018: 17	2017: 19
+Sư phạm Kỹ thuật nông nghiệp	A01	2019: 18	2018: 17	2017: 19
+Sư phạm Kỹ thuật nông nghiệp	B00	2019: 18	2018: 17	2017: 19
+Sư phạm Kỹ thuật nông nghiệp	D08	2019: 18	2018: 17	2017: 19
+Nông học	A00	2019: 18	2018: 15	2017: 21
+Nông học	B00	2019: 18	2018: 15
+Nông học	D08	2019: 18	2018: 15	2017: 21
+Nông học	D07	2017: 21
+Công nghệ chế biến thuỷ sản	A00	2019: 16	2018: 17	2017: 21
+Công nghệ chế biến thuỷ sản	A01	2019: 16	2017: 21
+Công nghệ chế biến thuỷ sản	D07	2019: 16	2018: 17	2017: 21
+Công nghệ chế biến thuỷ sản	D08	2019: 16	2018: 17	2017: 21
+Công nghệ chế biến thủy sản	B00	2018: 17
+Chăn nuôi	A00	2019: 16	2018: 15	2017: 20
+Chăn nuôi	B00	2019: 16	2018: 15
+Chăn nuôi	D07	2019: 16	2018: 15	2017: 20
+Chăn nuôi	D08	2019: 16	2018: 15	2017: 20
+Chăn nuôi	A01	2017: 20
+Công nghệ rau hoa quả và cảnh quan	A00	2019: 16	2018: 17	2017: 18
+Công nghệ rau hoa quả và cảnh quan	B00	2019: 16	2018: 17
+Công nghệ rau hoa quả và cảnh quan	D07	2019: 16	2018: 17	2017: 18
+Công nghệ rau hoa quả và cảnh quan	D08	2019: 16	2018: 17	2017: 18
+Công nghệ rau hoa quả và cảnh quan	A01	2017: 18
+Phát triển nông thôn	A00	2019: 16	2018: 16	2017: 18
+Phát triển nông thôn	A01	2019: 16	2018: 16	2017: 18
+Phát triển nông thôn	D01	2019: 16	2018: 16	2017: 18
+Nuôi trồng thuỷ sản	A00	2019: 16	2018: 15	2017: 18
+Nuôi trồng thuỷ sản	B00	2019: 16	2018: 15
+Nuôi trồng thuỷ sản	D07	2019: 16	2018: 15	2017: 18
+Nuôi trồng thuỷ sản	D08	2019: 16	2018: 15	2017: 18
+Nuôi trồng thuỷ sản	A01	2017: 18
+Quản lý tài nguyên rừng	A00	2019: 15	2018: 16	2017: 17
+Quản lý tài nguyên rừng	B00	2019: 15	2018: 16
+Quản lý tài nguyên rừng	D01	2019: 15	2018: 16
+Quản lý tài nguyên rừng	D08	2019: 15	2018: 16	2017: 17
+Quản lý tài nguyên rừng	A01	2017: 17
+Quản lý tài nguyên rừng	D07	2017: 17
+Thú y	A00	2019: 21.25	2018: 15	2017: 23.75
+Thú y	B00	2019: 21.25	2018: 15
+Thú y	D07	2019: 21.25	2018: 15	2017: 23.75
+Thú y	D08	2019: 21.25	2018: 15	2017: 23.75
+Thú y	A01	2017: 23.75
+Chăn nuôi	A00	2019: 16	2018: 15	2017: 20
+Chăn nuôi	B00	2019: 16	2018: 15
+Chăn nuôi	D07	2019: 16	2018: 15	2017: 20
+Chăn nuôi	D08	2019: 16	2018: 15	2017: 20
+Chăn nuôi	A01	2017: 20
+Công nghệ kỹ thuật ô tô	A00	2019: 20.5	2018: 19	2017: 22
+Công nghệ kỹ thuật ô tô	A01	2019: 20.5	2018: 19	2017: 22
+Công nghệ kỹ thuật ô tô	D07	2019: 20.5	2018: 19	2017: 22
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 19	2018: 18	2017: 21
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 19	2017: 21
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 19	2018: 18	2017: 21
+Công nghệ kỹ thuật cơ điện tử	A0	2018: 18
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điều khiển và tự động hoá	D07	2019: 19	2018: 17.5	2017: 21
+Công nghệ kỹ thuật cơ khí	A00	2019: 18	2018: 17.5	2017: 21
+Công nghệ kỹ thuật cơ khí	A01	2019: 18	2018: 17.5	2017: 21
+Công nghệ kỹ thuật cơ khí	D07	2019: 18	2018: 17.5	2017: 21
+Công nghệ kỹ thuật nhiệt	A00	2019: 17	2018: 17	2017: 18
+Công nghệ kỹ thuật nhiệt	A01	2019: 17	2018: 17	2017: 18
+Công nghệ kỹ thuật nhiệt	D07	2019: 17	2018: 17	2017: 18
+Công nghệ kỹ thuật cơ khí (CLC)	A00	2019: 16	2018: 17	2017: 18
+Công nghệ kỹ thuật cơ khí (CLC)	A01	2019: 16	2018: 17	2017: 18
+Công nghệ kỹ thuật cơ khí (CLC)	D07	2019: 16	2018: 17	2017: 18
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 19	2018: 18	2017: 21
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 19	2017: 21
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 19	2018: 18	2017: 21
+Công nghệ kỹ thuật cơ điện tử	A0	2018: 18
+Kỹ thuật điều khiển và tự động hoá	A00	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điều khiển và tự động hoá	A01	2019: 19	2018: 17.5	2017: 21
+Kỹ thuật điều khiển và tự động hoá	D07	2019: 19	2018: 17.5	2017: 21
+Công nghệ thực phẩm (CLC)	A00	2019: 18	2018: 18	2017: 20
+Công nghệ thực phẩm (CLC)	A01	2019: 18	2018: 18	2017: 20
+Công nghệ thực phẩm (CLC)	B00	2019: 18	2018: 18	2017: 20
+Công nghệ thực phẩm (CLC)	D08	2019: 18	2018: 18	2017: 20
+Công nghệ chế biến thuỷ sản	A00	2019: 16	2018: 17	2017: 21
+Công nghệ chế biến thuỷ sản	A01	2019: 16	2017: 21
+Công nghệ chế biến thuỷ sản	D07	2019: 16	2018: 17	2017: 21
+Công nghệ chế biến thuỷ sản	D08	2019: 16	2018: 17	2017: 21
+Công nghệ chế biến thủy sản	B00	2018: 17
+Công nghệ sinh học	A00	2019: 20.25	2018: 19.15	2017: 23
+Công nghệ sinh học	A02	2019: 20.25	2018: 19.15	2017: 23
+Công nghệ sinh học	B00	2019: 20.25	2018: 19.15	2017: 23
+Công nghệ kỹ thuật hoá học	A00	2019: 19	2018: 18.25	2017: 22
+Công nghệ kỹ thuật hoá học	A01	2019: 19	2018: 18.25	2017: 22
+Công nghệ kỹ thuật hoá học	B00	2019: 19	2018: 18.25	2017: 22
+Công nghệ kỹ thuật hoá học	D07	2019: 19	2018: 18.25	2017: 22
+Kỹ thuật môi trường	A00	2019: 16	2018: 17	2017: 19
+Kỳ thuật môi trường	A01	2018: 17	2017: 19
+Kỳ thuật môi trường	B00	2018: 17	2017: 19
+Kỳ thuật môi trường	D07	2018: 17	2017: 19

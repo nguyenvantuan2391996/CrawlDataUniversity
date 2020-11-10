@@ -1,0 +1,199 @@
+Kế toán	A00	2019: 14	2017: 15.5
+Kế toán	A16	2019: 14
+Kế toán	C15	2019: 14	2017: 15.5
+Kế toán	D01	2019: 14	2017: 15.5
+Kế toán	C16	2017: 15.5
+Kế toán	A00	2019: 18
+Kế toán	A16	2019: 18
+Kế toán	C15	2019: 18
+Kế toán	D01	2019: 18
+Kinh tế	A00	2019: 14	2017: 15.5
+Kinh tế	A16	2019: 14	2017: 15.5
+Kinh tế	C15	2019: 14	2017: 15.5
+Kinh tế	D01	2019: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14	2017: 15.5
+Quản trị kinh doanh	A16	2019: 14	2017: 15.5
+Quản trị kinh doanh	C15	2019: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2017: 15.5
+Kinh tế nông nghiệp	A00	2019: 14	2017: 15.5
+Kinh tế nông nghiệp	A16	2019: 14	2017: 15.5
+Kinh tế nông nghiệp	C15	2019: 14	2017: 15.5
+Kinh tế nông nghiệp	D01	2019: 14	2017: 15.5
+Kinh tế	A00	2019: 18
+Kinh tế	A16	2019: 18
+Kinh tế	C15	2019: 18
+Kinh tế	D01	2019: 18
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A16	2019: 18
+Quản trị kinh doanh	C15	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Kinh tế nông nghiệp	A00	2019: 18
+Kinh tế nông nghiệp	A16	2019: 18
+Kinh tế nông nghiệp	C15	2019: 18
+Kinh tế nông nghiệp	D01	2019: 18
+Bất động sản	A00	2019: 18
+Bất động sản	A16	2019: 18
+Bất động sản	B00	2019: 18
+Bất động sản	D01	2019: 18
+Kiến trúc cảnh quan	A00	2019: 14	2017: 15.5
+Kiến trúc cảnh quan	D01	2019: 14	2017: 15.5
+Kiến trúc cảnh quan	V00	2019: 14
+Kiến trúc cảnh quan	V01	2019: 14
+Kiến trúc cảnh quan	A17	2017: 15.5
+Kiến trúc cảnh quan	C15	2017: 15.5
+Kỹ thuật xây dựng	A00	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	A16	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	D01	2019: 14	2017: 15.5
+Kỹ thuật xây dựng	D96	2019: 14
+Kỹ thuật xây dựng	A01	2017: 15.5
+Kiến trúc cảnh quan	A00	2019: 18
+Kiến trúc cảnh quan	D01	2019: 18
+Kiến trúc cảnh quan	V00	2019: 18
+Kiến trúc cảnh quan	V01	2019: 18
+Kỹ thuật xây dựng	A00	2019: 18
+Kỹ thuật xây dựng	A16	2019: 18
+Kỹ thuật xây dựng	D01	2019: 18
+Kỹ thuật xây dựng	D96	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C15	2019: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 14	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 17
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 17
+Quản trị dịch vụ du lịch và lữ hành	C15	2019: 17
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 17
+Công tác xã hội	A00	2019: 14	2017: 15.5
+Công tác xã hội	C00	2019: 14	2017: 15.5
+Công tác xã hội	C15	2019: 14	2017: 15.5
+Công tác xã hội	D01	2019: 14	2017: 15.5
+Công tác xã hội	A00	2019: 18
+Công tác xã hội	C00	2019: 18
+Công tác xã hội	C15	2019: 18
+Công tác xã hội	D01	2019: 18
+Khoa học môi trường	A00	2019: 14	2017: 15.5
+Khoa học môi trường	B00	2019: 14	2017: 15.5
+Khoa học môi trường	C04	2019: 14
+Khoa học môi trường	D01	2019: 14	2017: 15.5
+Khoa học môi trường	A16	2017: 15.5
+Quản lý tài nguyên và môi trường	A00	2019: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	B00	2019: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	C00	2019: 14
+Quản lý tài nguyên và môi trường	D01	2019: 14	2017: 15.5
+Quản lý tài nguyên và môi trường	A16	2017: 15.5
+Quản lý đất đai	A00	2019: 14	2017: 15.5
+Quản lý đất đai	A16	2019: 14	2017: 15.5
+Quản lý đất đai	B00	2019: 14	2017: 15.5
+Quản lý đất đai	D01	2019: 14	2017: 15.5
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	A00	2019: 14
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	B00	2019: 14
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	C00	2019: 14
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	D01	2019: 14
+Khoa học môi trường	A00	2019: 18
+Khoa học môi trường	B00	2019: 18
+Khoa học môi trường	C04	2019: 18
+Khoa học môi trường	D01	2019: 18
+Quản lý tài nguyên và môi trường	A00	2019: 18
+Quản lý tài nguyên và môi trường	B00	2019: 18
+Quản lý tài nguyên và môi trường	C00	2019: 18
+Quản lý tài nguyên và môi trường	D01	2019: 18
+Quản lý đất đai	A00	2019: 18
+Quản lý đất đai	A16	2019: 18
+Quản lý đất đai	B00	2019: 18
+Quản lý đất đai	D01	2019: 18
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	A00	2019: 18
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	B00	2019: 18
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	C00	2019: 18
+Quản lý tài nguyên thiên nhiên (Đào tạo bằng tiếng Việt)	D01	2019: 18
+Chăn nuôi	A00	2019: 17	2017: 15.5
+Chăn nuôi	A16	2019: 17	2017: 15.5
+Chăn nuôi	B00	2019: 17	2017: 15.5
+Chăn nuôi	D08	2019: 17	2017: 15.5
+Khuyến nông	B00	2019: 15	2017: 15.5
+Khuyến nông	C00	2019: 15
+Khuyến nông	C04	2019: 15
+Khuyến nông	C13	2019: 15
+Khuyến nông	A00	2017: 15.5
+Khuyến nông	A16	2017: 15.5
+Khuyến nông	D01	2017: 15.5
+Khoa học cây trồng	A00	2019: 15	2017: 15.5
+Khoa học cây trồng	A16	2019: 15	2017: 15.5
+Khoa học cây trồng	B00	2019: 15	2017: 15.5
+Khoa học cây trồng	D01	2019: 15	2017: 15.5
+Lâm nghiệp đô thị	A00	2019: 14	2017: 15.5
+Lâm nghiệp đô thị	A16	2019: 14
+Lâm nghiệp đô thị	B00	2019: 14	2017: 15.5
+Lâm nghiệp đô thị	D01	2019: 14	2017: 15.5
+Lâm nghiệp đô thị	A17	2017: 15.5
+Lâm sinh	A00	2019: 14	2017: 15.5
+Lâm sinh	A16	2019: 14	2017: 15.5
+Lâm sinh	B00	2019: 14	2017: 15.5
+Lâm sinh	D01	2019: 14	2017: 15.5
+Quản lý tài nguyên rừng	A00	2019: 14	2017: 15.5
+Quản lý tài nguyên rừng	B00	2019: 14	2017: 15.5
+Quản lý tài nguyên rừng	C00	2019: 14
+Quản lý tài nguyên rừng	D01	2019: 14	2017: 15.5
+Quản lý tài nguyên rừng	A16	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 21
+Công nghệ sau thu hoạch	A16	2019: 21
+Công nghệ sau thu hoạch	D01	2019: 21
+Công nghệ sau thu hoạch	D96	2019: 21
+Chăn nuôi	A00	2019: 21
+Chăn nuôi	A16	2019: 21
+Chăn nuôi	B00	2019: 21
+Chăn nuôi	D08	2019: 21
+Khoa học cây trồng	A00	2019: 18
+Khoa học cây trồng	A16	2019: 18
+Khoa học cây trồng	B00	2019: 18
+Khoa học cây trồng	D01	2019: 18
+Lâm nghiệp đô thị	A00	2019: 18
+Lâm nghiệp đô thị	A16	2019: 18
+Lâm nghiệp đô thị	B00	2019: 18
+Lâm nghiệp đô thị	D01	2019: 18
+Quản lý tài nguyên rừng	A00	2019: 18
+Quản lý tài nguyên rừng	B00	2019: 18
+Quản lý tài nguyên rừng	C00	2019: 18
+Quản lý tài nguyên rừng	D01	2019: 18
+Khuyến nông	B00	2019: 16
+Khuyến nông	C00	2019: 16
+Khuyến nông	C04	2019: 16
+Khuyến nông	C13	2019: 16
+Lâm sinh	A00	2019: 15
+Lâm sinh	A16	2019: 15
+Lâm sinh	B00	2019: 15
+Lâm sinh	D01	2019: 15
+Chăn nuôi	A00	2019: 17	2017: 15.5
+Chăn nuôi	A16	2019: 17	2017: 15.5
+Chăn nuôi	B00	2019: 17	2017: 15.5
+Chăn nuôi	D08	2019: 17	2017: 15.5
+Thú y	A00	2019: 14	2017: 15.5
+Thú y	A16	2019: 14	2017: 15.5
+Thú y	B00	2019: 14	2017: 15.5
+Thú y	D08	2019: 14	2017: 15.5
+Chăn nuôi	A00	2019: 21
+Chăn nuôi	A16	2019: 21
+Chăn nuôi	B00	2019: 21
+Chăn nuôi	D08	2019: 21
+Thú y	A00	2019: 18
+Thú y	A16	2019: 18
+Thú y	B00	2019: 18
+Thú y	D08	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A16	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D96	2019: 14
+Công nghệ kỹ thuật cơ điện tử	A01	2017: 15.5
+Công nghệ kỹ thuật ô tô	A00	2019: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	A16	2019: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	D01	2019: 14	2017: 15.5
+Công nghệ kỹ thuật ô tô	D96	2019: 14
+Công nghệ kỹ thuật ô tô	A01	2017: 15.5
+Kỹ thuật cơ khí	A00	2019: 14	2017: 15.5
+Kỹ thuật cơ khí	A16	2019: 14	2017: 15.5
+Kỹ thuật cơ khí	D01	2019: 14	2017: 15.5
+Kỹ thuật cơ khí	D96	2019: 14
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 18
+Công nghệ kỹ thuật cơ điện tử	A16	2019: 18
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 18
+Công nghệ kỹ thuật cơ điện tử	D96	2019: 18
+Công nghệ kỹ thuật ô tô	A00	2019: 18
+Công nghệ kỹ thuật ô tô	A16	2019: 18

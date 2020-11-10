@@ -1,0 +1,68 @@
+Kế toán	A00	2020: 21.85	2019: 19	2018: 17	2017: 17.25
+Kế toán	A01	2020: 21.85	2019: 19	2018: 17	2017: 17.25
+Kế toán	D01	2020: 21.85	2019: 19	2018: 17	2017: 17.25
+Kế toán	D03	2020: 21.85	2019: 19	2018: 17
+Tài chính Ngân hàng	A00	2020: 21.85 	2019: 19.2	2018: 17.1	2017: 17.25
+Tài chính Ngân hàng	A01	2020: 21.85 	2019: 19.2	2018: 17.1	2017: 17.25
+Tài chính Ngân hàng	D01	2020: 21.85 	2019: 19.2	2018: 17.1	2017: 17.25
+Tài chính Ngân hàng	D03	2020: 21.85 	2019: 19.2	2018: 17.1	2017: 17.25
+Quản trị kinh doanh	A00	2020: 22.6	2019: 19.7	2018: 17.6	2017: 17.25
+Quản trị kinh doanh	A01	2020: 22.6	2019: 19.7	2018: 17.6	2017: 17.25
+Quản trị kinh doanh	D01	2020: 22.6	2019: 19.7	2018: 17.6	2017: 17.25
+Quản trị kinh doanh	D03	2020: 22.6	2019: 19.7	2018: 17.6	2017: 17.25
+Logistics và Quản lý chuỗi cung ứng	A00	2020: 23.35	2019: 19
+Logistics và Quản lý chuỗi cung ứng	A01	2020: 23.35	2019: 19
+Logistics và Quản lý chuỗi cung ứng	D01	2020: 23.35	2019: 19
+Logistics và Quản lý chuỗi cung ứng	D03	2020: 23.35	2019: 19
+Ngôn ngữ Trung Quốc	D01	2020: 24.2	2019: 21.6	2018: 19.6	2017: 19
+Ngôn ngữ Trung Quốc	D04	2020: 24.2	2019: 21.6	2018: 19.6	2017: 19
+Ngôn ngữ Hàn Quốc	D01	2020: 23	2019: 20.7	2018: 19.3	2017: 20
+Ngôn ngữ Nhật	D01	2020: 22.26	2019: 20.1	2018: 19.1	2017: 18
+Ngôn ngữ Nhật	D06	2020: 22.26	2019: 20.1	2018: 19.1	2017: 18
+Ngôn ngữ Anh	D01	2020: 21.73	2019: 19.8	2018: 17.6	2017: 19
+Công nghệ thông tin	A00	2020: 21.96	2019: 16.5
+Công nghệ thông tin	A01	2020: 21.96	2019: 16.5
+Khoa học máy tính	A00	2020: 20	2019: 15.5	2018: 15	2017: 15.5
+Khoa học máy tính	A01	2020: 20	2019: 15.5	2018: 15	2017: 15.5
+Mạng máy tính và truyền thông dữ liệu	A00	2020: 20	2019: 15.5	2018: 15	2017: 15.5
+Mạng máy tính và truyền thông dữ liệu	A01	2020: 20	2019: 15.5	2018: 15	2017: 15.5
+Truyền thông đa phương tiện	A00	2020: 24	2019: 19.7
+Truyền thông đa phương tiện	C00	2020: 24	2019: 19.7
+Truyền thông đa phương tiện	D01	2020: 24	2019: 19.7
+Truyền thông đa phương tiện	D03	2020: 24	2019: 19.7
+Quản trị dịch vụ du lịch và lữ hành	A00	2020: 21.9	2019: 19.7	2018: 17.75
+Quản trị dịch vụ du lịch và lữ hành	A01	2020: 21.9	2019: 19.7	2018: 17.75
+Quản trị dịch vụ du lịch và lữ hành	D01	2020: 21.9	2019: 19.7	2018: 17.75
+Quản trị dịch vụ du lịch và lữ hành	D03	2020: 21.9	2019: 19.7	2018: 17.75
+Việt Nam học	C00	2020: 20	2019: 18	2018: 17
+Việt Nam học	D01	2020: 20	2019: 18	2018: 17
+Việt Nam học	D04	2020: 20	2019: 18	2018: 17
+Việt Nam học	D03	2020: 20	2019: 18	2018: 17
+Công tác xã hội	C00	2020: 20	2019: 17.5	2018: 16	2017: 18
+Công tác xã hội	D01	2020: 20	2019: 17.5	2018: 16	2017: 18
+Công tác xã hội	D04	2020: 20	2019: 17.5	2018: 16	2017: 18
+Công tác xã hội	D03	2020: 20	2018: 16	2017: 18
+Điều dưỡng	B00	2020: 19.15	2019: 18.2	2018: 15	2017: 15.75
+Dinh dưỡng	B00	2020: 16.75	2019: 18.2	2018: 15
+Y tế công cộng	B00	2019: 15.1	2018: 15
+Toán ứng dụng	A00	2020: 20	2019: 16	2018: 15	2017: 15.5
+Toán ứng dụng	A01	2020: 20	2019: 16	2018: 15	2017: 15.5
+Kinh tế quốc tế	D03	2020: 22.3
+Kinh tế quốc tế	D01	2020: 22.3
+Kinh tế quốc tế	A01	2020: 22.3
+Kinh tế quốc tế	A00	2020: 22.3
+Truyền thông đa phương tiện	D04	2020: 24	
+Truyền thông đa phương tiện	A01	2020: 24	
+Marketing	A00	2020: 23.9
+Marketing	A01	2020: 23.9
+Marketing	D01	2020: 23.9
+Marketing	D03	2020: 23.9
+Luật kinh tế	D03	2020: 21.35
+Luật kinh tế	D01	2020: 21.35
+Luật kinh tế	C00	2020: 21.35
+Luật kinh tế	A00	2020: 21.35
+Hệ thống thôn tin	A00	2020: 20
+Hệ thống thôn tin	A01	2020: 20
+Trí tuệ nhân tạo	A01	2020: 20
+Trí tuệ nhân tạo	A00	2020: 20
+Quản trị dịch vụ du lịch và lữ hành	D04	2020: 21.9	

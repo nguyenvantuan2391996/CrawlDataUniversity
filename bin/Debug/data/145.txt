@@ -1,0 +1,32 @@
+Quản trị kinh doanh	A00	2018: 15	2017: 15.5
+Quản trị kinh doanh	C00	2018: 15	2017: 15.5
+Quản trị kinh doanh	D01	2018: 15	2017: 15.5
+Ngôn ngữ Anh	A00	2018: 15	2017: 15.5
+Ngôn ngữ Anh	D01	2018: 15	2017: 15.5
+Công nghệ thông tin	A00	2018: 15	2017: 15.5
+Công nghệ thông tin	A01	2018: 15	2017: 15.5
+Luật	A01	2018: 15
+Luật	C00	2018: 15
+Luật	D01	2018: 15
+Công nghệ kỹ thuật công trình xây dựng	A00	2018: 15	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	A01	2018: 15	2017: 15.5
+Công nghệ kỹ thuật công trình xây dựng	V01	2018: 15	2017: 15.5
+Việt Nam học	A00	2018: 15	2017: 15.5
+Việt Nam học	C00	2018: 15	2017: 15.5
+Việt Nam học	D01	2018: 15	2017: 15.5
+Việt Nam học	A00	2018: 15	2017: 15.5
+Việt Nam học	C00	2018: 15	2017: 15.5
+Việt Nam học	D01	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2018: 15	2017: 15.5
+Nông nghiệp	A00	2018: 15	2017: 15.5
+Nông nghiệp	A01	2018: 15	2017: 15.5
+Nông nghiệp	B00	2018: 15	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2018: 15	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2018: 15	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	B00	2018: 15	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2018: 15	2017: 15.5

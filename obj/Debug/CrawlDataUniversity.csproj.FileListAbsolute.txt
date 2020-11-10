@@ -1,0 +1,11 @@
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\bin\Debug\CrawlDataUniversity.exe.config
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\bin\Debug\CrawlDataUniversity.exe
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\bin\Debug\CrawlDataUniversity.pdb
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\bin\Debug\xNet.dll
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\obj\Debug\CrawlDataUniversity.Properties.Resources.resources
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\obj\Debug\CrawlDataUniversity.csproj.GenerateResource.Cache
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\obj\Debug\CrawlDataUniversity.exe
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\obj\Debug\CrawlDataUniversity.pdb
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\obj\Debug\CrawlDataUniversity.csprojResolveAssemblyReference.cache
+E:\Projects\CrawlDataUniversity\CrawlDataUniversity\obj\Debug\CrawlDataUniversity.Crawl.resources

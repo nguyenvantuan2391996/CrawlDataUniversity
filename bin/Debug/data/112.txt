@@ -1,0 +1,53 @@
+Kế toán	A00	2019: 13	2017: 15.5
+Kế toán	A04	2019: 13	2017: 15.5
+Kế toán	C03	2019: 13	2017: 15.5
+Kế toán	D01	2019: 13	2017: 15.5
+Tài chính – Ngân hàng	A00	2019: 13	2017: 15.5
+Tài chính – Ngân hàng	A04	2019: 13	2017: 15.5
+Tài chính – Ngân hàng	C03	2019: 13	2017: 15.5
+Tài chính – Ngân hàng	D01	2019: 13	2017: 15.5
+Quản trị kinh doanh	A00	2019: 13	2017: 15.5
+Quản trị kinh doanh	A04	2019: 13	2017: 15.5
+Quản trị kinh doanh	C03	2019: 13	2017: 15.5
+Quản trị kinh doanh	D01	2019: 13	2017: 15.5
+Công nghệ thông tin	A00	2019: 13	2017: 15.5
+Công nghệ thông tin	C03	2019: 13	2017: 15.5
+Công nghệ thông tin	D01	2019: 13	2017: 15.5
+Công nghệ thông tin	D90	2019: 13
+Công nghệ thông tin	D66	2017: 15.5
+Luật kinh tế	A00	2019: 13	2017: 15.5
+Luật kinh tế	B00	2019: 13	2017: 15.5
+Luật kinh tế	B02	2019: 13	2017: 15.5
+Luật kinh tế	C03	2019: 13	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A00	2019: 13	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A04	2019: 13	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A05	2019: 13	2017: 15.5
+Công nghệ kỹ thuật xây dựng	D01	2019: 13	2017: 15.5
+Quản lý nhà nước	A00	2019: 13
+Quản lý nhà nước	C00	2019: 13
+Quản lý nhà nước	C03	2019: 13
+Quản lý nhà nước	C04	2019: 13
+Quản lý đất đai	A00	2019: 13	2017: 15.5
+Quản lý đất đai	A04	2019: 13	2017: 15.5
+Quản lý đất đai	C03	2019: 13	2017: 15.5
+Quản lý đất đai	D01	2019: 13	2017: 15.5
+Y học cổ truyền	A00	2019: 20
+Y học cổ truyền	A05	2019: 20
+Y học cổ truyền	B00	2019: 20
+Y học cổ truyền	B02	2019: 20
+Dược học	A00	2019: 20
+Dược học	A05	2019: 20
+Dược học	B00	2019: 20
+Dược học	B02	2019: 20
+Dinh dưỡng	A00	2019: 18	2017: 15.5
+Dinh dưỡng	A05	2019: 18	2017: 15.5
+Dinh dưỡng	B00	2019: 18	2017: 15.5
+Dinh dưỡng	B02	2019: 18	2017: 15.5
+Điều dưỡng	A00	2019: 18	2017: 15.5
+Điều dưỡng	A05	2019: 18	2017: 15.5
+Điều dưỡng	B00	2019: 18	2017: 15.5
+Điều dưỡng	B02	2019: 18	2017: 15.5
+Thú y	A00	2019: 13
+Thú y	A04	2019: 13
+Thú y	B00	2019: 13
+Thú y	B02	2019: 13

@@ -1,0 +1,199 @@
+Kế toán	A00	2019: 15	2018: 15	2017: 15.5
+Kế toán	A01	2019: 15	2018: 15	2017: 15.5
+Kế toán	D01	2019: 15	2018: 15	2017: 15.5
+Kế toán	D07	2019: 15	2018: 15	2017: 15.5
+Kế toán	A00	2019: 600
+Kế toán	A01	2019: 600
+Kế toán	D01	2019: 600
+Kế toán	D07	2019: 600
+Kế toán	A00	2019: 6
+Kế toán	A01	2019: 6
+Kế toán	D01	2019: 6
+Kế toán	D07	2019: 6
+Tài chính Ngân hàng	A00	2019: 15	2018: 15	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 15	2018: 15	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 15	2018: 15	2017: 15.5
+Tài chính Ngân hàng	D07	2019: 15	2018: 15	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 600
+Tài chính Ngân hàng	A01	2019: 600
+Tài chính Ngân hàng	D01	2019: 600
+Tài chính Ngân hàng	D07	2019: 600
+Tài chính Ngân hàng	A00	2019: 6
+Tài chính Ngân hàng	A01	2019: 6
+Tài chính Ngân hàng	D01	2019: 6
+Tài chính Ngân hàng	D07	2019: 6
+Quản trị kinh doanh	A00	2019: 16	2018: 15	2017: 17
+Quản trị kinh doanh	A01	2019: 16	2018: 15	2017: 17
+Quản trị kinh doanh	D01	2019: 16	2018: 15	2017: 17
+Quản trị kinh doanh	D07	2019: 16	2018: 15	2017: 17
+Thương mại điện tử	A00	2019: 15.5
+Thương mại điện tử	A01	2019: 15.5
+Thương mại điện tử	D01	2019: 15.5
+Thương mại điện tử	D07	2019: 15.5
+Quản trị kinh doanh	A00	2019: 600
+Quản trị kinh doanh	A01	2019: 600
+Quản trị kinh doanh	D01	2019: 600
+Quản trị kinh doanh	D07	2019: 600
+Thương mại điện tử	A00	2019: 600
+Thương mại điện tử	A01	2019: 600
+Thương mại điện tử	D01	2019: 600
+Thương mại điện tử	D07	2019: 600
+Quản trị kinh doanh	A00	2019: 6
+Quản trị kinh doanh	A01	2019: 6
+Quản trị kinh doanh	D01	2019: 6
+Quản trị kinh doanh	D07	2019: 6
+Thương mại điện tử	A00	2019: 6
+Thương mại điện tử	A01	2019: 6
+Thương mại điện tử	D01	2019: 6
+Thương mại điện tử	D07	2019: 6
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 15
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 15
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 15
+Logistics và Quản lý chuỗi cung ứng	D07	2019: 15
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 600
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 600
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 600
+Logistics và Quản lý chuỗi cung ứng	D07	2019: 600
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 6
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 6
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 6
+Logistics và Quản lý chuỗi cung ứng	D07	2019: 6
+Ngôn ngữ Trung Quốc	D01	2019: 17	2018: 15	2017: 15.5
+Ngôn ngữ Trung Quốc	D04	2019: 17	2018: 15	2017: 15.5
+Ngôn ngữ Trung Quốc	D14	2019: 17	2018: 15	2017: 15.5
+Ngôn ngữ Trung Quốc	D15	2019: 17	2018: 15	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 15	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 15	2018: 15	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 15	2018: 15	2017: 15.5
+Ngôn ngữ Anh	A01	2018: 15
+Ngôn ngữ Anh	D01	2019: 600
+Ngôn ngữ Anh	D14	2019: 600
+Ngôn ngữ Anh	D15	2019: 600
+Ngôn ngữ Trung Quốc	D01	2019: 600
+Ngôn ngữ Trung Quốc	D04	2019: 600
+Ngôn ngữ Trung Quốc	D14	2019: 600
+Ngôn ngữ Trung Quốc	D15	2019: 600
+Ngôn ngữ Anh	D01	2019: 6
+Ngôn ngữ Anh	D14	2019: 6
+Ngôn ngữ Anh	D15	2019: 6
+Ngôn ngữ Trung Quốc	D01	2019: 6
+Ngôn ngữ Trung Quốc	D04	2019: 6
+Ngôn ngữ Trung Quốc	D14	2019: 6
+Ngôn ngữ Trung Quốc	D15	2019: 6
+Marketing	A00	2019: 15
+Marketing	A01	2019: 15
+Marketing	D01	2019: 15
+Marketing	D07	2019: 15
+Marketing	A00	2019: 600
+Marketing	A01	2019: 600
+Marketing	D01	2019: 600
+Marketing	D07	2019: 600
+Marketing	A00	2019: 6
+Marketing	A01	2019: 6
+Marketing	D01	2019: 6
+Marketing	D07	2019: 6
+Công nghệ thông tin	A00	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	A01	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	D01	2019: 15	2018: 15	2017: 15.5
+Công nghệ thông tin	D07	2019: 15
+Công nghệ thông tin	A00	2019: 600
+Công nghệ thông tin	A01	2019: 600
+Công nghệ thông tin	D01	2019: 600
+Công nghệ thông tin	D07	2019: 600
+Công nghệ thông tin	A00	2019: 6
+Công nghệ thông tin	A01	2019: 6
+Công nghệ thông tin	D01	2019: 6
+Công nghệ thông tin	D07	2019: 6
+Thiết kế đồ họa	H00	2019: 15.5	2018: 15	2017: 15.5
+Thiết kế đồ họa	H07	2019: 15.5
+Thiết kế đồ họa	V00	2019: 15.5	2018: 15	2017: 15.5
+Thiết kế đồ họa	V01	2019: 15.5	2018: 15	2017: 15.5
+Thiết kế Đồ họa	H02	2018: 15	2017: 15.5
+Truyền thông đa phương tiện	C00	2019: 15
+Truyền thông đa phương tiện	D01	2019: 15
+Truyền thông đa phương tiện	D14	2019: 15
+Truyền thông đa phương tiện	D15	2019: 15
+Thiết kế đồ họa	H00	2019: 600
+Thiết kế đồ họa	H07	2019: 600
+Thiết kế đồ họa	V00	2019: 600
+Thiết kế đồ họa	V01	2019: 600
+Truyền thông đa phương tiện	C00	2019: 600
+Truyền thông đa phương tiện	D01	2019: 600
+Truyền thông đa phương tiện	D14	2019: 600
+Truyền thông đa phương tiện	D15	2019: 600
+Thiết kế đồ họa	H00	2019: 6
+Thiết kế đồ họa	H07	2019: 6
+Thiết kế đồ họa	V00	2019: 6
+Thiết kế đồ họa	V01	2019: 6
+Truyền thông đa phương tiện	C00	2019: 6
+Truyền thông đa phương tiện	D01	2019: 6
+Truyền thông đa phương tiện	D14	2019: 6
+Truyền thông đa phương tiện	D15	2019: 6
+Luật kinh tế	A00	2019: 15	2018: 15	2017: 15.5
+Luật kinh tế	A01	2019: 15	2018: 15	2017: 15.5
+Luật kinh tế	D01	2019: 15	2018: 15	2017: 15.5
+Luật kinh tế	D07	2019: 15	2018: 15	2017: 15.5
+Luật kinh tế	A00	2019: 600
+Luật kinh tế	A01	2019: 600
+Luật kinh tế	D01	2019: 600
+Luật kinh tế	D07	2019: 600
+Luật kinh tế	A00	2019: 6
+Luật kinh tế	A01	2019: 6
+Luật kinh tế	D01	2019: 6
+Luật kinh tế	D07	2019: 6
+Kỹ thuật hệ thống công nghiệp	A00	2019: 15	2018: 15
+Kỹ thuật hệ thống công nghiệp	A01	2019: 15	2018: 15
+Kỹ thuật hệ thống công nghiệp	D01	2019: 15	2018: 15
+Kỹ thuật hệ thống công nghiệp	D07	2019: 15	2018: 15
+Kỹ thuật xây dựng	A00	2019: 15	2018: 15	2017: 15.5
+Kỹ thuật xây dựng	A01	2019: 15	2018: 15	2017: 15.5
+Kỹ thuật xây dựng	D01	2019: 15	2018: 15	2017: 15.5
+Kỹ thuật xây dựng	D07	2019: 15	2018: 15	2017: 15.5
+Kỹ thuật hệ thống công nghiệp	A00	2019: 600
+Kỹ thuật hệ thống công nghiệp	A01	2019: 600
+Kỹ thuật hệ thống công nghiệp	D01	2019: 600
+Kỹ thuật hệ thống công nghiệp	D07	2019: 600
+Kỹ thuật xây dựng	A00	2019: 600
+Kỹ thuật xây dựng	A01	2019: 600
+Kỹ thuật xây dựng	D01	2019: 600
+Kỹ thuật xây dựng	D07	2019: 600
+Kỹ thuật hệ thống công nghiệp	A00	2019: 6
+Kỹ thuật hệ thống công nghiệp	A01	2019: 6
+Kỹ thuật hệ thống công nghiệp	D01	2019: 6
+Kỹ thuật hệ thống công nghiệp	D07	2019: 6
+Kỹ thuật xây dựng	A00	2019: 6
+Kỹ thuật xây dựng	A01	2019: 6
+Kỹ thuật xây dựng	D01	2019: 6
+Kỹ thuật xây dựng	D07	2019: 6
+Piano	N00	2019: 22	2018: 15	2017: 15.5
+Đạo diễn điện ảnh, truyền hình	N05	2019: 20	2018: 15
+Quay phim	N05	2019: 19
+Thanh nhạc	N01	2019: 18.5	2018: 15	2017: 15.5
+Thanh nhạc	N01	2019: 600
+Piano	N00	2019: 600
+Đạo diễn điện ảnh, truyền hình	N05	2019: 600
+Quay phim	N05	2019: 600
+Thanh nhạc	N01	2019: 6
+Piano	N00	2019: 6
+Đạo diễn điện ảnh, truyền hình	N05	2019: 6
+Quay phim	N05	2019: 6
+Quản trị khách sạn	A00	2019: 17	2018: 16	2017: 21
+Quản trị khách sạn	A01	2019: 17	2018: 16	2017: 21
+Quản trị khách sạn	C00	2019: 17	2018: 16	2017: 21
+Quản trị khách sạn	D01	2019: 17	2018: 16	2017: 21
+Quản trị nhà hàng và dịch vụ ăn uống	A00	2019: 17	2018: 16	2017: 21
+Quản trị nhà hàng và dịch vụ ăn uống	A01	2019: 17	2018: 16	2017: 21
+Quản trị nhà hàng và dịch vụ ăn uống	C00	2019: 17	2018: 16	2017: 21
+Quản trị nhà hàng và dịch vụ ăn uống	D01	2019: 17	2018: 16	2017: 21
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 16
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 16
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 16
+Quản trị dịch vụ du lịch và lữ hành	D15	2019: 16
+Việt Nam học	C00	2019: 15	2017: 17.5
+Việt Nam học	D01	2019: 15	2018: 15	2017: 17.5
+Việt Nam học	D14	2019: 15	2018: 15	2017: 17.5
+Việt Nam học	D15	2019: 15	2018: 15	2017: 17.5
+Việt Nam học	C0	2018: 15
+Việt Nam học	C00	2019: 600
+Việt Nam học	D01	2019: 600
+Việt Nam học	D14	2019: 600

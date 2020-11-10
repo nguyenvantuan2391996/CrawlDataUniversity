@@ -1,0 +1,78 @@
+Kế toán	A00	2019: 16	2018: 16	2017: 17
+Kế toán	A01	2019: 16	2018: 16	2017: 17
+Kế toán	D01	2019: 16	2018: 16	2017: 17
+Kế toán	D07	2019: 16	2018: 16	2017: 17
+Tài chính Ngân hàng	A00	2019: 15	2018: 14.5	2017: 16.5
+Tài chính Ngân hàng	A01	2019: 15	2018: 14.5	2017: 16.5
+Tài chính Ngân hàng	D01	2019: 15	2018: 14.5	2017: 16.5
+Tài chính Ngân hàng	D07	2019: 15	2018: 14.5	2017: 16.5
+Quản trị kinh doanh	A00	2019: 16	2018: 15	2017: 16.5
+Quản trị kinh doanh	A01	2019: 16	2018: 15	2017: 16.5
+Quản trị kinh doanh	D01	2019: 16	2018: 15	2017: 16.5
+Quản trị kinh doanh	D07	2019: 16	2018: 15	2017: 16.5
+Thương mại điện tử	A00	2019: 16	2018: 15
+Thương mại điện tử	A01	2019: 16	2018: 15
+Thương mại điện tử	D01	2019: 16	2018: 15
+Thương mại điện tử	D07	2019: 16	2018: 15
+Kinh tế xây dựng	A00	2019: 15	2018: 15.5	2017: 17
+Kinh tế xây dựng	A01	2019: 15	2018: 15.5	2017: 17
+Kinh tế xây dựng	D01	2019: 15	2018: 15.5	2017: 17
+Kinh tế xây dựng	D07	2019: 15	2018: 15.5	2017: 17
+Khai thác vận tải	A00	2019: 15	2018: 15
+Khai thác vận tải	A01	2019: 15	2018: 15
+Khai thác vận tải	D01	2019: 15	2018: 15
+Khai thác vận tải	D07	2019: 15	2018: 15
+Logistics và Quản lý chuỗi cung ứng	A00	2019: 20	2018: 16
+Logistics và Quản lý chuỗi cung ứng	A01	2019: 20	2018: 16
+Logistics và Quản lý chuỗi cung ứng	D01	2019: 20	2018: 16
+Logistics và Quản lý chuỗi cung ứng	D07	2019: 20	2018: 16
+Công nghệ thông tin	A00	2019: 19	2018: 17
+Công nghệ thông tin	A01	2019: 19	2018: 17
+Công nghệ thông tin	D01	2019: 19	2018: 17
+Công nghệ thông tin	D07	2019: 19	2018: 17
+Mạng máy tính và truyền thông dữ liệu	A00	2019: 16	2018: 15.5	2017: 17
+Mạng máy tính và truyền thông dữ liệu	A01	2019: 16	2018: 15.5	2017: 17
+Mạng máy tính và truyền thông dữ liệu	D01	2019: 16	2018: 15.5	2017: 17
+Mạng máy tính và truyền thông dữ liệu	D07	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	D07	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật công trình xây dựng	A00	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật công trình xây dựng	A01	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật công trình xây dựng	D01	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật công trình xây dựng	D07	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật giao thông	A00	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật giao thông	A01	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật giao thông	D01	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật giao thông	D07	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	A00	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	A01	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	D01	2019: 15	2017: 16
+Công nghệ kỹ thuật môi trường	D07	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	B00	2018: 14.5
+Công nghệ kỹ thuật ô tô	A00	2019: 19	2018: 18	2017: 19
+Công nghệ kỹ thuật ô tô	A01	2019: 19	2018: 18	2017: 19
+Công nghệ kỹ thuật ô tô	D01	2019: 19	2018: 18	2017: 19
+Công nghệ kỹ thuật ô tô	D07	2019: 19	2018: 18	2017: 19
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 16	2018: 15.5	2017: 16
+Công nghệ kỹ thuật cơ khí	A01	2019: 16	2018: 15.5	2017: 16
+Công nghệ kỹ thuật cơ khí	D01	2019: 16	2018: 15.5	2017: 16
+Công nghệ kỹ thuật cơ khí	D07	2019: 16	2018: 15.5	2017: 16
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật cơ điện tử	D07	2019: 17	2018: 16	2017: 17.5
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	D01	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật điện tử - viễn thông	D07	2019: 16	2018: 15.5	2017: 17
+Công nghệ kỹ thuật môi trường	A00	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	A01	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	D01	2019: 15	2017: 16
+Công nghệ kỹ thuật môi trường	D07	2019: 15	2018: 14.5	2017: 16
+Công nghệ kỹ thuật môi trường	B00	2018: 14.5

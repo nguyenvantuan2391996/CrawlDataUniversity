@@ -1,0 +1,52 @@
+Ngôn ngữ Anh	A01	2019: 15	2018: 15.5	2017: 19.25
+Ngôn ngữ Anh	D01	2019: 15	2018: 15.5	2017: 19.25
+Ngôn ngữ Anh	D14	2019: 15	2018: 15.5	2017: 19.25
+Ngôn ngữ Anh	D15	2019: 15	2018: 15.5	2017: 19.25
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 15	2018: 15.5	2017: 17.75
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 15	2018: 15.5	2017: 17.75
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 15	2018: 15.5	2017: 17.75
+Quản trị dịch vụ du lịch và lữ hành	D15	2019: 15	2018: 15.5	2017: 17.75
+Việt Nam học	A01	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	D01	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	D14	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	D15	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	A01	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D14	2019: 18
+Việt Nam học	D15	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D14	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D15	2019: 18
+Việt Nam học	A01	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	D01	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	D14	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	D15	2019: 14	2018: 15	2017: 16.5
+Việt Nam học	A01	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D14	2019: 18
+Việt Nam học	D15	2019: 18
+Sư phạm Tiếng Anh	A01	2019: 16	2018: 15	2017: 16
+Sư phạm Tiếng Anh	D01	2019: 16	2018: 15	2017: 16
+Sư phạm Tiếng Anh	D14	2019: 16	2018: 15	2017: 16
+Sư phạm Tiếng Anh	D15	2019: 16	2018: 15	2017: 16
+Sư phạm Tiếng Anh	A01	2019: 19.5
+Sư phạm Tiếng Anh	D01	2019: 19.5
+Sư phạm Tiếng Anh	D14	2019: 19.5
+Sư phạm Tiếng Anh	D15	2019: 19.5
+Hoá học	A00	2019: 14	2018: 15	2017: 15.5
+Hoá học	A01	2019: 14	2018: 15	2017: 15.5
+Hoá học	B00	2019: 14	2018: 15	2017: 15.5
+Hoá học	D07	2019: 14	2018: 15	2017: 15.5
+Sinh học ứng dụng	A00	2019: 14	2018: 15	2017: 15.5
+Sinh học ứng dụng	A01	2019: 14	2018: 15	2017: 15.5
+Sinh học ứng dụng	B00	2019: 14	2018: 15	2017: 15.5
+Sinh học ứng dụng	D07	2019: 14	2018: 15	2017: 15.5
+Sinh học ứng dụng	A00	2019: 16
+Sinh học ứng dụng	A01	2019: 16
+Sinh học ứng dụng	B00	2019: 16
+Sinh học ứng dụng	D07	2019: 16
+Hoá học	A00	2019: 16
+Hoá học	A01	2019: 16
+Hoá học	B00	2019: 16
+Hoá học	D07	2019: 16

@@ -1,0 +1,31 @@
+Quản trị kinh doanh	A01	2019: 18	2018: 16.5	2017: 15.5
+Quản trị kinh doanh	C15	2019: 18	2018: 16.5	2017: 15.5
+Quản trị kinh doanh	D01	2019: 18	2018: 16.5	2017: 15.5
+Quản trị kinh doanh	A00	2018: 16.5	2017: 15.5
+Kinh tế xây dựng	A00	2019: 13	2018: 13
+Kinh tế xây dựng	A01	2019: 13	2018: 13
+Kinh tế xây dựng	A09	2019: 13
+Kinh tế xây dựng	B04	2019: 13
+Kinh tế xây dựng	C01	2018: 13
+Kinh tế xây dựng	D07	2018: 13
+Ngôn ngữ Anh	D14	2019: 19.75	2018: 17
+Ngôn ngữ Anh	D15	2019: 19.75	2018: 17
+Ngôn ngữ Anh	D01	2018: 17
+Công nghệ thông tin	A01	2019: 13.5	2018: 13.5
+Công nghệ thông tin	D07	2019: 13.5
+Công nghệ thông tin	A00	2018: 13.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D10	2019: 18
+Du lịch	A00	2018: 15
+Du lịch	A01	2018: 15
+Du lịch	D01	2018: 15
+Du lịch	D10	2018: 15
+Kỹ thuật điều khiển và tự động hóa	A00	2019: 15
+Kỹ thuật điều khiển và tự động hóa	A01	2019: 15
+Kỹ thuật điều khiển và tự động hóa	A09	2019: 15
+Kỹ thuật điều khiển và tự động hóa	C14	2019: 15
+Kỹ thuật điều khiển và tự động hóa	A00	2019: 15
+Kỹ thuật điều khiển và tự động hóa	A01	2019: 15
+Kỹ thuật điều khiển và tự động hóa	A09	2019: 15
+Kỹ thuật điều khiển và tự động hóa	C14	2019: 15

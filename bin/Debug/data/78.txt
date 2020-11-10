@@ -1,0 +1,156 @@
+Kế toán	A00	2019: 14	2018: 15	2017: 16.5
+Kế toán	A01	2019: 14	2018: 15	2017: 16.5
+Kế toán	B00	2019: 14	2018: 15	2017: 16.5
+Kế toán	D01	2019: 14	2018: 15	2017: 16.5
+Kế toán	A00	2019: 18
+Kế toán	A01	2019: 18
+Kế toán	B00	2019: 18
+Kế toán	D01	2019: 18
+Kinh tế tài nguyên thiên nhiên	A00	2019: 15	2018: 13	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	A01	2019: 15	2018: 13	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	B00	2019: 15	2018: 13	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	D01	2019: 15	2018: 13	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	A01	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	B00	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	D01	2019: 14.5	2018: 13.5
+Quản trị kinh doanh	A00	2019: 18
+Quản trị kinh doanh	A01	2019: 18
+Quản trị kinh doanh	B00	2019: 18
+Quản trị kinh doanh	D01	2019: 18
+Kinh tế tài nguyên thiên nhiên	A00	2019: 18
+Kinh tế tài nguyên thiên nhiên	A01	2019: 18
+Kinh tế tài nguyên thiên nhiên	B00	2019: 18
+Kinh tế tài nguyên thiên nhiên	D01	2019: 18
+Công nghệ thông tin	A00	2019: 14	2018: 14	2017: 16.5
+Công nghệ thông tin	A01	2019: 14	2018: 14	2017: 16.5
+Công nghệ thông tin	B00	2019: 14	2018: 14	2017: 16.5
+Công nghệ thông tin	D01	2019: 14	2018: 14	2017: 16.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	B00	2019: 18
+Công nghệ thông tin	D01	2019: 18
+Luật	A00	2019: 14	2018: 13
+Luật	A01	2019: 14	2018: 13
+Luật	B00	2019: 14	2018: 13
+Luật	D01	2019: 14	2018: 13
+Luật	A00	2019: 18
+Luật	A01	2019: 18
+Luật	B00	2019: 18
+Luật	D01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 14	2018: 15	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 14	2018: 15	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	B00	2019: 14	2018: 15	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 14	2018: 15	2017: 18.5
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	B00	2019: 18
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 18
+Kỹ thuật trắc địa – bản đồ	A00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	A01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	B00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	D01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật địa chất	A00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật địa chất	A01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật địa chất	B00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật địa chất	D01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật địa chất	A00	2019: 18
+Kỹ thuật địa chất	A01	2019: 18
+Kỹ thuật địa chất	B00	2019: 18
+Kỹ thuật địa chất	D01	2019: 18
+Kinh tế tài nguyên thiên nhiên	A00	2019: 15	2018: 13	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	A01	2019: 15	2018: 13	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	B00	2019: 15	2018: 13	2017: 15.5
+Kinh tế tài nguyên thiên nhiên	D01	2019: 15	2018: 13	2017: 15.5
+Quản lý tài nguyên nước	A00	2019: 14.5	2018: 13	2017: 15.5
+Quản lý tài nguyên nước	A01	2019: 14.5	2018: 13	2017: 15.5
+Quản lý tài nguyên nước	B00	2019: 14.5	2018: 13	2017: 15.5
+Quản lý tài nguyên nước	D01	2019: 14.5	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	A00	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	A01	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	B00	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	D01	2019: 14	2018: 13	2017: 15.5
+Quản lý tài nguyên và môi trường	A00	2019: 14	2018: 13.5	2017: 16.5
+Quản lý tài nguyên và môi trường	A01	2019: 14	2018: 13.5	2017: 16.5
+Quản lý tài nguyên và môi trường	B00	2019: 14	2018: 13.5	2017: 16.5
+Quản lý tài nguyên và môi trường	D01	2019: 14	2018: 13.5	2017: 16.5
+Quản lý đất đai	A00	2019: 14	2018: 13.5	2017: 16
+Quản lý đất đai	A01	2019: 14	2018: 13.5	2017: 16
+Quản lý đất đai	B00	2019: 14	2018: 13.5	2017: 16
+Quản lý đất đai	D01	2019: 14	2018: 13.5	2017: 16
+Quản lý biển	A00	2019: 14	2018: 13	2017: 15.5
+Quản lý biển	A01	2019: 14	2018: 13	2017: 15.5
+Quản lý biển	B00	2019: 14	2018: 13	2017: 15.5
+Quản lý biển	D01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	A00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	A01	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	B00	2019: 14	2018: 13	2017: 15.5
+Kỹ thuật trắc địa – bản đồ	D01	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D01	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 13
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 13
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 13
+Công nghệ kỹ thuật môi trường	D01	2019: 14	2018: 13
+Kỹ thuật trắc địa – bản đồ	A00	2019: 14	2018: 13
+Kỹ thuật trắc địa – bản đồ	A01	2019: 14	2018: 13
+Kỹ thuật trắc địa – bản đồ	B00	2019: 14	2018: 13
+Kỹ thuật trắc địa – bản đồ	D01	2019: 14	2018: 13
+Quản lý đất đai	A00	2019: 14	2018: 13
+Quản lý đất đai	A01	2019: 14	2018: 13
+Quản lý đất đai	B00	2019: 14	2018: 13
+Quản lý đất đai	D01	2019: 14	2018: 13
+Quản lý tài nguyên và môi trường	A00	2019: 14
+Quản lý tài nguyên và môi trường	A01	2019: 14
+Quản lý tài nguyên và môi trường	B00	2019: 14
+Quản lý tài nguyên và môi trường	D01	2019: 14
+Khí tượng và khí hậu học	A00	2019: 18
+Khí tượng và khí hậu học	A01	2019: 18
+Khí tượng và khí hậu học	B00	2019: 18
+Khí tượng và khí hậu học	D01	2019: 18
+Kinh tế tài nguyên thiên nhiên	A00	2019: 18
+Kinh tế tài nguyên thiên nhiên	A01	2019: 18
+Kinh tế tài nguyên thiên nhiên	B00	2019: 18
+Kinh tế tài nguyên thiên nhiên	D01	2019: 18
+Quản lý tài nguyên nước	A00	2019: 18
+Quản lý tài nguyên nước	A01	2019: 18
+Quản lý tài nguyên nước	B00	2019: 18
+Quản lý tài nguyên nước	D01	2019: 18
+Quản lý biển	A00	2019: 18
+Quản lý biển	A01	2019: 18
+Quản lý biển	B00	2019: 18
+Quản lý biển	D01	2019: 18
+Biến đổi khí hậu và phát triển bền vững	A00	2019: 15.5	2018: 13	2017: 15.5
+Biến đổi khí hậu và phát triển bền vững	A01	2019: 15.5	2018: 13	2017: 15.5
+Biến đổi khí hậu và phát triển bền vững	B00	2019: 15.5	2018: 13	2017: 15.5
+Biến đổi khí hậu và phát triển bền vững	D01	2019: 15.5	2018: 13	2017: 15.5
+Thủy văn học	A00	2019: 14	2018: 13	2017: 15.5
+Thủy văn học	A01	2019: 14	2018: 13	2017: 15.5
+Thủy văn học	B00	2019: 14	2018: 13	2017: 15.5
+Thủy văn học	D01	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	A00	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	A01	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	B00	2019: 14	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	D01	2019: 14	2018: 13	2017: 15.5
+Khí tượng thủy văn biển	A00	2018: 13	2017: 15.5
+Khí tượng thủy văn biển	A01	2018: 13	2017: 15.5
+Khí tượng thủy văn biển	B00	2018: 13	2017: 15.5
+Khí tượng thủy văn biển	D01	2018: 13	2017: 15.5
+Khí tượng và khí hậu học	A00	2019: 18
+Khí tượng và khí hậu học	A01	2019: 18
+Khí tượng và khí hậu học	B00	2019: 18
+Khí tượng và khí hậu học	D01	2019: 18
+Thuỷ văn học	A00	2019: 18
+Thuỷ văn học	A01	2019: 18
+Thuỷ văn học	B00	2019: 18
+Thuỷ văn học	D01	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	A00	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	A01	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	B00	2019: 18
+Biến đổi khí hậu và Phát triển bền vững	D01	2019: 18
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D01	2019: 14	2018: 13	2017: 15.5

@@ -1,0 +1,12 @@
+Công nghệ thông tin	A00	2018: 21.7	2017: 24.5
+Công nghệ thông tin	A01	2018: 21.7	2017: 24.5
+Khoa học máy tính	A00	2018: 20
+Khoa học máy tính	A01	2018: 20
+Kỹ thuật điện tử - viễn thông	A00	2018: 18.1
+Kỹ thuật điện tử - viễn thông	A01	2018: 18.1
+Kỹ thuật điều khiển và tự động hoá	A00	2018: 19.6	2017: 22.25
+Kỹ thuật điều khiển và tự động hoá	A01	2018: 19.6	2017: 22.25
+Kỹ thuật cơ điện tử	A00	2018: 19.1	2017: 22
+Kỹ thuật cơ điện tử	A01	2018: 19.1	2017: 22
+Kỹ thuật điều khiển và tự động hoá	A00	2018: 19.6	2017: 22.25
+Kỹ thuật điều khiển và tự động hoá	A01	2018: 19.6	2017: 22.25

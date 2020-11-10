@@ -1,0 +1,156 @@
+Kế toán	A00	2019: 14	2018: 14	2017: 15.5
+Kế toán	A01	2019: 14	2018: 14	2017: 15.5
+Kế toán	C01	2019: 14	2018: 14	2017: 15.5
+Kế toán	D01	2019: 14	2018: 14	2017: 15.5
+Kế toán	A00	2019: 16.5
+Kế toán	A01	2019: 16.5
+Kế toán	C01	2019: 16.5
+Kế toán	D01	2019: 16.5
+Tài chính Ngân hàng	A00	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	C01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 14	2018: 14	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 16.5
+Tài chính Ngân hàng	A01	2019: 16.5
+Tài chính Ngân hàng	C01	2019: 16.5
+Tài chính Ngân hàng	D01	2019: 16.5
+Kinh tế	A00	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	C01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	D01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	A01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	C01	2019: 14	2018: 14	2017: 15.5
+Quản trị kinh doanh	D01	2019: 14	2018: 14	2017: 15.5
+Kinh tế	A00	2019: 16.5
+Kinh tế	A01	2019: 16.5
+Kinh tế	C01	2019: 16.5
+Kinh tế	D01	2019: 16.5
+Quản trị kinh doanh	A00	2019: 16.5
+Quản trị kinh doanh	A01	2019: 16.5
+Quản trị kinh doanh	C01	2019: 16.5
+Quản trị kinh doanh	D01	2019: 16.5
+Ngôn ngữ Trung Quốc	D01	2019: 23	2017: 20.5
+Ngôn ngữ Trung Quốc	D03	2019: 23	2017: 20.5
+Ngôn ngữ Trung Quốc	D04	2019: 23	2017: 20.5
+Ngôn ngữ Trung Quốc	D06	2019: 23
+Ngôn ngữ Trung Quốc	D04 (Môn chính: Tiếng Trung).	2018: 18.5
+Ngôn ngữ Trung Quốc	D03 (Môn chính: Tiếng Pháp)	2018: 18.5
+Ngôn ngữ Trung Quốc		2018: 18.5
+Ngôn ngữ Trung Quốc	D02 (Môn chính: Tiếng Nga)	2018: 18.5
+Ngôn ngữ Trung Quốc	D01 (Môn chính: Tiếng Anh)	2018: 18.5
+Ngôn ngữ Trung Quốc	D02	2017: 20.5
+Ngôn ngữ Anh	A01	2019: 18.5	2018: 18.5	2017: 20.5
+Ngôn ngữ Anh	D01	2019: 18.5	2018: 18.5	2017: 20.5
+Ngôn ngữ Anh	D06	2019: 18.5
+Ngôn ngữ Anh	D15	2019: 18.5	2017: 20.5
+Ngôn ngữ Anh	D14	2018: 18.5	2017: 20.5
+Ngôn ngữ Anh	D15 (Môn chính: Tiếng Anh)	2018: 18.5
+Công nghệ thông tin	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ thông tin	A00	2019: 16.5
+Công nghệ thông tin	A01	2019: 16.5
+Công nghệ thông tin	C01	2019: 16.5
+Công nghệ thông tin	D01	2019: 16.5
+Công nghệ kỹ thuật xây dựng	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật xây dựng	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật xây dựng	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A00	2019: 16.5
+Công nghệ kỹ thuật xây dựng	A01	2019: 16.5
+Công nghệ kỹ thuật xây dựng	C01	2019: 16.5
+Công nghệ kỹ thuật xây dựng	D01	2019: 16.5
+Việt Nam học	C00	2019: 16	2018: 15	2017: 15.5
+Việt Nam học	D01	2019: 16	2018: 15	2017: 15.5
+Việt Nam học	D06	2019: 16
+Việt Nam học	D15	2019: 16	2018: 15	2017: 15.5
+Việt Nam học	D14	2018: 15	2017: 15.5
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D06	2019: 18
+Việt Nam học	D15	2019: 18
+Việt Nam học	C00	2019: 16	2018: 15	2017: 15.5
+Việt Nam học	D01	2019: 16	2018: 15	2017: 15.5
+Việt Nam học	D06	2019: 16
+Việt Nam học	D15	2019: 16	2018: 15	2017: 15.5
+Việt Nam học	D14	2018: 15	2017: 15.5
+Công tác xã hội	C00	2019: 14	2018: 14	2017: 15.5
+Công tác xã hội	C01	2019: 14	2018: 14	2017: 15.5
+Công tác xã hội	C02	2019: 14	2018: 14	2017: 15.5
+Công tác xã hội	D01	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	C00	2019: 18
+Việt Nam học	D01	2019: 18
+Việt Nam học	D06	2019: 18
+Việt Nam học	D15	2019: 18
+Công tác xã hội	C00	2019: 16.5
+Công tác xã hội	C01	2019: 16.5
+Công tác xã hội	C02	2019: 16.5
+Công tác xã hội	D01	2019: 16.5
+Sư phạm Tiếng Anh	A01	2019: 21	2018: 20	2017: 20.5
+Sư phạm Tiếng Anh	D01	2019: 21	2018: 20	2017: 20.5
+Sư phạm Tiếng Anh	D06	2019: 21	2017: 20.5
+Sư phạm Tiếng Anh	D15	2019: 21
+Sư phạm Tiếng Anh	D14	2018: 20	2017: 20.5
+Sư phạm Tiếng Anh	D15 (Môn chính: Tiếng Anh)	2018: 20
+Giáo dục Chính trị	A00	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	B00	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C14	2019: 18	2018: 17	2017: 15.5
+Giáo dục Chính trị	C15	2019: 18	2018: 17	2017: 15.5
+Khoa học cây trồng	A00	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	B00	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	C02	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	D01	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	A00	2019: 16.5
+Khoa học cây trồng	B00	2019: 16.5
+Khoa học cây trồng	C02	2019: 16.5
+Khoa học cây trồng	D01	2019: 16.5
+Công nghệ chế tạo máy	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ chế tạo máy	A00	2019: 16.5
+Công nghệ chế tạo máy	A01	2019: 16.5
+Công nghệ chế tạo máy	C01	2019: 16.5
+Công nghệ chế tạo máy	D01	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	C01	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	C01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 14	2018: 14	2017: 15.5
+Công nghệ kỹ thuật cơ điện tử	A00	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	A01	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	C01	2019: 16.5
+Công nghệ kỹ thuật cơ điện tử	D01	2019: 16.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 16.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 16.5
+Công nghệ kỹ thuật điện, điện tử	C01	2019: 16.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 16.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 16.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 16.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	C01	2019: 16.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 16.5
+Khoa học cây trồng	A00	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	B00	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	C02	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	D01	2019: 17	2018: 22	2017: 22
+Khoa học cây trồng	A00	2019: 16.5
+Khoa học cây trồng	B00	2019: 16.5
+Khoa học cây trồng	C02	2019: 16.5
+Khoa học cây trồng	D01	2019: 16.5

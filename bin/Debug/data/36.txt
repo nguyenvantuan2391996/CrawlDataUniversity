@@ -1,0 +1,53 @@
+Kế toán	A00	2019: 16.5	2018: 15.5	2017: 16
+Kế toán	A01	2019: 16.5	2018: 15.5	2017: 16
+Kế toán	A16	2019: 16.5	2018: 15.5	2017: 16
+Kế toán	D01	2019: 16.5	2018: 15.5	2017: 16
+Kiểm toán	A00	2019: 16.5	2018: 15.5	2017: 15.5
+Kiểm toán	A01	2019: 16.5	2018: 15.5	2017: 15.5
+Kiểm toán	A16	2019: 16.5	2018: 15.5	2017: 15.5
+Kiểm toán	D01	2019: 16.5	2018: 15.5	2017: 15.5
+Tài chính Ngân hàng	A00	2019: 15	2018: 14.5	2017: 15.5
+Tài chính Ngân hàng	D01	2019: 15	2018: 14.5	2017: 15.5
+Tài chính Ngân hàng	D03	2019: 15	2018: 14.5	2017: 15.5
+Tài chính Ngân hàng	D90	2019: 15
+Tài chính - Ngân hàng	A01	2018: 14.5	2017: 15.5
+Quản trị kinh doanh	A00	2019: 18	2018: 16.5	2017: 16
+Quản trị kinh doanh	A01	2019: 18	2018: 16.5	2017: 16
+Quản trị kinh doanh	C15	2019: 18	2018: 16.5	2017: 16
+Quản trị kinh doanh	D01	2019: 18	2018: 16.5	2017: 16
+Kinh doanh thương mại	A00	2019: 16	2018: 14.5	2017: 15.5
+Kinh doanh thương mại	A01	2019: 16	2018: 14.5	2017: 15.5
+Kinh doanh thương mại	C15	2019: 16	2018: 14.5	2017: 15.5
+Kinh doanh thương mại	D01	2019: 16	2018: 14.5	2017: 15.5
+Thương mại điện tử	A00	2019: 16	2018: 14.5
+Thương mại điện tử	A01	2019: 16	2018: 14.5
+Thương mại điện tử	C15	2019: 16	2018: 14.5
+Thương mại điện tử	D01	2019: 16	2018: 14.5
+Kinh tế	A00	2019: 14	2018: 13	2017: 15.5
+Kinh tế	A01	2019: 14	2018: 13	2017: 15.5
+Kinh tế	A16	2019: 14	2018: 13	2017: 15.5
+Kinh tế	D01	2019: 14	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	A00	2019: 14	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	A01	2019: 14	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	A16	2019: 14	2018: 13	2017: 15.5
+Hệ thống thông tin quản lý	D01	2019: 14	2018: 13	2017: 15.5
+Kinh doanh nông nghiệp	A00	2019: 14	2018: 13	2017: 15.5
+Kinh doanh nông nghiệp	A01	2019: 14	2018: 13	2017: 15.5
+Kinh doanh nông nghiệp	A16	2019: 14	2018: 13	2017: 15.5
+Kinh doanh nông nghiệp	D01	2019: 14	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	A00	2019: 14	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	A01	2019: 14	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	A16	2019: 14	2018: 13	2017: 15.5
+Kinh tế nông nghiệp	D01	2019: 14	2018: 13	2017: 15.5
+Song ngành Kinh tế - Tài chính (liên kết)	A00	2019: 14	2018: 13
+Song ngành Kinh tế - Tài chính (liên kết)	A01	2019: 14	2018: 13
+Song ngành Kinh tế - Tài chính (liên kết)	A16	2019: 14	2018: 13
+Song ngành Kinh tế - Tài chính (liên kết)	D01	2019: 14	2018: 13
+Marketing	A00	2019: 18	2018: 16.5	2017: 15.5
+Marketing	A01	2019: 18	2018: 16.5	2017: 15.5
+Marketing	C15	2019: 18	2018: 16.5	2017: 15.5
+Marketing	D01	2019: 18	2018: 16.5	2017: 15.5
+Quản trị nhân lực	A00	2019: 18	2018: 16.5	2017: 15.5
+Quản trị nhân lực	A01	2019: 18	2018: 16.5	2017: 15.5
+Quản trị nhân lực	C15	2019: 18	2018: 16.5	2017: 15.5
+Quản trị nhân lực	D01	2019: 18	2018: 16.5	2017: 15.5

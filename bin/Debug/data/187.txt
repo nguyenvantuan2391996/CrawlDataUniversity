@@ -1,0 +1,9 @@
+Công nghệ thông tin	A00	2019: 15	2017: 15.5
+Công nghệ thông tin	A01	2019: 15	2017: 15.5
+Công nghệ thông tin	A02	2019: 15
+Công nghệ thông tin	D01	2019: 15
+Công nghệ thông tin	A04	2017: 15.5
+Giáo dục học	A00	2019: 15	2017: 17
+Giáo dục học	B00	2019: 15	2017: 17
+Giáo dục học	C00	2019: 15	2017: 17
+Giáo dục học	D01	2019: 15	2017: 17

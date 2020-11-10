@@ -1,0 +1,105 @@
+Kế toán	A00	2019: 13.5	2018: 13	2017: 15.5
+Kế toán	A01	2019: 13.5	2018: 13	2017: 15.5
+Kế toán	B00	2019: 13.5	2018: 13	2017: 15.5
+Kế toán	D01	2019: 13.5	2018: 13	2017: 15.5
+Kế toán	A00	2019: 15
+Kế toán	A01	2019: 15
+Kế toán	B00	2019: 15
+Kế toán	D01	2019: 15
+Quản trị kinh doanh	A00	2019: 13.5	2018: 13	2017: 15.5
+Quản trị kinh doanh	A01	2019: 13.5	2018: 13	2017: 15.5
+Quản trị kinh doanh	B00	2019: 13.5	2018: 13	2017: 15.5
+Quản trị kinh doanh	D01	2019: 13.5	2018: 13	2017: 15.5
+Quản trị kinh doanh	A00	2019: 15
+Quản trị kinh doanh	A01	2019: 15
+Quản trị kinh doanh	B00	2019: 15
+Quản trị kinh doanh	D01	2019: 15
+Ngôn ngữ Anh	A01	2019: 13.5	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D01	2019: 13.5	2018: 13	2017: 15.5
+Ngôn ngữ Anh	D07	2019: 13.5	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 13.5	2018: 13	2017: 15.5
+Ngôn ngữ Anh	A00	2018: 13
+Ngôn ngữ Anh	A01	2019: 15
+Ngôn ngữ Anh	D01	2019: 15
+Ngôn ngữ Anh	D07	2019: 15
+Ngôn ngữ Anh	D14	2019: 15
+Công nghệ thông tin	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thông tin	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thông tin	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thông tin	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ thông tin	A00	2019: 15
+Công nghệ thông tin	A01	2019: 15
+Công nghệ thông tin	B00	2019: 15
+Công nghệ thông tin	D01	2019: 15
+Công nghệ kỹ thuật môi trường	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 15
+Công nghệ kỹ thuật môi trường	A01	2019: 15
+Công nghệ kỹ thuật môi trường	B00	2019: 15
+Công nghệ kỹ thuật môi trường	D01	2019: 15
+Công nghệ kỹ thuật cơ khí	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật cơ khí	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật ô tô	A00	2019: 13.5
+Công nghệ kỹ thuật ô tô	A01	2019: 13.5
+Công nghệ kỹ thuật ô tô	B00	2019: 13.5
+Công nghệ kỹ thuật ô tô	D01	2019: 13.5
+Công nghệ kỹ thuật cơ khí	A00	2019: 15
+Công nghệ kỹ thuật cơ khí	A01	2019: 15
+Công nghệ kỹ thuật cơ khí	B00	2019: 15
+Công nghệ kỹ thuật cơ khí	D01	2019: 15
+Công nghệ kỹ thuật ô tô	A00	2019: 15
+Công nghệ kỹ thuật ô tô	A01	2019: 15
+Công nghệ kỹ thuật ô tô	B00	2019: 15
+Công nghệ kỹ thuật ô tô	D01	2019: 15
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 15
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 15
+Công nghệ kỹ thuật điện, điện tử	B00	2019: 15
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 15
+Công nghệ kỹ thuật điều khiển và tự động hóa	A00	2019: 15
+Công nghệ kỹ thuật điều khiển và tự động hóa	A01	2019: 15
+Công nghệ kỹ thuật điều khiển và tự động hóa	B00	2019: 15
+Công nghệ kỹ thuật điều khiển và tự động hóa	D01	2019: 15
+Công nghệ sinh học	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ sinh học	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ sinh học	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ sinh học	D01	2019: 13.5	2018: 13	2017: 15.5
+Hoá học	A00	2019: 13.5	2018: 13	2017: 15.5
+Hoá học	A01	2019: 13.5	2018: 13	2017: 15.5
+Hoá học	B00	2019: 13.5	2018: 13	2017: 15.5
+Hoá học	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật hoá học	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật hoá học	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật hoá học	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật hoá học	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ kỹ thuật môi trường	D01	2019: 13.5	2018: 13	2017: 15.5
+Công nghệ sinh học	A00	2019: 15
+Công nghệ sinh học	A01	2019: 15
+Công nghệ sinh học	B00	2019: 15
+Công nghệ sinh học	D01	2019: 15
+Hoá học	A00	2019: 15
+Hoá học	A01	2019: 15
+Hoá học	B00	2019: 15
+Hoá học	D01	2019: 15
+Công nghệ kỹ thuật hoá học	A00	2019: 15
+Công nghệ kỹ thuật hoá học	A01	2019: 15
+Công nghệ kỹ thuật hoá học	B00	2019: 15
+Công nghệ kỹ thuật hoá học	D01	2019: 15
+Công nghệ kỹ thuật môi trường	A00	2019: 15
+Công nghệ kỹ thuật môi trường	A01	2019: 15
+Công nghệ kỹ thuật môi trường	B00	2019: 15
+Công nghệ kỹ thuật môi trường	D01	2019: 15

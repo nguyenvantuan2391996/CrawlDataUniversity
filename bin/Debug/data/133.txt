@@ -1,0 +1,24 @@
+Quản trị kinh doanh	A01	2019: 19	2018: 15
+Quản trị kinh doanh	D01	2019: 19	2018: 15
+Quản trị kinh doanh	D08	2019: 19
+Quản trị kinh doanh	D90	2019: 19
+Quản trị kinh doanh (Quản trị nhà hàng - khách sạn)	A00	2018: 15
+Quản trị kinh doanh (Quản trị nhà hàng - khách sạn)	B00	2018: 15
+Ngôn ngữ Anh	A01	2019: 19	2018: 15
+Ngôn ngữ Anh	D01	2019: 19	2018: 15
+Ngôn ngữ Anh	D08	2019: 19
+Ngôn ngữ Anh	D90	2019: 19
+Ngôn ngữ Anh	B00	2018: 15
+Ngôn ngữ Anh	C00	2018: 15
+Y khoa	B00	2019: 21	2018: 18
+Y khoa	D08	2019: 21
+Y khoa	D90	2019: 21	2018: 18
+Y khoa	D91	2019: 21	2018: 18
+Điều dưỡng	B00	2019: 19
+Điều dưỡng	D08	2019: 19
+Điều dưỡng	D90	2019: 19
+Điều dưỡng	D91	2019: 19
+Kỹ thuật xét nghiệm y học	B00	2019: 19
+Kỹ thuật xét nghiệm y học	D08	2019: 19
+Kỹ thuật xét nghiệm y học	D90	2019: 19
+Kỹ thuật xét nghiệm y học	D91	2019: 19

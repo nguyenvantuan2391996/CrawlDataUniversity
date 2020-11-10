@@ -1,0 +1,52 @@
+Kế toán	A00	2019: 14	2017: 15
+Kế toán	A01	2019: 14	2017: 15
+Kế toán	B00	2019: 14	2017: 15
+Kế toán	D01	2019: 14	2017: 15
+Tài chính Ngân hàng	A00	2019: 14	2017: 15
+Tài chính Ngân hàng	A01	2019: 14	2017: 15
+Tài chính Ngân hàng	B00	2019: 14	2017: 15
+Tài chính Ngân hàng	D01	2019: 14	2017: 15
+Quản trị kinh doanh	A00	2019: 14	2017: 15
+Quản trị kinh doanh	A01	2019: 14	2017: 15
+Quản trị kinh doanh	B00	2019: 14	2017: 15
+Quản trị kinh doanh	D01	2019: 14	2017: 15
+Ngôn ngữ Trung Quốc	A01	2019: 15.5	2017: 15
+Ngôn ngữ Trung Quốc	D01	2019: 15.5	2017: 15
+Ngôn ngữ Trung Quốc	D14	2019: 15.5
+Ngôn ngữ Trung Quốc	D15	2019: 15.5
+Ngôn ngữ Anh	A01	2019: 14	2017: 15
+Ngôn ngữ Anh	D01	2019: 14	2017: 15
+Ngôn ngữ Anh	D14	2019: 14
+Ngôn ngữ Anh	D15	2019: 14
+Công nghệ thông tin	A00	2019: 14	2017: 15
+Công nghệ thông tin	A01	2019: 14	2017: 15
+Công nghệ thông tin	B00	2019: 14	2017: 15
+Công nghệ thông tin	D01	2019: 14	2017: 15
+Thiết kế đồ họa	H00	2019: 15.5
+Thiết kế đồ họa	V00	2019: 15.5
+Thiết kế đồ họa	V01	2019: 15.5
+Thiết kế đồ họa	V02	2019: 15.5
+Quy hoạch vùng và đô thị	A01	2019: 14
+Quy hoạch vùng và đô thị	V00	2019: 14	2017: 16
+Quy hoạch vùng và đô thị	V01	2019: 14	2017: 16
+Quy hoạch vùng và đô thị	V02	2019: 14	2017: 16
+Kỹ thuật xây dựng	A00	2019: 14	2017: 15
+Kỹ thuật xây dựng	A01	2019: 14	2017: 15
+Kỹ thuật xây dựng	B00	2019: 14	2017: 15
+Kỹ thuật xây dựng	D01	2019: 14	2017: 15
+Kỹ thuật xây dựng công trình giao thông	A00	2019: 14	2017: 15
+Kỹ thuật xây dựng công trình giao thông	A01	2019: 14	2017: 15
+Kỹ thuật xây dựng công trình giao thông	B00	2019: 14	2017: 15
+Kỹ thuật xây dựng công trình giao thông	D01	2019: 14	2017: 15
+Kỹ thuật cơ sở hạ tầng	A00	2019: 14
+Kỹ thuật cơ sở hạ tầng	A01	2019: 14
+Kỹ thuật cơ sở hạ tầng	B00	2019: 14
+Kỹ thuật cơ sở hạ tầng	D01	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	A00	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	A01	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	B00	2019: 14
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 14
+Công nghệ kỹ thuật điện, điện tử	A00	2019: 14	2017: 15
+Công nghệ kỹ thuật điện, điện tử	A01	2019: 14	2017: 15
+Công nghệ kỹ thuật điện, điện tử	B00	2019: 14	2017: 15
+Công nghệ kỹ thuật điện, điện tử	D01	2019: 14	2017: 15

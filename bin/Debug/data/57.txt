@@ -1,0 +1,167 @@
+Kế toán	A00	2019: 15	2018: 15	2017: 15.5
+Kế toán	A01	2019: 15	2018: 15	2017: 15.5
+Kế toán	D01	2019: 15	2018: 15	2017: 15.5
+Kế toán	D96.	2019: 15	2018: 15
+Kế toán	D96	2017: 15.5
+Kế toán	A00	2019: 20
+Kế toán	A01	2019: 20
+Kế toán	D01	2019: 20
+Kế toán	D96	2019: 20
+Quản trị kinh doanh	A00	2019: 16	2018: 16	2017: 17
+Quản trị kinh doanh	A01	2019: 16	2018: 16	2017: 17
+Quản trị kinh doanh	D01	2019: 16	2018: 16	2017: 17
+Quản trị kinh doanh	D96.	2019: 16	2018: 16
+Quản trị kinh doanh	D96	2017: 17
+Quản trị kinh doanh	A00	2019: 20
+Quản trị kinh doanh	A01	2019: 20
+Quản trị kinh doanh	D01	2019: 20
+Quản trị kinh doanh	D96	2019: 20
+Ngôn ngữ Anh	D01	2019: 15	2018: 16	2017: 17
+Ngôn ngữ Anh	D72	2019: 15	2018: 16	2017: 17
+Ngôn ngữ Anh	D96.	2019: 15	2018: 16
+Ngôn ngữ Anh	D96	2017: 17
+Ngôn ngữ Anh		2017: 17
+Ngôn ngữ Anh	D01	2019: 21
+Ngôn ngữ Anh	D72	2019: 21
+Ngôn ngữ Anh	D96	2019: 21
+Công nghệ thông tin	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	A01	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	D07	2019: 15	2018: 14	2017: 15.5
+Công nghệ thông tin	D90.	2019: 15	2018: 14
+Công nghệ thông tin	D90	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	D90	2017: 15.5
+Công nghệ thông tin	A00	2019: 18
+Công nghệ thông tin	A01	2019: 18
+Công nghệ thông tin	D07	2019: 18
+Công nghệ thông tin	D90	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A12	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D90	2019: 18
+Luật	A00	2019: 16	2018: 17	2017: 19
+Luật	C00	2019: 16	2018: 17	2017: 19
+Luật	C20	2019: 16	2018: 17	2017: 19
+Luật	D01.	2019: 16	2018: 17
+Luật	D01	2017: 19
+Luật	A00	2019: 20
+Luật	C00	2019: 20
+Luật	C20	2019: 20
+Luật	D01	2019: 20
+Quản trị dịch vụ du lịch và lữ hành	D78	2017: 19
+Quản trị dịch vụ du lịch và lữ hành		2017: 19
+Việt Nam học	C00	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D14	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D15	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D78.	2019: 14	2018: 14
+Việt Nam học	D78	2017: 15.5
+Quản trị dịch vụ du lịch và lữ hành	C00	2019: 21
+Quản trị dịch vụ du lịch và lữ hành	C20	2019: 21
+Quản trị dịch vụ du lịch và lữ hành	D01	2019: 21
+Quản trị dịch vụ du lịch và lữ hành	D78	2019: 21
+Việt Nam học	C00	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D14	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D15	2019: 14	2018: 14	2017: 15.5
+Việt Nam học	D78.	2019: 14	2018: 14
+Việt Nam học	D78	2017: 15.5
+Công tác xã hội	C00	2019: 14	2018: 15	2017: 15.5
+Công tác xã hội	C14	2019: 14	2018: 15	2017: 15.5
+Công tác xã hội	D01	2019: 14	2018: 15	2017: 15.5
+Công tác xã hội	D78.	2019: 14	2018: 15
+Công tác xã hội	D78	2017: 15.5
+Xã hội học	C00	2019: 14	2018: 14	2017: 15.5
+Xã hội học	C14	2019: 14	2018: 14	2017: 15.5
+Xã hội học	D01	2019: 14	2018: 14	2017: 15.5
+Xã hội học	D78.	2019: 14	2018: 14
+Xã hội học	D78	2017: 15.5
+Xã hội học	C00	2019: 18
+Xã hội học	C14	2019: 18
+Xã hội học	D01	2019: 18
+Xã hội học	D78	2019: 18
+Công tác xã hội	C00	2019: 18
+Công tác xã hội	C14	2019: 18
+Công tác xã hội	D01	2019: 18
+Công tác xã hội	D78	2019: 18
+Sư phạm Tiếng Anh	D01	2019: 18	2018: 17	2017: 22.5
+Sư phạm Tiếng Anh	D72	2019: 18	2018: 17	2017: 22.5
+Sư phạm Tiếng Anh	D96.	2019: 18	2018: 17
+Sư phạm Tiếng Anh	D96	2017: 22.5
+Sư phạm Tiếng Anh		2017: 22.5
+Sư phạm Tiếng Anh	D01	2019: 24
+Sư phạm Tiếng Anh	D72	2019: 24
+Sư phạm Tiếng Anh	D96	2019: 24
+Khoa học môi trường	A00	2019: 18	2018: 14	2017: 15.5
+Khoa học môi trường	B00	2019: 18	2018: 14	2017: 15.5
+Khoa học môi trường	D08	2019: 18	2018: 14	2017: 15.5
+Khoa học môi trường	D90.	2019: 18	2018: 14
+Khoa học môi trường	D90	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	D08	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	D90.	2019: 15	2018: 14
+Công nghệ sau thu hoạch	D90	2017: 15.5
+Nông học	B00	2019: 15	2018: 14	2017: 15.5
+Nông học	D07	2019: 15	2018: 14	2017: 15.5
+Nông học	D08	2019: 15	2018: 14	2017: 15.5
+Nông học	D90.	2019: 15	2018: 14
+Nông học	D90	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 18
+Công nghệ sau thu hoạch	B00	2019: 18
+Công nghệ sau thu hoạch	D08	2019: 18
+Công nghệ sau thu hoạch	D90	2019: 18
+Nông học	B00	2019: 18
+Nông học	D07	2019: 18
+Nông học	D08	2019: 18
+Nông học	D90	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D90	2017: 15.5
+Công nghệ kỹ thuật điện tử - viễn thông	A00	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A01	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	A12	2019: 18
+Công nghệ kỹ thuật điện tử - viễn thông	D90	2019: 18
+Công nghệ sau thu hoạch	A00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	B00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	D08	2019: 15	2018: 14	2017: 15.5
+Công nghệ sau thu hoạch	D90.	2019: 15	2018: 14
+Công nghệ sau thu hoạch	D90	2017: 15.5
+Công nghệ sau thu hoạch	A00	2019: 18
+Công nghệ sau thu hoạch	B00	2019: 18
+Công nghệ sau thu hoạch	D08	2019: 18
+Công nghệ sau thu hoạch	D90	2019: 18
+Sinh học	A00	2019: 18
+Sinh học	B00	2019: 18	2018: 14	2017: 15.5
+Sinh học	D08	2019: 18	2018: 14	2017: 15.5
+Sinh học	D90.	2019: 18	2018: 14
+Sinh học	A14	2018: 14	2017: 15.5
+Sinh học	D90	2017: 15.5
+Hóa học	A00	2019: 15	2018: 14	2017: 15.5
+Hóa học	B00	2019: 15	2018: 14	2017: 15.5
+Hóa học	D07	2019: 15	2018: 14	2017: 15.5
+Hóa học	D90.	2019: 15	2018: 14
+Hoá học	D90	2017: 15.5
+Công nghệ sinh học	A00	2019: 15
+Công nghệ sinh học	B00	2019: 15	2018: 14	2017: 15.5
+Công nghệ sinh học	D08	2019: 15	2018: 14	2017: 15.5
+Công nghệ sinh học	D90.	2019: 15	2018: 14
+Công nghệ sinh học	A14	2018: 14	2017: 15.5
+Công nghệ sinh học	D90	2017: 15.5
+Công nghệ sinh học	A00	2019: 18
+Công nghệ sinh học	B00. D08	2019: 18
+Công nghệ sinh học	D90	2019: 18
+Hoá học	A00	2019: 18
+Hoá học	B00	2019: 18
+Hoá học	D07	2019: 18
+Hoá học	D90	2019: 18
+Kỹ thuật hạt nhân	A00	2019: 18	2018: 15	2017: 17
+Kỹ thuật hạt nhân	A01	2019: 18	2018: 15	2017: 17
+Kỹ thuật hạt nhân	D90.	2019: 18	2018: 15
+Kỹ thuật hạt nhân	D90	2017: 17
+Kỹ thuật hạt nhân		2017: 17
+Toán học	A00	2019: 18	2018: 14	2017: 15.5
+Toán học	A01	2019: 18	2018: 14	2017: 15.5
+Toán học	D07	2019: 18	2018: 14	2017: 15.5
+Toán học	D90.	2019: 18	2018: 14
+Toán học	D90	2017: 15.5
+Vật lý học	A00	2019: 18	2018: 14	2017: 15.5
+Vật lý học	A01	2019: 18	2018: 14	2017: 15.5
+Vật lý học	A12	2019: 18	2018: 14	2017: 15.5
+Vật lý học	D90.	2019: 18	2018: 14
+Vật lý học	D90	2017: 15.5

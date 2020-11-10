@@ -1,0 +1,59 @@
+Kế toán	A00	2019: 14	2018: 20	2017: 15.5
+Kế toán	A01	2019: 14	2018: 20	2017: 15.5
+Kế toán	D01	2019: 14	2018: 20	2017: 15.5
+Kế toán	D07	2019: 14	2018: 20
+Kế toán	D15	2017: 15.5
+Quản trị kinh doanh	A00	2019: 14
+Quản trị kinh doanh	A01	2019: 14
+Quản trị kinh doanh	D01	2019: 14
+Quản trị kinh doanh	D07	2019: 14
+Ngôn ngữ Anh	D01	2019: 14	2018: 19	2017: 15.5
+Ngôn ngữ Anh	D14	2019: 14	2018: 19	2017: 15.5
+Ngôn ngữ Anh	D15	2019: 14	2018: 19	2017: 15.5
+Công nghệ thông tin	A00	2019: 14	2018: 21	2017: 15.5
+Công nghệ thông tin	A01	2019: 14	2018: 21	2017: 15.5
+Công nghệ thông tin	D01	2019: 14	2018: 21	2017: 15.5
+Công nghệ thông tin	D07	2019: 14	2018: 21	2017: 15.5
+Luật	A00	2019: 14
+Luật	C00	2019: 14
+Luật	D01	2019: 14
+Luật	D14	2019: 14
+Công nghệ kỹ thuật xây dựng	A00	2019: 14	2018: 16	2017: 15.5
+Công nghệ kỹ thuật xây dựng	A01	2019: 14	2018: 16	2017: 15.5
+Công nghệ kỹ thuật xây dựng	D07	2019: 14	2018: 16	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	D07	2019: 14	2018: 15	2017: 15.5
+Quản lý tài nguyên và môi trường	A00	2019: 14
+Quản lý tài nguyên và môi trường	A01	2019: 14
+Quản lý tài nguyên và môi trường	B00	2019: 14
+Quản lý tài nguyên và môi trường	D07	2019: 14
+Chăn nuôi	A00	2019: 14
+Chăn nuôi	A01	2019: 14
+Chăn nuôi	B00	2019: 14
+Chăn nuôi	D07	2019: 14
+Khoa học cây trồng	A00	2019: 14	2018: 15	2017: 15.5
+Khoa học cây trồng	A01	2019: 14	2018: 15	2017: 15.5
+Khoa học cây trồng	B00	2019: 14	2018: 15	2017: 15.5
+Khoa học cây trồng	D07	2019: 14	2018: 15	2017: 15.5
+Nuôi trồng thuỷ sản	A00	2019: 14	2018: 15	2017: 15.5
+Nuôi trồng thuỷ sản	A01	2019: 14	2018: 15	2017: 15.5
+Nuôi trồng thuỷ sản	B00	2019: 14	2018: 15	2017: 15.5
+Nuôi trồng thuỷ sản	D07	2019: 14	2018: 15	2017: 15.5
+Chăn nuôi	A00	2019: 14
+Chăn nuôi	A01	2019: 14
+Chăn nuôi	B00	2019: 14
+Chăn nuôi	D07	2019: 14
+Khoa học cây trồng	A00	2019: 14	2018: 15	2017: 15.5
+Khoa học cây trồng	A01	2019: 14	2018: 15	2017: 15.5
+Khoa học cây trồng	B00	2019: 14	2018: 15	2017: 15.5
+Khoa học cây trồng	D07	2019: 14	2018: 15	2017: 15.5
+Công nghệ sinh học	A00	2019: 14	2018: 15	2017: 15.5
+Công nghệ sinh học	A01	2019: 14	2018: 15	2017: 15.5
+Công nghệ sinh học	B00	2019: 14	2018: 15	2017: 15.5
+Công nghệ sinh học	D07	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A00	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	A01	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	B00	2019: 14	2018: 15	2017: 15.5
+Công nghệ kỹ thuật môi trường	D07	2019: 14	2018: 15	2017: 15.5
